@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=bottom,variant=arcane": { "model": "thaumcraft:arcane_stone" },
+        "half=top,variant=arcane": { "model": "thaumcraft:arcane_stone" },
+        "half=bottom,variant=arcane_brick": { "model": "thaumcraft:arcane_brick_stone" },
+        "half=top,variant=arcane_brick": { "model": "thaumcraft:arcane_brick_stone" },
+        "half=bottom,variant=ancient": { "model": "thaumcraft:ancient_stone" },
+        "half=top,variant=ancient": { "model": "thaumcraft:ancient_stone" },
+        "half=bottom,variant=eldritch": { "model": "thaumcraft:eldritch_stone" },
+        "half=top,variant=eldritch": { "model": "thaumcraft:eldritch_stone" }
+    }
+}

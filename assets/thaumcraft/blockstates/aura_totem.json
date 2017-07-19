@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "type=push": { "model": "thaumcraft:aura_totem" },
+        "type=pull": { "model": "thaumcraft:aura_totem", 
+            "textures": {
+                "particle": "thaumcraft:blocks/aura_totem_pull",
+                "side": "thaumcraft:blocks/aura_totem_pull"
+             } },
+        "type=pole_inner": { "model": "thaumcraft:aura_totem_pole" },
+        "type=pole_outer": { "model": "thaumcraft:aura_totem_pole", 
+            "textures": {
+                "particle": "thaumcraft:blocks/aura_totem_pole_outer",
+                "side": "thaumcraft:blocks/aura_totem_pole_outer"
+             } },
+        "type=pole_pure": { "model": "thaumcraft:aura_totem_pole", 
+            "textures": {
+                "particle": "thaumcraft:blocks/aura_totem_pole_pure",
+                "side": "thaumcraft:blocks/aura_totem_pole_pure"
+             } }
+    }
+
+}

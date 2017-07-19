@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "infused=air": { "model": "thaumcraft:ore_infused" },
+        "infused=fire": { "model": "thaumcraft:ore_infused" },
+        "infused=earth": { "model": "thaumcraft:ore_infused" },
+        "infused=water": { "model": "thaumcraft:ore_infused" },
+        "infused=order": { "model": "thaumcraft:ore_infused" },
+        "infused=entropy": { "model": "thaumcraft:ore_infused" },
+        "infused=flux": { "model": "thaumcraft:ore_infused" }
+    }
+}

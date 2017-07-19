@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=normal": { "model": "thaumcraft:builtin/tube" },
+        "type=valve": { "model": "thaumcraft:builtin/tube" },
+        "type=oneway": { "model": "thaumcraft:builtin/tube" },
+        "type=restrict": { "model": "thaumcraft:builtin/tube" },
+        "type=filter": { "model": "thaumcraft:builtin/tube" },
+        "type=buffer": { "model": "thaumcraft:builtin/tube" }
+    }
+}

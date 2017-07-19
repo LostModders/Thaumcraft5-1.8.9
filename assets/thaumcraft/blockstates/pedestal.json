@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=normal": { "model": "thaumcraft:pedestal_normal" },
+        "variant=eldritch": { "model": "thaumcraft:pedestal_eldritch" },
+        "variant=ancient": { "model": "thaumcraft:pedestal_ancient" }
+    }
+
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "color=white": { "model": "thaumcraft:candle" },
+        "color=orange": { "model": "thaumcraft:candle", "y": 90 },
+        "color=magenta": { "model": "thaumcraft:candle", "y": 180 },
+        "color=light_blue": { "model": "thaumcraft:candle", "y": 270 },
+        "color=yellow": { "model": "thaumcraft:candle" },
+        "color=lime": { "model": "thaumcraft:candle", "y": 90 },
+        "color=pink": { "model": "thaumcraft:candle", "y": 180 },
+        "color=gray": { "model": "thaumcraft:candle", "y": 270 },
+        "color=silver": { "model": "thaumcraft:candle" },
+        "color=cyan": { "model": "thaumcraft:candle", "y": 90 },
+        "color=purple": { "model": "thaumcraft:candle", "y": 180 },
+        "color=blue": { "model": "thaumcraft:candle", "y": 270 },
+        "color=brown": { "model": "thaumcraft:candle" },
+        "color=green": { "model": "thaumcraft:candle", "y": 90 },
+        "color=red": { "model": "thaumcraft:candle", "y": 180 },
+        "color=black": { "model": "thaumcraft:candle", "y": 270 }
+    }
+}

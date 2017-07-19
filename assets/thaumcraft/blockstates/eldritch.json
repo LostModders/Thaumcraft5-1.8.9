@@ -1,0 +1,11 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "inventory": { "model": "thaumcraft:empty", "transform": "forge:default-block" },      
+        "type=altar": { "model": "thaumcraft:eldritch_stone" },
+        "type=cap": { "model": "thaumcraft:eldritch_stone" },
+        "type=obelisk_base": { "model": "thaumcraft:eldritch_stone" },
+        "type=obelisk_body": { "model": "thaumcraft:eldritch_stone" },
+        "type=crabspawner": { "model": "thaumcraft:crust_stone" }
+    }
+}

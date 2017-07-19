@@ -1,0 +1,302 @@
+5.2.4
+- left in some test fx with the harvest seals. Oops
+- fixed lumber and breaker seals. Turns out they were taking advantage of the bug with tasks getting stuck that I fixed in 5.2.3. Reworked them not to rely on bugs :p
+- climbing golems should be less likely to try and climb whatever they are working on
+- golems are now more likely to try and get next to their target block instead of right in it.
+
+5.2.3
+- fix for possible seal crash on servers
+- tracked down a nasty bug causing golem AI to interrupt itself and 'lose' certain tasks. This effected harvest seals especially and would cause farms to become very slow.
+
+5.2.2
+- new stuff
+- 9 coins can now be crafted into a gold bar
+- totems now properly count all chunks in their inner and outer range as eligible
+- possible fix for golems with the hauler tag occasionally getting stuck holding a ghost item.
+- when sprinting while flying with a thaumostatic harness, vis usage will be greatly increased.
+- fix for infusion crafting speed modifiers (from upgrades and altar types) not being applied
+- changed the way revelations in the outer lands is gained. It is now a secondary research, but should be a lot less buggy. 
+- the Warping effect on gear will now also increase the time it takes for warp events to stop happening after warp is gained.
+- fixed the recipe for sustaining ring enchantment to use the proper metadata value for the water breathing potion. The MC wiki lied to me :(
+- the dioptra now emits a comparator signal based on the aura levels for the current chunk (based on which crystal is placed inside)
+- fiddled with grapple focus syncing a bit. The grapple head might now shift position slightly while you are being pulled as the client and server catches up to each other, but it won't seem to connect to empty air anymore or give 'false' connects.
+- by default filtered seals will now be in blacklist mode and a completely empty white list will not allow anything through (currently empty white lists act like empty black lists which is counter to how most other mods work) 
+- fill seals can now be set to only fill a container if it already contains an item like that
+- empty and provider seals can be set to always leave at least 1 item of a type in their container
+- several small tweaks and bugfixes
+
+5.2.1
+- fixed sword of the zephyr crafting recipe
+- fixed rechargable items causing a crash if placed in recharge pedestal
+- fixed edge-case mod conflict causing seal gui's to break
+- arcane bore now properly detects infusion enchants. I completely forgot it can harvest clusters and such. 
+
+5.2.0
+- API: addition to the seal filtering api involving having filters with stacksizes>0
+- API: added methods to allow checking of redstone signals for seals.
+- many non-wand items powered by vis no longer recharge themselves from the aura. They can hold much more charge than they could before, but require a recharge pedestal (or vis amulet) to recharge.
+- the vis amulet no longer has an internal store of vis. Instead it acts as a portable recharge pedestal for any 'rechargable' item worn (armor, baubles) or held in your hotbar.
+- added a hud element to clearly indicate the charge levels in items. If the charge level remains constant the hud elemenent will hide itself after some time to reduce onscreen clutter. There is a config option to change where on the screen the hud is displayed. 
+- added blast resistant property to some golem materials
+- golems placing blocks via the use seal will block themselves from placing it a lot less now 
+- block breaker seal will now be able to properly filter things like logs
+- block breaker, harvest and lumber seals now check their area 5 times faster
+- chain lighting focus and arcing enchant will now ignore friendly entities you own
+- changed the way elemental tools work behind the scenes and also altered the abilties some of them had. This is still a WIP.
+- added a revised infusion enchantment system based on adding unique 'enchantments' in line with elemental tool abilities.
+- node merging will now only happen serverside and not cause odd desync issues
+- goggles of revealing now require brass in their recipe as intended. The have been repairable with brass instead of a gold for a while now, but looks like I missed the recipe.
+- gears and plates are cheaper to craft now.
+- getting to the simplest golems will no longer require scanning something that isn't extremely obvious.
+- golems can now be dyed light blue
+- seals can now be set to deactivate if they recieve a redstone signal
+- harvest seal will now  attempt to till soil if it was farmland previously, but has turned into dirt
+- the store seals can now be set to infinitely fill (like they currently do) or only fill up to a specific amount in white list mode.
+- provide seal should definitely only take a single item now when you have that setting ticked
+- fixed the oh so incredibly bugged essentia crystalizer. It was using crazy amounts of vis since it was still thinking it was in TC 4 and getting fed CV
+- fixed pech mage trading crash bug
+- pechs now only trade for things worth at least 2 lucrum 
+- wand textures should now properly update when resourcepacks are loaded/unloaded
+- fixed a huge bug that meant that aura recharge and pollution events where ignoring the world they happened in and just happened in whatever dimension processed them first - usually the overworld.
+- eldritch portal should be visible again
+- thaumcraft mobs now have aspects again
+- made scattershot frost focus a bit more effective at short range
+- flammable things are now flammable
+- vis crystals are now more limited in their spread - only 4 'generations' of growth can occur from a central crystal before spread stops. This is still a fairly large patch, but will prevent caves from being completely overrun by crystals on servers.
+- brain in a jar now retains its xp when picked up
+- added brass lid braces. Placing these on a warded or void jar will prevent essentia being placed in or drawn from the jar by transfusers or infusion crafting
+
+5.1.6
+- fix for seal gui not showing the color you are switching to in SMP. 
+
+5.1.5
+- API: Added ore dictionary entries for vis crystal blocks 
+- API: additional methods for the new golem coloring mechanic
+- golems and seals can now be assigned colors allowing you to limit golems to performing tasks from specific seals. See the thaumonomicon for details.
+- use seal should be a lot less derpy when it comes to using items that can change in their inventory like buckets
+- fixed seal filtering logic. The damage value and nbt checks were either reversed or not working for most seals. My bad
+- aura nodes are now immune to explosions
+- you can now navigate through the thaumonomicon recipe pages using the keyboard
+- new essentia fx
+- flux dust should now be easily harvestable with a shovel
+- stabilizers can now only hold one node at a time - any others will be pushed away
+- fix essentia mirror interactions with transfusers... again.
+- when initially logging into a world you will now be able to combine aspect in the research table that already contained a note without having to remove and replace it
+- magic and essentia mirrors will now build instability slower and will lose instability over time if not used
+- fixed a major bug that was preventing certain things like flux events, seals etc. working in certain dimensions. 
+
+5.1.4
+- builder focus
+- taint events (like flux rain) will no longer trigger in wuss mode
+- added Flux Sponge creative only item to drain flux from the aura
+- provisioning with seals should no longer cause a crash on servers
+- builder and equal trade focus should properly ignore and/or replace liquid blocks
+- made flux events a bit more diverse and not just related to taint. This will be expanded a lot more in future updates
+- added a config setting for those who want to remove some anxiety inducing effects
+- node magnets will now ignore stabilized nodes
+- tweaked golem ranged AI and rebalanced golem dart launchers
+- made research packets passed between client and server on login more robust which should reduce the chances of losing research, warp, etc.
+- fixed up some legacy research loading code that was making a real mess of things
+- seals now follow the normal right-click rules which will allow you to (for example) place them in pedestals for infusion. 
+- infusion recipes that simply added NBT to an item (like the fortress armor mask recipes) should now work again
+- fixed items like the primal crusher not dropping xp for certain harvested items.
+- added support for Botania petal apothecary
+- earth shock upgrade will once again leave the area charged.
+- block breaker seal can be now set to ignore block metadata
+- store seal task generation reworked so there should not be occasions where no task exist for a given seal
+- store seals no longer need to be placed on an inventory. The golem will simply drop the item at the location if no inventory exists.
+- fix for emptying transfusers not being able to work through essentia mirrors
+- fixed node stabilizers occasionally skipping a tick giving other nodes a momentary chance to creep closer
+- fixed many smaller bugs
+
+5.1.3
+- API: A few new functions in regards to foci 
+- fixed infernal furnace draining way too much ignis vis. 
+- harvest, breaker, use and lumberjack seals should now work on servers
+- new focus
+
+5.1.2
+- fixed seal recipes and added a way for addon devs to easily get itemstacks for a specific seal
+- taint fibres should now render again in the latest versions of forge.
+- taint should now show up on maps
+- fixed vis shard projectile rendering crash
+- you no longer need an alembic above the smelter for alembics above attached aux slurry pumps to work
+- tweaked golem reach distance so they wont get stuck being too close to move, but too far to actually interact with their target
+- tubes like the valve now have a proper facing when placed.
+- grapple focus now has a limit to its pulling force to prevent launching players into orbit
+- aggression module is now linked to the proper research and should be craftable
+- rebalanced oculus cost. Now costs 500 instead of 1000 vis 
+- increased boss health 
+
+5.1.1
+- make tooltips fit better on screen
+- prevent levitator golem ticking crashes
+- seals should now be properly visible and synced on servers
+- right clicking on the workbench charger will now open up the workbench below it
+
+5.1.0
+- update to MC 1.8.9 & Baubles 1.1.3.0
+- API: Updated wand trigger registry so a single blockstate can be linked to multiple possible triggers within the same mod
+- API: crucible recipes now also support multiple research keys
+- golems!
+- thaumonomicon browser window should no longer jump to wierd locations after you learn a research note
+- removing hardcoded potion id's and switched over the the new forge system.
+- new focus
+- rebalanced the amount of aspects a fresh research note has. High complexity research will not be as easy anymore.
+- rebalanced costs for crafting that requires xp and vis
+- fixed a focal manipulator exploit
+- lesser cultist portals should now be able to work during the day
+- automated crossbows now better understand short targets
+- frost focus shards bounce less after hitting an entity and the scattershot upgrade should be more effective now
+- nodes should check for neighbours a lot less now which should improve server performance
+- fixed several blocks that broke instantly and/or wasn't harvestable without a pick
+- greatly reduced arcane levitator internal buffer reducing the amount of vis drawn from the aura when it is initially placed and also reduced its operating cost
+- the fact wands now recharge automatically have reduced the need for staves. To make them a bit more useful they now offer a built in 10% vis discount, but have less capacity. In effect, staves and sceptres are almost exactly the same now except one is for foci and the other for crafting.
+- the various elemental wand cores now gives free vis once the capacity in the appropriate element drops below 50%, not 10%
+- repair enchant is now somewhat cheaper on the aura
+- aura thread and a few other optimizations (thanks Tschallacka)
+- bosses can now drop more than one primordial pearl, but recipes that previously did not consume the pearl, now does so.
+- thaumometer with any meta value can now be used in recipes 
+- void jar no longer causes warp when crafted. That is supposed to happen with the brain in a jar.
+- various other small bugfixes and balance changes
+
+5.0.3
+- fixed portable hole focus casting cost changing when used
+- added an indication to thaumometer hud element to make it clearer what the current aura level is vs. the aura base level  
+- increased the chances that a silverwood tree will contain a pure node.
+- sword of the zephyr can now only push living things around like intended
+- completely draining the aura in a chunk will cause a lot less flux now (about 1/5th previous amount)
+- taint can now only replace blocks with greater than 0 and less than 10 hardness
+- added additional sources of auram by changing some existing aspect assignments
+- added config option which allows you to increase the speed at which tainted dust dissipates, and another which lets tainted soil turn back into dirt instead of dust. This should help performance on lower spec systems
+- vishrooms confusion effect now works again
+- slightly increased hover harness base speed and fixed its hud element lighting bug
+- void jars should not be venting ALL the extra essentia as flux, just a teensy weensy bit of it.
+- bellows will once again speed up vanilla furnaces 
+- made the repair enchant a lot more forgiving on the aura
+- by popular demand the advanced aura tapper research no longer allows wands to recharge from anywhere in your inventory. They must still be in your hotbar. 
+- made the arcane levitator cheaper to use
+- fixed banner recipes - the required wool colors and resulting banner was reversed.
+- autocasters now render properly when placed upside down
+- improved arcane bore block finding algorithm
+- arcane bore block detection will not be blocked by arcane block glimmers anymore 
+- arcane bore now interacts correctly with silk touch
+- added wool -> string entropic processing recipe
+- apprentice rings now gives a larger vis discount. This may change again at some future date if I can get something I've been working on, um, working.
+- various other small bugfixes and balance changes
+
+5.0.2
+- rebalanced vis amulets to make them more useful with the new aura changes
+- players will now drop their gear if killed by taint poison
+- fixed boots of the traveler step height bonus not being removed along with the boots
+- corrected second page of levitator research entry
+- added more recipes to alchemical manufacture, duplication and entropic processing and reshuffled some of the existing ones a bit
+- arcane ear no longer requires an airblock above it to work properly
+- tweaked flux and taint a bit to make it a tad less self-sustaining
+- tainted nodes generated a bit more taint than intended and have been rebalanced a bit
+- taint can now also convert stone, though the tainted rock cannot itself spread taint. This means only the outside layer of rock will get converted. Tainted rock can be quite useful under the proper circumstances. 
+- nerfed pure nodes a bit since they are theoretically a renewable resource. They will now have a tiny chance to shrink (and eventually disappear) each time they remove flux from the aura.
+- various arcane spa fixes (including once again being able to fill it with buckets) 
+- squashed the infinite essentia bug with smelters
+- added a new addon block for smelters to help manage flux
+- fixed essentia crystalizer placement
+- enlarged essentia buffers tube hitboxes a bit making them easier to shift-click
+- portable hole should now properly close 
+- fixed focus costing bug
+- taint fibres will now properly render on the south side of blocks
+- various other small bugfixes
+- improved excavation focus aiming and made it cheaper to use
+- research flags (gold star, green plus, etc) will now properly sync to servers)
+- a completion percentage is now shown when you hover over a research category
+
+5.0.1
+- crashfix for pickaxe of the core scanning funtion.
+- prevent chat spamming in spectator mode while in eldritch dimension
+- TC metal blocks (brass, thaumium, etc) and alchemical construct blocks can now act as beacon bases.
+- fixed various rendering issues
+- fixed vis capacity descriptions for various wand cores in thaumonomicon
+- fix for golem boss and eldritch cleric magical projectiles causing a crash when they hit something
+- arcane workbench will once again drop items in the wand slot when broken
+- fix thaumometer related crash that a few people experience while searching in creative mode
+- sword of the zephyr once again allows you to float upwards
+
+5.0.0
+HOTFIX
+- re-added the deploader so Baubles gets automatically downloaded
+- fixed required forge version
+
+API
+- Did some general housekeeping and moved related things into their own helper classes.
+- made the scanning mechanic a lot more robust and less limiting. Addon devs can even create their own scanning mechanics/tools that hook into the system
+- changed research api. Hidden and Concealed researches have been combined and can make use of the new scanning mechanic to "reveal" them.
+- added the ability for recipes to require multiple researches to be completed.
+- several changes to how foci effects are now triggered to make it a bit simpler and to accommodate the new focus turret block
+- The wand still stores vis at a x100 the displayed amount, but there is no longer a need to take this into account for addon devs. All interfaces to the wand automatically do the conversion so you just need to use the "real" vis amounts.
+- Added the IWand interface implemented by ItemWand to make it simpler to access the utility methods
+- changed the wand api slightly to allow more control over when vis gets subtracted or not. onFocusActivation returns a boolean now. If true vis will be subtracted
+ 
+RESEARCH
+- completing research or finding clues now gives experience
+- Added a new config setting allowing more than one discovery to be created when you finish research. This should be a handy change for team play and such. 
+- Secondary researches must now be purchased with experience levels. This applies to "easy mode" research as well.
+- Knowledge fragments now give experience when used. They cannot be used to craft special research notes anymore, but more uses will come for them in the future.
+- overhauled thaumonomicon gui. Now takes up more space, is zoomable, has search functionality and has a scrollable category list for addons.
+- newly learned researches will still be marked, but the mark will remain until you actually read the entry. The mark is now a simple gold star.
+- if a newly learned research unlocks additional pages within another research entry you will see an indication on the research with the new information in the form of a green plus. Like above the mark will remain until the entry is viewed.
+- both these marks also appear on the category buttons
+- the research table is no longer a multiblock because *effort*.
+- removed deconstruction table as it is no longer needed
+
+BUGFIXES
+- loads of minor fixes and improvements
+- fixed potential infinite loop with aspect algorithm
+- the research browser will only jump to a location when you learn now research if the research category matches the last viewed category in the browser
+- ethereal bloom now only plays its grow animation when initially placed
+- fixed edge-case crash caused by entities in outer lands (and potentially other places) being made champion mobs twice
+- fixed infusion crafting defaulting to runic augmentation if the item you are infusing can be augmented
+- resolved some portable hole syncing issues and made it a lot less lag inducing.
+
+MISC CHANGES
+- new blocks, items and mobs
+- Golemancy tab is hidden and needs to be discovered ingame
+- rebalanced aspects and aspect combinations. 
+- added a mechanic similar to the Thaumcraft 2 and 3 aura system. 
+- aura nodes are now special entities and cannot be used to recharge wands
+- aura nodes now recharge the aura
+- aura nodes merge like they did in Thaumcraft 3
+- wands recharge directly from the aura while held
+- aspects in a crucible degrade directly into flux and goes into the aura instead of degrading into simpler aspects.
+- runic shielding now uses the vanilla "damage absorption" mechanics (the yellow hearts you get when eating golden apples) to do its thing. Not quite as flashy, but it is more predictable and mod-friendly
+- rebalancing wand focus costs to work with the new aura system
+- dropped the whole concept of CV (centi-vis) and fractional vis costs. Most vis totals, capacities and costs have been increased by a factor of 10. For addon devs this means no longer multiplying by 100 internally.
+- scattershot ice focus is less effective at short range making it much less of an OP boss killer.
+- thaumometer now only requires a single click to scan something - it doesn't have to be held down anymore
+- removed need to have xp to purchase certain things while in creative mode
+- the sinister lodestone now points towards eldritch portals not sinister nodes and the research has been moved to the eldritch tab
+- new texture for ancient stone
+- added protection to certain mobs which should prevent them being spawned via mod-added spawners. It cannot protect against everything, but should catch most things
+- made praetor armor equivalent to diamond
+- added ore_density setting to config
+- reshuffled some researches around
+- taint crawlers are no longer taint spiders
+- fiddled with outer lands and added some missing features
+- rebalanced wand capacities and vis costs to reflect new aura system
+- removing warded blocks and related items until I come up with a better implementation
+- Arcane ear has had its model changed slightly and can now be placed in any orientation
+- changed the alembic model and recipe
+- changed the alchemical furnace recipe and renamed it to essentia smelter because, well, that makes more sense.
+- remove advanced alchemical furnace. Instead the base alchemical furnace can be upgraded and expanded upon
+- the basic alchemical furnace is now quite inefficient as up to 10% of essentia is lost and converted to aura flux instead
+- infused ore has been replaced by vis crystals which act as a vis battery of sorts. Harvesting all the crystals you come across is not the best idea as it may help replenish the aura.
+- infernal furnace is now an inventory and items can be piped or hoppered in from the top of the lava bit.
+- removed the item grate. Its main use can now be duplicated by a vanilla hopper so there is no real need for it.
+- you can now also add items to the crucible one at a time by simple right clicking with the item on the crucible itself.
+- liquid death is now a 'classic' liquid instead of a 'finite' liquid like flux goo.
+- killing mobs no longer drop aspect orbs
+- removed mana beans... for now. They may, or may not, return in some form
+- arcane lamps now only create glimmers of light if there is line of sight to the target location
+- reduced the size of eldritch mazes a bit to make them a bit less of a chore to navigate through 
+- added ability to double the size of amount text in aspect tags via config
+- essentia filter tubes can now be set with any essentia container item like phails, not just labels. The item used is not consumed. 
+- levitator now no longer requires stacking (simply toggle the switch on the bottom to change its range). It can also be placed in any orientation, but requires a small amount of vis to operate.
+- removed the research that allows you to use primordial pearls on nodes since it didn't work and doest really apply anymore anyway. It will be replaced by something better eventually

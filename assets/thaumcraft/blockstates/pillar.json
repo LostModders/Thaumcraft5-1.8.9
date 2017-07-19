@@ -1,0 +1,25 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "uvlock": false
+    },
+    "variants": {
+        "inventory": { "model": "thaumcraft:empty", "transform": "forge:default-block" },  
+         
+        "facing=north,type=normal": { "model": "thaumcraft:builtin/pillar_normal"},
+        "facing=north,type=ancient": { "model": "thaumcraft:builtin/pillar_ancient" },
+        "facing=north,type=eldritch": { "model": "thaumcraft:builtin/pillar_eldritch"},
+        
+        "facing=south,type=normal": { "model": "thaumcraft:builtin/pillar_normal"},
+        "facing=south,type=ancient": { "model": "thaumcraft:builtin/pillar_ancient"},
+        "facing=south,type=eldritch": { "model": "thaumcraft:builtin/pillar_eldritch" },
+        
+        "facing=east,type=normal": { "model": "thaumcraft:builtin/pillar_normal" },
+        "facing=east,type=ancient": { "model": "thaumcraft:builtin/pillar_ancient" },
+        "facing=east,type=eldritch": { "model": "thaumcraft:builtin/pillar_eldritch" },
+        
+        "facing=west,type=normal": { "model": "thaumcraft:builtin/pillar_normal"},
+        "facing=west,type=ancient": { "model": "thaumcraft:builtin/pillar_ancient"},
+        "facing=west,type=eldritch": { "model": "thaumcraft:builtin/pillar_eldritch" }
+    }
+}

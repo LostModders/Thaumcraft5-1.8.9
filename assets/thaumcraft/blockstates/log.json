@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "axis=x,variant=greatwood": { "model": "cube_column", 
+                "textures": {"end": "thaumcraft:blocks/log_greatwood_top","side": "thaumcraft:blocks/log_greatwood"}, "x": 90, "y": 90 },
+        "axis=y,variant=greatwood": { "model": "cube_column", 
+                "textures": {"end": "thaumcraft:blocks/log_greatwood_top","side": "thaumcraft:blocks/log_greatwood"} },
+        "axis=z,variant=greatwood": { "model": "cube_column", 
+                "textures": {"end": "thaumcraft:blocks/log_greatwood_top","side": "thaumcraft:blocks/log_greatwood"}, "x": 90 },
+        "axis=x,variant=silverwood": { "model": "cube_column", 
+                "textures": {"end": "thaumcraft:blocks/log_silverwood_top","side": "thaumcraft:blocks/log_silverwood"}, "x": 90, "y": 90 },
+        "axis=y,variant=silverwood": { "model": "cube_column", 
+                "textures": {"end": "thaumcraft:blocks/log_silverwood_top","side": "thaumcraft:blocks/log_silverwood"} },
+        "axis=z,variant=silverwood": { "model": "cube_column", 
+                "textures": {"end": "thaumcraft:blocks/log_silverwood_top","side": "thaumcraft:blocks/log_silverwood"}, "x": 90 }
+    }
+}

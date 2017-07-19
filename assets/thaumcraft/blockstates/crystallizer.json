@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up":    { "model": "thaumcraft:greatwood_plank"},
+        "facing=down":    { "model": "thaumcraft:greatwood_plank"},
+        "facing=west":    { "model": "thaumcraft:greatwood_plank"},
+        "facing=south":    { "model": "thaumcraft:greatwood_plank"},
+        "facing=north":    { "model": "thaumcraft:greatwood_plank"},
+        "facing=east":    { "model": "thaumcraft:greatwood_plank"}        
+    }
+}

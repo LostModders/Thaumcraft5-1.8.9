@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=greatwood": { "model": "thaumcraft:greatwood_leaves" },
+        "check_decay=true,decayable=false,variant=greatwood": { "model": "thaumcraft:greatwood_leaves" },
+        "check_decay=false,decayable=false,variant=greatwood": { "model": "thaumcraft:greatwood_leaves" },
+        "check_decay=false,decayable=true,variant=greatwood": { "model": "thaumcraft:greatwood_leaves" },      
+          
+        "check_decay=true,decayable=true,variant=silverwood": { "model": "thaumcraft:silverwood_leaves" },
+        "check_decay=true,decayable=false,variant=silverwood": { "model": "thaumcraft:silverwood_leaves" },
+        "check_decay=false,decayable=false,variant=silverwood": { "model": "thaumcraft:silverwood_leaves" },
+        "check_decay=false,decayable=true,variant=silverwood": { "model": "thaumcraft:silverwood_leaves" }
+    }
+}

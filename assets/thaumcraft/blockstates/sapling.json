@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "stage=0,type=greatwood": { "model": "thaumcraft:greatwood_sapling" },
+        "stage=1,type=greatwood": { "model": "thaumcraft:greatwood_sapling" },
+        "stage=0,type=silverwood": { "model": "thaumcraft:silverwood_sapling" },
+        "stage=1,type=silverwood": { "model": "thaumcraft:silverwood_sapling" }
+    }
+}

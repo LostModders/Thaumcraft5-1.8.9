@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=bottom,variant=arcane": { "model": "thaumcraft:arcane_half_slab" },
+        "half=top,variant=arcane": { "model": "thaumcraft:arcane_upper_slab" },
+        "half=bottom,variant=arcane_brick": { "model": "thaumcraft:arcane_brick_half_slab" },
+        "half=top,variant=arcane_brick": { "model": "thaumcraft:arcane_brick_upper_slab" },
+        "half=bottom,variant=ancient": { "model": "thaumcraft:ancient_half_slab" },
+        "half=top,variant=ancient": { "model": "thaumcraft:ancient_upper_slab" },
+        "half=bottom,variant=eldritch": { "model": "thaumcraft:eldritch_half_slab" },
+        "half=top,variant=eldritch": { "model": "thaumcraft:eldritch_upper_slab" }
+    }
+}

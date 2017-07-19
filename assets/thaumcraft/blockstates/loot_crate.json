@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=common": { "model": "thaumcraft:loot_crate_common" },
+        "type=uncommon": { "model": "thaumcraft:loot_crate_uncommon" },
+        "type=rare": { "model": "thaumcraft:loot_crate_rare" }
+    }
+}

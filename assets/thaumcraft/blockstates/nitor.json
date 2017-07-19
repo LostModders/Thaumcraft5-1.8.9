@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "color=white": { "model": "thaumcraft:nitor" },
+        "color=orange": { "model": "thaumcraft:nitor" },
+        "color=magenta": { "model": "thaumcraft:nitor" },
+        "color=light_blue": { "model": "thaumcraft:nitor" },
+        "color=yellow": { "model": "thaumcraft:nitor" },
+        "color=lime": { "model": "thaumcraft:nitor" },
+        "color=pink": { "model": "thaumcraft:nitor" },
+        "color=gray": { "model": "thaumcraft:nitor" },
+        "color=silver": { "model": "thaumcraft:nitor" },
+        "color=cyan": { "model": "thaumcraft:nitor" },
+        "color=purple": { "model": "thaumcraft:nitor" },
+        "color=blue": { "model": "thaumcraft:nitor" },
+        "color=brown": { "model": "thaumcraft:nitor" },
+        "color=green": { "model": "thaumcraft:nitor" },
+        "color=red": { "model": "thaumcraft:nitor" },
+        "color=black": { "model": "thaumcraft:nitor" }
+    }
+}

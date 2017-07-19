@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "variant=thaumium": { "model": "thaumcraft:thaumium_metal" },
+        "variant=void": { "model": "thaumcraft:void_metal" },
+        "variant=alchemical": { "model": "thaumcraft:alchemical_metal" },
+        "variant=advanced_alchemical": { "model": "thaumcraft:advanced_alchemical_metal" },
+        "variant=brass": { "model": "thaumcraft:brass_metal" }      
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "half=bottom,variant=greatwood": { "model": "thaumcraft:greatwood_half_slab" },
+        "half=top,variant=greatwood": { "model": "thaumcraft:greatwood_upper_slab" },
+        "half=bottom,variant=silverwood": { "model": "thaumcraft:silverwood_half_slab" },
+        "half=top,variant=silverwood": { "model": "thaumcraft:silverwood_upper_slab" }
+    }
+}

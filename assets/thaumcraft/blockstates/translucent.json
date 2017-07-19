@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=amber_block": { "model": "thaumcraft:amber_block" },
+        "variant=amber_brick": { "model": "thaumcraft:amber_brick" },
+        "variant=empty": { "model": "thaumcraft:empty_block" }
+    }
+}

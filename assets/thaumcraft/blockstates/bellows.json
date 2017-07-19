@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "enabled=false,facing=up":    { "model": "thaumcraft:greatwood_plank"},
+        "enabled=true,facing=up":    { "model": "thaumcraft:greatwood_plank"},
+        
+        "enabled=false,facing=down":    { "model": "thaumcraft:greatwood_plank"},
+        "enabled=true,facing=down":    { "model": "thaumcraft:greatwood_plank"},
+        
+        "enabled=false,facing=west":    { "model": "thaumcraft:greatwood_plank"},
+        "enabled=true,facing=west":    { "model": "thaumcraft:greatwood_plank"},
+        
+        "enabled=false,facing=south":    { "model": "thaumcraft:greatwood_plank"},
+        "enabled=true,facing=south":    { "model": "thaumcraft:greatwood_plank"},
+        
+        "enabled=false,facing=north":    { "model": "thaumcraft:greatwood_plank"},
+        "enabled=true,facing=north":    { "model": "thaumcraft:greatwood_plank"},
+        
+        "enabled=false,facing=east":    { "model": "thaumcraft:greatwood_plank"},
+        "enabled=true,facing=east":    { "model": "thaumcraft:greatwood_plank"}
+        
+    }
+
+}

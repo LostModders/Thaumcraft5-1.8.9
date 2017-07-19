@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=greatwood": { "model": "thaumcraft:greatwood_plank" },
+        "variant=silverwood": { "model": "thaumcraft:silverwood_plank" }
+    }
+}

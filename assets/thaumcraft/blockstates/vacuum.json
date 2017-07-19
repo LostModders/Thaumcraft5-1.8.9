@@ -1,0 +1,20 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "inventory": { "model": "thaumcraft:empty", "transform": "forge:default-block" },      
+        "spread=0": { "model": "thaumcraft:empty" },
+        "spread=1": { "model": "thaumcraft:empty" },
+        "spread=2": { "model": "thaumcraft:empty" },
+        "spread=3": { "model": "thaumcraft:empty" },
+        "spread=4": { "model": "thaumcraft:empty" },
+        "spread=5": { "model": "thaumcraft:empty" },
+        "spread=6": { "model": "thaumcraft:empty" },
+        "spread=7": { "model": "thaumcraft:empty" },
+        "spread=8": { "model": "thaumcraft:empty" },
+        "spread=9": { "model": "thaumcraft:empty" },
+        "spread=10": { "model": "thaumcraft:empty" },
+        "spread=11": { "model": "thaumcraft:empty" },
+        "spread=12": { "model": "thaumcraft:empty" }
+    }
+
+}

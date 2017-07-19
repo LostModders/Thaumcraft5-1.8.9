@@ -1,0 +1,6 @@
+{
+    "variants": {        
+        "variant=barrier": { "model": "thaumcraft:paving_stone_barrier" },
+        "variant=travel": { "model": "thaumcraft:paving_stone_travel" }
+    }
+}

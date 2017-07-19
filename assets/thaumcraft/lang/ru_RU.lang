@@ -1,0 +1,1874 @@
+#
+# Зачарования
+###################################
+enchantment.haste=Спешка
+enchantment.repair=Восстановление
+enchantment.special.sapless=Слабое истощение
+enchantment.special.sapgreat=Сильное истощение
+#
+# Infusion Enchantments
+###################################
+enchantment.infusion.COLLECTOR=Сборщик
+enchantment.infusion.DESTRUCTIVE=Разрушение
+enchantment.infusion.BURROWING=Вскопка
+enchantment.infusion.SOUNDING=Резонанс
+enchantment.infusion.REFINING=Переработка
+enchantment.infusion.ARCING=Полупируэт
+enchantment.infusion.ESSENCE=Жнец эссенции
+#
+# Зелья
+###################################
+potion.fluxtaint=Магический яд
+potion.soulshatter=Вырывание души
+potion.visexhaust=Магическое истощение
+potion.infvisexhaust=Магическая зараза
+potion.unhunger=Странный голод
+potion.warpward=Защита от искажения
+potion.deathgaze=Смертельный взгляд
+potion.blurred=Затуманенное зрение
+potion.sunscorned=Солнечная болезнь
+potion.thaumarhia=Таумария
+#
+# Искажение
+###################################
+warp.text.1=Вы чувствуете себя опустошённым.
+warp.text.2=Вы ощущаете странный голод.
+warp.text.hunger.1=Обычная еда не может утолить этот голод.
+warp.text.hunger.2=Голод ослабевает.
+warp.text.3=Странный шёпот рассказывает Вам древние секреты.
+warp.text.4=Ваше зрение как-то странно меняется.
+warp.text.5=Свет вдруг становится слишком ярким и обжигающим Вашу кожу.
+warp.text.6=Густой туман появляется из ниоткуда. В его глубине что-то шевелится.
+warp.text.7=Они повсюду, пора бежать!
+warp.text.8=Наверняка есть возможность унять эти головные боли?
+warp.text.9=Вы чувствуете слабость и неохоту копать что-либо. 
+warp.text.10=Вы начали чувствовать больше, чем обычно.
+warp.text.11=Что это был за шум? Что-то стоит у Вас за спиной.
+warp.text.12=Что-то преследует Вас.
+warp.text.13=Что-то смотрит за Вами. Пора останавливать исследования.
+warp.text.14=Вы достигли просветления.
+warp.text.15=У Вас странное урчание в животе.
+warp.text.16=Слабое пение слышится неподалёку...
+#
+# Существа
+###################################
+entity.Thaumcraft.AuraNode.name=Узел Ауры
+entity.Thaumcraft.Golem.name=Голем
+entity.Thaumcraft.ThaumSlime.name=Таум-слизень
+entity.Thaumcraft.GolemDart.name=Болт голема
+entity.Thaumcraft.PrimalArrow.name=Энергострела
+entity.Thaumcraft.FrostShard.name=Глыба льда
+entity.Thaumcraft.ExplosiveOrb.name=Огненный шар
+entity.Thaumcraft.ShockOrb.name=Шаровая молния
+entity.Thaumcraft.GolemOrb.name=Энергетический шар
+entity.Thaumcraft.BottleTaint.name=Порча в бутылке
+entity.Thaumcraft.Firebat.name=Огненная мышь
+entity.Thaumcraft.Wisp.name=Висп
+entity.Thaumcraft.Alumentum.name=Алюментум
+entity.Thaumcraft.GiantBrainyZombie.name=Яростный зомби
+entity.Thaumcraft.BrainyZombie.name=Злой зомби
+entity.Thaumcraft.FollowItem.name=Сопровождающий предмет
+entity.Thaumcraft.SpecialItem.name=Магический предмет
+entity.Thaumcraft.FallingTaint.name=Заражённый осадок
+entity.Thaumcraft.AspectOrb.name=Сфера аспекта
+entity.Thaumcraft.TaintSpider.name=Заражённый паучок
+entity.Thaumcraft.Taintacle.name=Заражённое щупальце
+entity.Thaumcraft.TaintacleTiny.name=Заражённый ус
+entity.Thaumcraft.TaintacleGiant.name=огромный заражённый тентакль
+entity.Thaumcraft.TaintSpore.name=Заражённая спора
+entity.Thaumcraft.TaintSwarmer.name=Заражённый роевик
+entity.Thaumcraft.TaintSwarm.name=Заражённый рой
+entity.Thaumcraft.TaintedVillager.name=Заражённый житель
+entity.Thaumcraft.TaintedChicken.name=Заражённая курица
+entity.Thaumcraft.TaintedRabbit.name=Заражённый кролик
+entity.Thaumcraft.TaintedPig.name=Заражённая свинья
+entity.Thaumcraft.TaintedSheep.name=Заражённая овца
+entity.Thaumcraft.TaintedCow.name=Заражённая корова
+entity.Thaumcraft.TaintedCreeper.name=Заражённый крипер
+entity.Thaumcraft.Pech.name=Гном-добытчик
+entity.Thaumcraft.Pech.1.name=Гном-колдун
+entity.Thaumcraft.Pech.2.name=Гном-искатель
+entity.Thaumcraft.PrimalOrb.name=Шар первоначальной энергии
+entity.Thaumcraft.TravelingTrunk.name=Ходячий сундук
+entity.trunk.guiname= сундук
+entity.trunk.move=Сундук будет следовать за 
+entity.trunk.stay=Сундук будет стоять здесь
+entity.Thaumcraft.MindSpider.name=Мозговой паук
+entity.Thaumcraft.EldritchGuardian.name=Древний страж
+entity.Thaumcraft.EldritchWarden.name=Древний смотритель
+entity.Thaumcraft.EldritchWarden.name.custom=%s - %d
+entity.Thaumcraft.EldritchGolem.name=Древний голем
+entity.Thaumcraft.EldritchGolem.name.custom=%s древний голем
+entity.Thaumcraft.EldritchOrb.name=Древняя сфера
+entity.Thaumcraft.CultistKnight.name=Багровый рыцарь
+entity.Thaumcraft.CultistCleric.name=Багровый маг
+entity.Thaumcraft.CultistLeader.name=Претор багрового культа
+entity.Thaumcraft.CultistLeader.name.custom=%d претор %s
+entity.Thaumcraft.CultistPortalGreater.name=Великий багровый портал
+entity.Thaumcraft.CultistPortalLesser.name=Малый багровый портал
+entity.Thaumcraft.EldritchCrab.name=Древний краб
+entity.Thaumcraft.InhabitedZombie.name=Волочащаяся оболочка
+entity.Thaumcraft.TurretBasic.name=Стреломёт
+entity.Thaumcraft.TurretAdvanced.name=Баллиста
+entity.Thaumcraft.TurretFocus.name=Магическая турель
+entity.Thaumcraft.TurretEldritch.name=Древняя магическая турель
+entity.Thaumcraft.NodeMagnet.name=Узловой магнит
+#
+champion.mod.bold=Смелый
+champion.mod.spine=Колючий
+champion.mod.armor=Бронированный
+champion.mod.mighty=Могучий
+champion.mod.grim=Мрачный
+champion.mod.warded=Защищённый
+champion.mod.warp=Искажённый
+champion.mod.undying=Бессмертный
+champion.mod.fiery=Огненный
+champion.mod.sickly=Чумной
+champion.mod.venomous=Ядовитый
+champion.mod.vampiric=Вампирический
+champion.mod.infested=Заражённый
+#
+tc.boss.crimson=Багровый портал, открывшийся поблизости предвещает появление Багрового культа. Надо его скорее закрыть!
+tc.boss.golem=Замороженный одинокий хранитель стоит в своей комнате, но судя по трескающейся от энергии оболочке, он пробудет замороженным ещё не особо долго.
+tc.boss.warden=Тёмная энергия пузырится на дальнем пьедестале. Что-то надвигается...
+tc.boss.taint=Откуда-то доносится органический хруст. Звук какой-то странный... нарастающий...
+#
+# Блоки
+###################################
+# Неручные тайлы
+tile.ore_amber.name=Янтарная руда
+tile.ore_cinnabar.name=Киноварь
+tile.crystal_aer.name=Грозовые кристаллы
+tile.crystal_ignis.name=Огненные кристаллы
+tile.crystal_aqua.name=Ледяные кристаллы
+tile.crystal_terra.name=Земляные кристаллы
+tile.crystal_ordo.name=Кристаллы порядка
+tile.crystal_perditio.name=Кристаллы энтропии
+tile.crystal_vitium.name=Заражённые кристаллы
+tile.log.greatwood.name=Великодревесное бревно
+tile.log.silverwood.name=Серебродревесное бревно
+tile.leaf.greatwood.name=Великодревесные листья
+tile.leaf.silverwood.name=Серебродревесные листья
+tile.taint_log.taintwood.name=Заражённое бревно
+tile.taint_leaf.taintwood.name=Заражённые листья
+tile.sapling.greatwood.name=Великодревесный саженец
+tile.sapling.silverwood.name=Серебродревесный саженец
+tile.plank.greatwood.name=Великодревесные доски
+tile.plank.silverwood.name=Серебродревесные доски
+tile.greatwood_stairs.name=Великодревесные ступеньки
+tile.silverwood_stairs.name=Серебродревесные ступеньки
+tile.stone.arcane.name=Магический камень
+tile.stone.arcane_brick.name=Магический кирпич
+tile.stone.ancient.name=Старинный камень
+tile.stone.ancient_rock.name=Старинная скала
+tile.stone.eldritch.name=Древний камень
+tile.stone.ancient_tile.name=Старинная каменная основа
+tile.stone.crust.name=Заросший камень
+tile.stone.crust_glow.name=Светящийся заросший камень
+tile.stone.matrix_speed.name=Ускоряющая матрица
+tile.stone.matrix_cost.name=Антизатратная матрица
+tile.stone.ancient_doorway.name=Древние ворота
+tile.stone.glyphed.name=Рунный камень
+tile.stone.bedrock.name=Бесконечная пустота
+tile.stone.porous.name=Пористый камень
+tile.arcane_stairs.name=Ступеньки из магического камня
+tile.arcane_brick_stairs.name=Ступеньки из магического кирпича
+tile.ancient_stairs.name=Ступеньки из старинного камня
+tile.translucent.amber_block.name=Янтарный блок
+tile.translucent.amber_brick.name=Янтарная кладка
+tile.translucent.empty.name=Пустое место
+tile.slab_wood.greatwood.name=Великодревесная плита
+tile.slab_wood.silverwood.name=Серебродревесная плита
+tile.slab_stone.arcane.name=Плита из магического камня
+tile.slab_stone.arcane_brick.name=Плита из магического кирпича
+tile.slab_stone.ancient.name=Плита из старинного камня
+tile.slab_stone.eldritch.name=Плита древнего камня
+tile.shimmerleaf.name=Сребролист
+tile.cinderpearl.name=Огненный жемчуг
+tile.vishroom.name=Висомор
+tile.bloom.name=Вечноцвет
+tile.flux_goo.name=Заражённая жижа
+tile.taint_dust.name=Слежавшаяся зараженная пыль
+tile.loot_urn.common.name=Обычная урна
+tile.loot_urn.uncommon.name=Необычная урна
+tile.loot_urn.rare.name=Редкая урна
+tile.loot_crate.common.name=Обычный ящик
+tile.loot_crate.uncommon.name=Необычный ящик
+tile.loot_crate.rare.name=Редкий ящик
+tile.taint_fibre.name=Заражённая плесень
+tile.taint.crust.name=Заросший заражённый камень
+tile.taint.soil.name=Заражённая земля
+tile.taint.geyser.name=Заражённый гейзер
+tile.taint.rock.name=Заражённая скала
+tile.taint_feature.name=Заражённый пузырь
+tile.eldritch.altar.name=Древний алтарь
+tile.eldritch.obelisk_base.name=Древний обелиск
+tile.eldritch.obelisk_body.name=Древний обелиск
+tile.eldritch.cap.name=Пьедестал древних
+tile.eldritch.lock.name=Древний замок
+tile.eldritch.door.name=Древний проход
+tile.eldritch.teleporter.name=Древний портал
+tile.eldritch.crabspawner.name=Крабья нора
+tile.grass_ambient.name=Шуршащая трава
+#
+# Ручные тайлы
+tile.table_stone.name=Каменный стол
+tile.table_wood.name=Деревянный стол
+tile.candle.white.name=Белая свеча
+tile.candle.orange.name=Оранжевая свеча
+tile.candle.magenta.name=Сиреневая свеча
+tile.candle.light_blue.name=Голубая свеча
+tile.candle.yellow.name=Жёлтая свеча
+tile.candle.lime.name=Лаймовая свеча
+tile.candle.pink.name=Розовая свеча
+tile.candle.gray.name=Серая свеча
+tile.candle.silver.name=Светло-серая свеча
+tile.candle.cyan.name=Бирюзовая свеча
+tile.candle.purple.name=Фиолетовая свеча
+tile.candle.blue.name=Синяя свеча
+tile.candle.brown.name=Коричневая свеча
+tile.candle.green.name=Зелёная свеча
+tile.candle.red.name=Красная свеча
+tile.candle.black.name=Чёрная свеча
+tile.pedestal.normal.name=Магический пьедестал
+tile.pedestal.eldritch.name=Древний пьедестал
+tile.pedestal.ancient.name=Старинный пьедестал
+tile.nitor.white.name=Белый нитор
+tile.nitor.orange.name=Оранжевый нитор
+tile.nitor.magenta.name=Сиреневый нитор
+tile.nitor.light_blue.name=Голубой нитор
+tile.nitor.yellow.name=Жёлтый нитор
+tile.nitor.lime.name=Лаймовый нитор
+tile.nitor.pink.name=Розовый нитор
+tile.nitor.gray.name=Серый нитор
+tile.nitor.silver.name=Светло-серый нитор
+tile.nitor.cyan.name=Бирюзовый нитор
+tile.nitor.purple.name=Фиолетовый нитор
+tile.nitor.blue.name=Синий нитор
+tile.nitor.brown.name=Коричневый нитор
+tile.nitor.green.name=Зелёный нитор
+tile.nitor.red.name=Красный нитор
+tile.nitor.black.name=Чёрный нитор
+tile.banner.cultist.name=Вымпел багрового культа
+tile.banner.white.name=Белый вымпел
+tile.banner.orange.name=Оранжевый вымпел
+tile.banner.magenta.name=Сиреневый вымпел
+tile.banner.light_blue.name=Голубой вымпел
+tile.banner.yellow.name=Жёлтый вымпел
+tile.banner.lime.name=Лаймовый вымпел
+tile.banner.pink.name=Розовый вымпел
+tile.banner.gray.name=Серый вымпел
+tile.banner.silver.name=Светло-серый вымпел
+tile.banner.cyan.name=Бирюзовый вымпел
+tile.banner.purple.name=Фиолетовый вымпел
+tile.banner.blue.name=Синий вымпел
+tile.banner.brown.name=Коричневый вымпел
+tile.banner.green.name=Зелёный вымпел
+tile.banner.red.name=Красный вымпел
+tile.banner.black.name=Чёрный вымпел
+tile.metal.thaumium.name=Блок таум-металла
+tile.metal.void.name=Блок пустотного металла
+tile.metal.alchemical.name=Алхимический механизм
+tile.metal.advanced_alchemical.name=Улучшенный алхимический механизм
+tile.metal.brass.name=Блок алхимической латуни
+tile.paving_stone.barrier.name=Барьерный камень
+tile.paving_stone.travel.name=Камень путешественника
+tile.flesh_block.name=Блок плоти
+tile.redstone_relay.name=Реле красного камня
+tile.pattern_crafter.name=Магический сборщик
+#
+# Мелкота
+tile.hole.name=Межпространственный разрыв
+tile.vacuum.name=Смертельная пустота
+tile.effect.shock.name=Шоковое поле
+tile.effect.sapping.name=Ослабляющее поле
+tile.effect.glimmer.name=Светляк
+tile.purifying_fluid.name=Очищающая жидкость
+tile.liquid_death.name=Жидкая смерть
+tile.placeholder.furnace_brick.name=Адская печь
+tile.placeholder.furnace_obsidian.name=Адская печь
+tile.placeholder.gb_anvil.name=Пресс голема
+tile.placeholder.gb_table.name=Пресс голема
+tile.placeholder.gb_bars.name=Пресс голема
+tile.placeholder.gb_cauldron.name=Пресс голема
+tile.barrier.name=Защитный барьер
+#
+# Machines
+tile.research_table.name=Стол исследований
+tile.arcane_workbench.name=Магический верстак
+tile.arcane_workbench_charger.name=Вис-канал
+tile.wand_workbench.name=Набалдашниковый верстак
+tile.crucible.name=Тигель
+tile.arcane_ear.name=Магическое ухо
+tile.levitator.name=Магический подъемник
+tile.bellows.name=Магические меха
+tile.dioptra.name=Thaumic Dioptra
+tile.water_jug.name=Вечный фонтан
+tile.recharge_pedestal.name=Перезарядочный пьедестал
+tile.hungry_chest.name=Голодный сундук
+tile.lamp_arcane.name=Магический светильник
+tile.lamp_growth.name=Светильник роста  
+tile.lamp_fertility.name=Светильник плодородия
+tile.jar.jar_normal.name=Магическая банка
+tile.jar.jar_void.name=Пустотная банка
+tile.jar.jar_brain.name=Мозг-в-банке
+tile.tube.tube_normal.name=Труба эссенции
+tile.tube.tube_valve.name=Клапан эссенции
+tile.tube.tube_filter.name=Труба-фильтр эссенции
+tile.tube.tube_restrict.name=Труба высокого сопротивления
+tile.tube.tube_oneway.name=Направляющая труба эссенции
+tile.tube.tube_buffer.name=Буфер эссенции
+tile.smelter_basic.name=Плавильня эссенции
+tile.smelter_thaumium.name=Плавильня эссенции из таум-металла
+tile.smelter_void.name=Плавильня эссенции из пустотного металла
+tile.alembic.alembic_normal.name=Перегонный куб
+tile.smelter_aux.name=Добавочный шлаковый насос
+tile.smelter_vent.name=Добавочный спускной клапан
+tile.arcane_bore_base.name=Основа магического бура
+tile.arcane_bore.name=Магический бур
+tile.thaumatorium.name=Тауматорий
+tile.brain_box.name=Мнемоническая матрица
+tile.pillar.pillar_normal.name=Заряженная колонна
+tile.pillar.pillar_ancient.name=Старинная заряженная колонна
+tile.pillar.pillar_eldritch.name=Древняя заряженная колонна
+tile.infusion_matrix.name=Рунная матрица
+tile.aura_totem.push.name=Тотем рассеяния
+tile.aura_totem.pull.name=Тотем стягивания
+tile.aura_totem.pole_inner.name=Модификатор внутренней зоны тотема
+tile.aura_totem.pole_outer.name=Модификатор внешней зоны тотема
+tile.aura_totem.pole_pure.name=Модификатор-стабилизатор тотема
+tile.centrifuge.name=Центрифуга эссенции
+tile.crystallizer.name=Кристаллизатор эссенции
+tile.spa.name=Магическая ванна
+tile.mirror.name=Магическое зеркало
+tile.mirror_essentia.name=Зеркало эссенции
+tile.golem_builder.name=Пресс голема
+tile.node_stabilizer.name=Узел-стабилизатор
+tile.essentia_input.name=Эссенц-инфузер
+tile.essentia_output.name=Эссенц-эксфузер
+#
+# Предметы
+###################################
+# Сырьё
+item.amber.name=Янтарь
+item.quicksilver.name=Ртуть
+item.shard.air.name=Грозовой кристалл
+item.shard.fire.name=Огненный кристалл
+item.shard.water.name=Ледяной кристалл
+item.shard.earth.name=Земляной кристалл
+item.shard.order.name=Кристалл порядка
+item.shard.entropy.name=Кристалл энтропии
+item.shard.balanced.name=Сбалансированный кристалл
+item.shard.flux.name=Заражённый кристалл
+item.ingot.thaumium.name=Таум-слиток
+item.ingot.void.name=Пустотный слиток
+item.ingot.brass.name=Слиток алхимической латуни
+item.nugget.iron.name=Железный самородок
+item.nugget.copper.name=Медный самородок
+item.nugget.tin.name=Оловянный самородок
+item.nugget.silver.name=Серебряный самородок
+item.nugget.lead.name=Свинцовый самородок
+item.nugget.quicksilver.name=Капля ртути
+item.nugget.thaumium.name=Самородок таум-металла
+item.nugget.void.name=Самородок пустотного металла
+item.nugget.brass.name=Самородок алхимической латуни
+item.cluster.iron.name=Железорудный кластер
+item.cluster.copper.name=Меднорудный кластер
+item.cluster.tin.name=Оловяннорудный кластер
+item.cluster.silver.name=Серебрянорудный кластер
+item.cluster.lead.name=Свинцоворудный кластер
+item.cluster.cinnabar.name=Киноварный кластер
+item.cluster.gold.name=Золоторудный кластер
+#
+# Ресурсы
+item.filter.name=Фильтр эссенции
+item.morphic_resonator.name=Морфорезонатор
+item.tallow.name=Магический жир
+item.void_seed.name=Семя пустоты
+item.salis_mundus.name=Salis Mundus
+item.primal_charm.name=Сингулярный амулет
+item.mirrored_glass.name=Зеркало
+item.plate.brass.name=Латунная пластина
+item.plate.iron.name=Железная пластина
+item.plate.thaumium.name=Таум-пластина
+item.plate.void.name=Пустотная пластина
+item.gear.brass.name=Латунная шестерня
+item.gear.thaumium.name=Таум-шестерня
+item.gear.void.name=Пустотная шестерня
+item.wisp_essence.name=Эфирная эссенция
+item.fabric.name=Зачарованная ткань
+item.crystal_essence.name=Кристаллик эссенции
+item.crystal_essence.balanced.name=Кристаллик сбалансированной эссенции
+item.wispy_essence.name=Капля эссенции
+item.phial.empty.name=Пузырёк
+item.phial.filled.name=Пузырёк эссенции
+item.label.blank.name=Бирка
+item.label.filled.name=Помеченная бирка
+item.mind.clockwork.name=Заводной элемент управления
+item.mind.biothaumic.name=Биотаумический мозг
+#
+# Используемое
+item.alumentum.name=Алюментум
+item.brain.name=Мозг зомби
+item.chunk.chicken.name=Кусочек курятины
+item.chunk.beef.name=Кусочек говядины
+item.chunk.pork.name=Кусочек свинины
+item.chunk.fish.name=Кусочек рыбы
+item.chunk.rabbit.name=Кусочек крольчатины
+item.chunk.mutton.name=Кусочек ягнятины
+item.triple_meat_treat.name=Солянка
+item.bath_salts.name=Очищающая соль
+item.bucket_death.name=Ведро жидкой смерти
+item.bucket_pure.name=Ведро очищающей жидкости
+item.bottle_taint.name=Бутыль порчи
+item.sanity_soap.name=Лечащее мыло
+item.loot_bag.common.name=Обычное сокровище
+item.loot_bag.uncommon.name=Необычное сокровище
+item.loot_bag.rare.name=Редкое сокровище
+tc.lootbag=Откройте, нажав ПКМ или сохраните для торговли
+item.turret.basic.name=Стреломёт
+item.turret.advanced.name=Баллиста
+item.turret.focus.name=Магическая турель
+item.turret.magnet.name=Узловой магнит
+#
+# Инструменты
+item.thaumonomicon.name=Таумономикон
+item.thaumonomicon.cheat.name=Читерский таумономикон
+item.thaumometer.name=Таумометр
+item.sanity_checker.name=Психический детектор
+item.resonator.name=Резонатор эссенции
+item.sinister_stone.name=Зловещий камень
+item.scribing_tools.name=Письменные принадлежности
+item.thaumium_shovel.name=Таум-лопата
+item.thaumium_axe.name=Таум-топор
+item.thaumium_sword.name=Таум-меч
+item.thaumium_pick.name=Таум-кирка
+item.thaumium_hoe.name=Таум-мотыга
+item.elemental_shovel.name=Лопата Землероя
+item.elemental_pick.name=Кирка Огня
+item.elemental_axe.name=Топор Потока
+item.elemental_hoe.name=Мотыга Роста
+item.elemental_sword.name=Меч Бури
+item.void_shovel.name=Пустотная лопата
+item.void_axe.name=Пустотный топор
+item.void_sword.name=Пустотный меч
+item.void_pick.name=Пустотная кирка
+item.void_hoe.name=Пустотная мотыга
+item.crimson_blade.name=Лезвие Багрянца
+item.primal_crusher.name=Сингулярный крушитель
+item.bone_bow.name=Костяной лук
+item.primal_arrow.air.name=Пробивающая стрела
+item.primal_arrow.fire.name=Поджигающая стрела
+item.primal_arrow.water.name=Замедляющая стрела
+item.primal_arrow.earth.name=Тяжёлая стрела
+item.primal_arrow.order.name=Ослабляющая стрела
+item.primal_arrow.entropy.name=Иссушающая стрела
+item.hand_mirror.name=Ручное магическое зеркало
+
+# Бронька
+item.goggles.name=Очки откровения
+item.fortress_helm.name=Боевой таум-шлем
+item.fortress_helm.mask.0=Смеющийся дьявол
+item.fortress_helm.mask.1=Злое привидение
+item.fortress_helm.mask.2=Тянущийся демон
+item.fortress_chest.name=Боевая таум-кираса
+item.fortress_legs.name=Боевые таум-поножи
+item.thaumium_helm.name=Таум-шлем
+item.thaumium_chest.name=Таум-панцирь
+item.thaumium_legs.name=Таум-поножи
+item.thaumium_boots.name=Таум-сапоги
+item.cloth_chest.name=Мантия тауматурга
+item.cloth_legs.name=Шаровары тауматурга
+item.cloth_boots.name=Высокие туфли тауматурга
+item.void_helm.name=Пустотный шлем
+item.void_chest.name=Пустотный панцирь
+item.void_legs.name=Пустотные поножи
+item.void_boots.name=Пустотные сапоги
+item.void_robe_helm.name=Пустотный капюшон тауматурга
+item.void_robe_chest.name=Пустотная мантия тауматурга
+item.void_robe_legs.name=Пустотные шаровары тауматурга
+item.crimson_boots.name=Сапоги культистов
+item.crimson_robe_helm.name=Капюшон мага культистов
+item.crimson_robe_chest.name=Мантия мага культистов
+item.crimson_robe_legs.name=Шаровары мага культистов
+item.crimson_plate_helm.name=Шлем культистов
+item.crimson_plate_chest.name=Панцирь культистов
+item.crimson_plate_legs.name=Поножи культистов
+item.crimson_praetor_helm.name=Закрытый шлем Претора
+item.crimson_praetor_chest.name=Кираса Претора
+item.crimson_praetor_legs.name=Поножи Претора
+item.thaumostatic_harness.name=Таумостатическая упряжь
+item.traveller_boots.name=Сапоги путешественника
+
+# Бижутерия
+item.amulet_runic.0.name=Амулет рунного щита
+item.amulet_runic.1.name=Амулет экстренного рунного щита
+item.ring_runic.0.name=Кольцо опеки
+item.ring_runic.1.name=Кольцо рунного щита
+item.ring_runic.2.name=Энергизированное кольцо рунного щита
+item.ring_runic.3.name=Восстанавливающее кольцо рунного щита
+item.girdle_runic.0.name=Пояс рунного щита
+item.girdle_runic.1.name=Кинетический пояс рунного щита
+item.baubles.0.name=Обычный амулет
+item.baubles.1.name=Обычное кольцо
+item.baubles.2.name=Обычный пояс
+item.baubles.3.name=Кольцо подмастерья - %TYPE
+item.baubles.9.name=Вычурный амулет
+item.baubles.10.name=Ажурное кольцо
+item.baubles.11.name=Изящный ремень
+item.amulet_vis.text=Заряжает находящиеся на панели быстрого доступа жезлы
+item.amulet_vis.0.name=Камень Вис
+item.amulet_vis.1.name=Амулет Вис
+item.girdle_hover.name=Таумостатический пояс
+item.ring_verdant.name=Кольцо Сердца
+item.verdant.life.text=Его Лечение
+item.verdant.sustain.text=Его Поддержка
+
+# Посохи
+item.focus_fire.name=Набалдашник: Огонь
+item.focus_hellbat.name=Набалдашник: 9 кругов ада
+item.focus_shock.name=Набалдашник: Шок
+item.focus_equal_trade.name=Набалдашник: Равноценный обмен
+item.focus_frost.name=Набалдашник: Заморозка
+item.focus_excavation.name=Набалдашник: Копание
+item.focus_hole.name=Набалдашник: Червоточина
+item.focus_pech.name=Набалдашник: Гномье проклятие
+item.focus_warding.name=Набалдашник: Укрепление
+item.focus_primal.name=Набалдашник: Сингулярность
+item.focus_shard.name=Набалдашник: Магический осколок
+item.focus_grapple.name=Набалдашник: Магический крюк
+item.focus_builder.name=Набалдашник: Строитель
+item.wand_cap.iron.name=Железный наконечник
+item.wand_cap.gold.name=Золотой наконечник
+item.wand_cap.brass.name=Латунный наконечник
+item.wand_cap.thaumium.name=Заряженный таум-наконечник
+item.wand_cap.thaumium_inert.name=Инертный таум-наконечник
+item.wand_cap.void.name=Заряженный пустотный наконечник
+item.wand_cap.void_inert.name=Инертный пустотный наконечник
+item.wand_rod.greatwood.name=Великодревесный стержень
+item.wand_rod.silverwood.name=Серебрянодревесный стержень
+item.wand_rod.obsidian.name=Обсидиановый стержень
+item.wand_rod.ice.name=Ледяной стержень
+item.wand_rod.quartz.name=Кварцевый стержень
+item.wand_rod.reed.name=Тростниковый стержень
+item.wand_rod.blaze.name=Огненный стержень
+item.wand_rod.bone.name=Костяной стержень
+item.wand_rod.greatwood_staff.name=Великодревесное ядро посоха
+item.wand_rod.silverwood_staff.name=Серебрянодревесное ядро посоха
+item.wand_rod.obsidian_staff.name=Обсидиановое ядро посоха
+item.wand_rod.ice_staff.name=Ледяное ядро посоха
+item.wand_rod.quartz_staff.name=Кварцевое ядро посоха
+item.wand_rod.reed_staff.name=Тростниковое ядро посоха
+item.wand_rod.blaze_staff.name=Огненное ядро посоха
+item.wand_rod.bone_staff.name=Костяное ядро посоха
+item.wand_rod.primal_staff.name=Сингулярное ядро посоха
+#
+item.focus_pouch.name=Сумка для набалдашников
+#
+item.Wand.name=%CAP %ROD %OBJ
+item.Focus.cost1=Вис за использование
+item.Focus.cost2=Вис за тик
+item.Wand.wand.obj=жезл
+item.Wand.sceptre.obj=скипетр
+item.Wand.staff.obj=посох
+item.Wand.wood.rod=деревянный
+item.Wand.greatwood.rod=великодревесный
+item.Wand.silverwood.rod=серебродревесный
+item.Wand.obsidian.rod=обсидиановый
+item.Wand.blaze.rod=огненный
+item.Wand.ice.rod=ледяной
+item.Wand.bone.rod=костяной
+item.Wand.reed.rod=тростниковый
+item.Wand.quartz.rod=кварцевый
+item.Wand.primal.rod=сингулярный
+item.Wand.iron.cap=Обитый железом
+item.Wand.brass.cap=Латунью выгравированный
+item.Wand.gold.cap=Окаймленный золотом
+item.Wand.copper.cap=Обёрнутый медью
+item.Wand.silver.cap=Орнаментированный серебром
+item.Wand.thaumium.cap=Покрытый таум-металлом
+item.Wand.void.cap=Пустотой окутанный
+#
+# Мелочь
+item.tainted.slime.name=Заражённая слизь
+item.tainted.tendril.name=Заражённое щупальце
+item.coin.name=Золотая монета
+item.primordial_pearl.name=Сингулярная жемчужина
+item.knowledge_fragment.name=Фрагмент знаний
+item.knowledge_fragment.help=Нажмите ПКМ для получения опыта
+item.eldritch_eye.name=Древний глаз
+item.crimson_rites.name=Ритуалы Багрового культа
+item.crimson_rites.text.0=Книга исписана странными символами.
+item.crimson_rites.text.1=Нажмите ПКМ для изучения.
+item.runed_tablet.name=Рунная скрижаль
+item.runed_tablet.text=Видимо, это часть чего-то большего.
+item.research_notes.name=Записки исследования
+item.research_notes.discovery.name=Открытие
+item.researchnotes.learn=Нажмите ПКМ для изучения открытия.
+item.creative_placer.obelisk.name=Установщик обелисков
+item.creative_placer.node.name=Установщик узлов
+item.creative_placer.caster.name=Установщик древней магической турели
+item.creative_flux_sponge.name=Губка для порчи
+item.jar_brace.name=Латунная крышка
+#
+# Големы
+item.module.vision.name=Модуль слежения
+item.module.aggression.name=Модуль агрессивности
+item.golem_bell.name=Хрустальный колокольчик
+item.golem.name=Голем
+item.seal.blank.name=Печать
+item.seal.pickup.name=Управляющая печать: Сбор
+item.seal.pickup_advanced.name=Улучшенная управляющая печать: Сбор
+item.seal.fill.name=Управляющая печать: Хранение
+item.seal.fill_advanced.name=Улучшенная управляющая печать: Хранение
+item.seal.empty.name=Управляющая печать: Опустошение
+item.seal.empty_advanced.name=Улучшенная управляющая печать: Опустошение
+item.seal.harvest.name=Управляющая печать: Фермерство
+item.seal.butcher.name=Управляющая печать: Разделка
+item.seal.guard.name=Управляющая печать: Защита
+item.seal.guard_advanced.name=Улучшенная управляющая печать: Защита
+item.seal.lumber.name=Управляющая печать: Срубание
+item.seal.breaker.name=Управляющая печать: Крушение
+item.seal.use.name=Управляющая печать: Использование
+item.seal.provider.name=Управляющая печать: Поставка
+#
+# Текст
+item.runic.charge=Рунный щит
+item.warping=Искажение
+item.capacity.text=Ёмкость
+item.chargebonus.text=Заряд
+#
+# Големы 
+########################
+# Характеристики
+golem.trait.deft=Ловкий
+golem.trait.text.deft=Этот голем достаточно ловок для выполнения высокоточных и деликатных работ. Антипод Неуклюжего.
+golem.trait.clumsy=Неуклюжий
+golem.trait.text.clumsy=Этот голем имеет очень низкую ловкость, достаточную для выполнения только простейших задач. Антипод Ловкого.
+golem.trait.smart=Умный
+golem.trait.text.smart=Этот голем имеет острый ум, большие когнитивные способности и возможность принимать решения.
+golem.trait.wheeled=Колёсный
+golem.trait.text.wheeled=Этот голем с успехом пользуется колёсами, поэтому у него высокая скорость, но он не может прыгать или взбираться по лестнице.
+golem.trait.light=Легковес
+golem.trait.text.light=Этот голем легче обычного, поэтому он быстр и более ловок. Антипод Тяжеловеса.
+golem.trait.heavy=Тяжеловес
+golem.trait.text.heavy=Этот голем тяжелее обычного, поэтому он медлителен и менее ловок. Антипод Легковеса.
+golem.trait.fragile=Хрупкий
+golem.trait.text.fragile=Этот голем собран из хрупких материалов, поэтому его сопротивление урону очень мало, как и его очки здоровья. Антипод Бронированного.
+golem.trait.armored=Бронированный
+golem.trait.text.armored=Этот голем усилен бронирующими материалами, снижающими наносимый ему урон. Антипод Хрупкого.
+golem.trait.repair=Восстанавливающийся
+golem.trait.text.repair=Такой голем восстанавливается в два раза быстрее обычного.
+golem.trait.fighter=Воин
+golem.trait.text.fighter=Этот голем способен атаковать врагов.
+golem.trait.flyer=Летающий
+golem.trait.text.flyer=Этот голем умеет летать, но на низкой скорости.
+golem.trait.climber=Скалолаз
+golem.trait.text.climber=Отвесные скалы - не беда для этого голема. Он может легко вскарабкаться на них.
+golem.trait.scout=Разведчик
+golem.trait.text.scout=Этот голем имеет больший радиус обзора и может работать на большем расстоянии (32 блока вместо 16).
+golem.trait.fireproof=Огнестойкий
+golem.trait.text.fireproof=Этот голем обладает иммунитетом к огню.
+golem.trait.brutal=Берсерк
+golem.trait.text.brutal=Этот голем наносит более высокий урон в бою.
+golem.trait.breaker=Крушитель
+golem.trait.text.breaker=Этот голем способен легко разрушать большинство блоков.
+golem.trait.hauler=Переносчик
+golem.trait.text.hauler=Позволяет голему нести два стака предметов вместо одного.
+golem.trait.ranged=Стрелок
+golem.trait.text.ranged=Голем может атаковать цели на расстоянии. 
+golem.trait.blastproof=Взрывоустойчивый
+golem.trait.text.blastproof=Голем устойчив к взрывам.
+#
+# Материалы 
+golem.material.wood=Великое дерево
+golem.material.text.wood=Голем собран из великого дерева. Он лёгкий и ловкий, но непрочный.
+golem.material.iron=Железо
+golem.material.text.iron=Голем собран из железа. Он прочный и огнестойкий, но тяжёлый.
+golem.material.brass=Латунь
+golem.material.text.brass=Голем собран из латуни. Он менее прочен и огнестоек, чем железный. Так как латунь тяжелее железа, она позволяет создавать прочные, но легкие корпуса.
+golem.material.clay=Глина
+golem.material.text.clay=Голем собран из глины. Это не особо прочный материал, но такой голем огнестойкий и лёгкий.
+golem.material.thaumium=Таум-металл
+golem.material.text.thaumium=Голем собран из таум-металла. Таум-металл похож на железо, но он прочнее и лучше защищает начинку голема.
+golem.material.void=Пустотный металл
+golem.material.text.void=Голем собран из пустотного металла. Пустотный металл немного легче, чем железо. Кроме того, пустотный металл имеет способность к самовосстановлению.
+#
+golem.head.basic=Заводной элемент управления
+golem.head.text.basic=Обычная голова голема. Ни достоинств, ни недостатков.
+golem.head.smart=Биотаумический мозг
+golem.head.text.smart=Эта голова содержит биотаумический мозг, поэтому голем получает подобие разума. 
+golem.head.smart_armored=Бронированный биотаумический мозг
+golem.head.text.smart_armored=Голова с биотаумическим мозгом, упрочненная броневым покрытием.
+golem.head.scout=Биотаумический элемент слежения
+golem.head.text.scout=Обычная голова, улучшенная биотаумическими глазами. 
+golem.head.smart_scout=Биотаумическая голова
+golem.head.text.smart_scout=Использующая одновременно биотаумические глаза и мозг, биотаумическая голова - вершина технологий искусственного разума. 
+#
+golem.arm.basic=Стандартные руки
+golem.arm.text.basic=Обычные руки и кисти. Ни достоинств, ни недостатков.
+golem.arm.fine=Манипуляторы
+golem.arm.text.fine=Манипуляторы очень ловки и точны.
+golem.arm.claws=Клешни
+golem.arm.text.claws=Эта ужасающая пара рук судя по всему может резать металлы. Встроен модуль агрессивности.
+golem.arm.breakers=Крушители
+golem.arm.text.breakers=Алмазные пневмодробители выполняют роль рук для голема. 
+golem.arm.darts=Арбалеты
+golem.arm.text.darts=Эти пневмоарбалеты выполняют роль рук голема. Болты магически создаются, когда они нужны. Встроен модуль агрессивности.
+#
+golem.leg.walker=Стандартные ноги
+golem.leg.text.walker=Обычные ноги. Ни достоинств, ни недостатков.
+golem.leg.roller=Колёса
+golem.leg.text.roller=Одно колесо. Повышает скорость, но лишает голема способности прыгать и взбираться по лестнице.
+golem.leg.climber=Ноги-кошки
+golem.leg.text.climber=Пара простых ног, улучшенная когтями и другими устройствами для вертикального подъёма.
+golem.leg.flyer=Модуль левитации
+golem.leg.text.flyer=Модифицированный магический подъёмник позволяет голему летать. Уменьшает скорость на треть.
+#
+golem.addon.armored=Броневое покрытие
+golem.addon.text.armored=Повыщает защиту голема.
+golem.addon.fighter=Модуль агрессивности
+golem.addon.text.fighter=Позволяет голему входить в ярость в бою.
+golem.addon.hauler=Корпус-корзина
+golem.addon.text.hauler=Позволяет голему нести два стака предметов вместо одного.
+#
+golem.follow=Я буду следовать за тобой, Хозяин
+golem.stay=Я буду стоять здесь, Хозяин
+#
+# Жижи
+##############################
+fluid.fluxGoo=Заражённая жижа
+fluid.fluxGas=Заражённый газ
+fluid.purifying_fluid=Очищающая жидкость
+fluid.liquid_death=Жидкая смерть
+#
+# Фокальные апгрейды
+##############################
+focus.upgrade.potency.name=Мощь
+focus.upgrade.potency.text=Это улучшение увеличивает урон или силу набалдашника. Прирост варьируется, но, в основном, составляет 20% за уровень.
+focus.upgrade.frugal.name=Бережливость
+focus.upgrade.frugal.text=Это улучшение уменьшает затраты Вис при использовании набалдашника на 10% за уровень.
+focus.upgrade.treasure.name=Клад
+focus.upgrade.treasure.text=Это улучшение похоже на зачарование Удача. Оно увеличивает шанс получения вещей более высокого качества или количество ресурсов при добыче.
+focus.upgrade.enlarge.name=Расширение
+focus.upgrade.enlarge.text=Это улучшение увеличивает зону действия набалдашника, или количество целей.
+focus.upgrade.extend.name=Длительность
+focus.upgrade.extend.text=Это улучшение увеличивает длительность любых эффектов, наложенных набалдашником.
+focus.upgrade.architect.name=Архитектор
+focus.upgrade.architect.text=Это улучшение усиливает контроль над эффектом набалдашника. Рабочая зона будет сразу показана, Вы можете изменить её размер клавишей G (изначально). Shift+G изменяет действие набалдашника в измерениях.
+#
+# Спецапгрейды
+##############################
+focus.upgrade.chainlightning.name=Цепная Молния
+focus.upgrade.chainlightning.text=Это улучшение уменьшает скорость срабатывания набалдашника, но увеличивает урон и наводит молнию на две дополнительные цели.
+focus.upgrade.earthshock.name=Рокот Гор
+focus.upgrade.earthshock.text=Вместо молнии, набалдашник будет выпускать шаровую молнию. При касании земли она наэлектризовывает область вокруг места падения на некоторое время.
+focus.upgrade.fireball.name=Огненный Шар
+focus.upgrade.fireball.text=Теперь вместо конуса огня набалдашник будет создавать взрывающийся огненный шар. Оголь Алхимика усиливает действие этого улучшения, позволяя зажигать область вокруг места падения.
+focus.upgrade.firebeam.name=Поток Огня
+focus.upgrade.firebeam.text=Набалдашник теперь испускает узконаправленный поток огня вместо конуса. Он прожигает всё на своем пути, нанося колоссальный урон.
+focus.upgrade.batbombs.name=Мыши-Бомбы
+focus.upgrade.batbombs.text=Это улучшение делает адских мышей ещё опаснее. Теперь они всегда взрываются при касании с врагом, нанося ещё больше урона.
+focus.upgrade.devilbats.name=Мыши-Дьяволы
+focus.upgrade.devilbats.text=С этим улучшением мыши становятся больше, сильнее и настырнее. Они больше не взорвутся, но будут атаковать цель до её смерти. 
+focus.upgrade.vampirebats.name=Мыши-Вампиры
+focus.upgrade.vampirebats.text=Это улучшение превращает адских мышей вампирами. Они нее только будут высасывать жизнь из врагов, исцеляя себя, но и будут этим исцелять Вас.
+focus.upgrade.scattershot.name=Ледяной Шторм
+focus.upgrade.scattershot.text=Вместо одной глыбы льда, набалдашник будет стрелять сразу кучей осколков. Каждый осколок наносит минимальный урон, но их количество решает эту проблему. 
+focus.upgrade.iceboulder.name=Ледяной Булыжник
+focus.upgrade.iceboulder.text=Теперь набалдашник станет стрелять ледяным шаром. Этот шар имеет способность отскакивать от поверхностей, что делает его смертельным оружием в тренированных руках. 
+focus.upgrade.alchemistsfire.name=Огонь Алхимика
+focus.upgrade.alchemistsfire.text=Это улучшение повышает мощь огня в набалдашнике. Все поражённые цели будут гореть дольше.
+focus.upgrade.alchemistsfrost.name=Лёд Алхимика
+focus.upgrade.alchemistsfrost.text=Это улучшение повышает мощь льда в набалдашнике. При прикосновении снаряда к цели, она будет сильно заторможена и охлаждена.
+focus.upgrade.nightshade.name=Ночная Тень
+focus.upgrade.nightshade.text=Обычно, набалдашник проклятия Гнома просто дает гадкие эффекты врагу редко и по одному. Теперь он будет наносить все эффекты и сразу.
+focus.upgrade.silktouch.name=Шёлковое Касание
+focus.upgrade.silktouch.text=Как и одноимённое зачарование, это улучшение позволяет собирать блоки как они есть в мире.
+focus.upgrade.seeker.name=Искатель
+focus.upgrade.seeker.text=Это улучшение даёт сингулярному шару "интеллект" для поиска ближайшей живой цели. Это стабилизирует шар и предохраняет его от необдуманных решений.
+focus.upgrade.dowsing.name=Локатор
+focus.upgrade.dowsing.text=Это улучшение даёт набалдашнику копания шанс добыть из руды кластер. Эти кластеры обычно дают удвоенное количество слитков при переплавке.
+focus.upgrade.persistant.name=Постоянство
+focus.upgrade.persistant.text=Когда цель снаряда пропадает из поля видимости или умирает, снаряд подыскивает поблизости другую цель того же типа.
+focus.upgrade.sticky.name=Липкость
+focus.upgrade.sticky.text=Крюк больше не отцепляется сам по себе. Вам нужно вручную отцепить его от поверхности. 
+#
+# Гуй
+###################
+recipe.return=Назад
+recipe.clickthrough=К исследованию
+recipe.type.workbench=Верстак
+recipe.type.smelting=Переплавка
+recipe.type.workbenchshapeless=Верстак (Беспорядочно)
+recipe.type.arcane=Магический верстак
+recipe.type.crucible=Тигель
+recipe.type.infusion=Наполнение
+recipe.type.construct=Мистическая конструкция
+wandtable.text1=Затраты Вис
+wandtable.text2=Затраты опыта
+wandtable.text3=Начать улучшение
+button.turretfocus.1=Цель - Животные
+button.turretfocus.2=Цель - Мобы
+button.turretfocus.3=Цель - Игроки
+button.turretfocus.4=Цель - Дружелюбные существа
+turretfocus.range=Дальность - %t блоков
+button.category.0=Приоритет/Запирание
+button.category.1=Фильтр
+button.category.2=Зона
+button.category.3=Настройки
+button.category.4=Необходимости
+button.caption.x=Восток / Запад
+button.caption.y=Верх / Низ
+button.caption.z=Север / Юг
+button.bl=Чёрный список
+button.wl=Белый список
+button.caption.required=Необходимо
+button.caption.forbidden=Запрещено
+golem.prop.replant=Пересадка семян
+golem.prop.cycle=Цикличный белый список
+golem.prop.meta=Метаданные
+golem.prop.nbt=NBT данные
+golem.prop.ore=Словарь руд
+golem.prop.mod=Мод этого предмета
+golem.prop.mob=Атаковать мобов 
+golem.prop.animal=Атаковать животных
+golem.prop.player=Атаковать игроков
+golem.prop.left=ЛКМ
+golem.prop.empty=Использовать на воздухе
+golem.prop.emptyhand=Можно использовать пустой рукой
+golem.prop.sneak=Симулировать Shift+ПКМ
+golem.prop.single=По одному предмету
+golem.prop.provision=Запрос резервов
+golem.prop.provision.wl=Запрос резервов из белого списка
+golem.rank=Уровень
+golem.prop.priority=Приоритет
+golem.prop.color=Цвет големов: %s
+golem.prop.colorall=Все големы
+golem.prop.owner=Это Ваша печать
+golem.prop.lock=Только големы с хозяином могут выполнить эту задачу
+golem.prop.unlock=Все големы могут выполнять эти задачи
+golem.prop.redon=Чувствительность к красному камню
+golem.prop.redoff=Игнорирование красного камня
+golem.prop.exist=Контейнер уже должен содержать предметы
+golem.prop.leave=Всегда оставлять хотя бы 1 предмет
+#
+tile.researchtable.noink.0=Чернила кончились!
+tile.researchtable.noink.1=Наполните письменные принадлежности.
+text.spa.mix.true=Смешивать
+text.spa.mix.false=Просто выливать
+#
+color.white=Белый
+color.orange=Оранжевый
+color.magenta=Пурпурный
+color.light_blue=Голубой
+color.yellow=Жёлтый
+color.lime=Лаймовый
+color.pink=Розовый
+color.gray=Серый
+color.silver=Светло-серый
+color.cyan=Бирюзовый
+color.purple=Фиолетовый
+color.blue=Синий
+color.brown=Коричневый
+color.green=Зелёный
+color.red=Красный
+color.black=Чёрный
+#
+# Другое
+###################
+itemGroup.thaumcraft=Thaumcraft
+#
+nodetype.0=Нормальный
+nodetype.1=Зловещий
+nodetype.2=Голодный
+nodetype.3=Чистый
+nodetype.4=Заражённый
+nodetype.5=Нестабильный
+nodetype.6=Астральный
+
+tc.taint_item_poison=Пары от %s заразили Вас Порчей
+death.attack.taint=%1$s умер от заражения
+death.attack.taint.player=%1$s умер от заражения, пока боролся с %2$s
+death.attack.tentacle=%1$s раздавило %2$s
+death.attack.swarm=%1$s умер от заражения благодаря %2$s
+death.attack.swarm.item=%1$s умер от заражения благодаря %2$s , использовавшим %3$s
+death.attack.dissolve=%1$s растворился
+death.attack.dissolve.player=%1$s растворился в битве с %2$s
+tc.handmirrorlinkedto=Привязано к
+tc.handmirrorlinked=Связь установлена.
+tc.handmirrorerror=Другое зеркало потеряно или сломано. Связь оборвана.
+tc.researcherror=Вам не хватает знаний для изучения этого.
+tc.researchexists=Вы уже знаете это.
+tc.discoveryerror=Чтобы понять это, Вам нужно получше изучить %1$s.
+tc.discoveryunknown=Неизвестная теория
+tc.discoveryprogress=% завершено
+tc.portableholeerror=В червоточине недостаточно заряда, чтобы сделать это.
+tc.key1=Ключ был привязан к этой Магической двери.
+tc.key2=Ключ был привязан к этой Магической нажимной плите.
+tc.key3=Теперь Вы можете открыть эту дверь.
+tc.key4= Вы также можете дать доступ другим игрокам.
+tc.key5=Теперь Вы можете взаимодействовать с этой нажимной плитой на правах владельца.
+tc.key6= Вы также можете дать доступ к изменению настроек другим игрокам.
+tc.key7=Ключ не привязан к этому объекту.
+tc.key8=У Вас уже есть доступ.
+tc.key9=Этот ключ предоставляет доступ к
+tc.key10=магической двери на
+tc.key11=магической нажимной плите на
+tc.wandnocharge=В жезле недостаточно заряда, чтобы сделать это.
+tc.wandcharge=Этот жезл сейчас содержит %s Вис
+tc.jaressentia=Содержит %s эссенции
+tc.jarname=Банка с
+tc.markedloc=Отмеченные места
+tc.addclue=§aВы открыли что-то, связанное с другим исследованием!§0
+tc.addpage=§aВы открыли что-то новое, связанное с %1$s§0
+tc.addaspect=§aВы получили практическое знание %1$s§0
+tc.addwarp=§5Уровень постоянного искажения увеличился!§0
+tc.addwarptemp=§5Уровень временного искажения увеличился!§0
+tc.addwarpsticky=§5Уровень искажения повысился!§0
+tc.removewarp=§5Уровень постоянного искажения уменьшился!§0
+tc.removewarpsticky=§5Уровень искажения понизился!§0
+tc.removewarptemp=§5Уровень временного искажения уменьшился!§0
+tc.forbidden=§l§5Забытое знание (%n)§0
+tc.forbidden.level.1=Безопасное
+tc.forbidden.level.2=Слабое
+tc.forbidden.level.3=Среднее
+tc.forbidden.level.4=Опасное
+tc.forbidden.level.5=Запретное
+tc.unknownobject=Этот объект нельзя изучить.
+tc.markerchange=Цвет маркера установлен на %n
+tc.markerchangeany=Выберите любой цвет
+tc.researchmissing=Отсутствует необходимое исследование!
+tc.discount= - уменьшение затрат
+tc.visdiscount=Уменьшение затрат Вис
+tc.vis.cost=затраты Вис
+tc.vis.costavg=средние затраты Вис
+tc.charge=Заряд Вис:
+tc.inst=Нестабильность: 
+tc.inst.0=§1Незаметная§0
+tc.inst.1=§9Слабая§0
+tc.inst.2=§5Средняя§0
+tc.inst.3=§eСильная§0
+tc.inst.4=§6Очень сильная§0
+tc.inst.5=§4Опасная§0
+tc.adv=Улучшен
+tc.thaumometer=Нажмите '$s' для смены отображаемого
+tc.resonator1=§9Содержит %1$s %2$s ед. эссенции§0
+tc.resonator2=§5Поток силой %1$s, %2$s §0 
+tc.resonator3=Неизв.
+tc.search=Поиск
+tc.search.more=...слишком много найдено. Поищите снова
+tc.research.newpage=§aНовая страница добавлена§0
+tc.research.newresearch=§6Новое открытие§0
+tc.research.purchase=Нажмите, чтобы получить это знание
+tc.research.short=У Вас недостаточно аспектов для получения этого знания
+tc.research.getprim=Нажмите, чтобы получить записки этого исследования
+tc.research.shortprim=Вам нужны письменные принадлежности и бумага
+tc.research.hasnote=У Вас уже есть записки этого исследования в инвентаре
+tc.research.popup=Записки исследования %1$s добавлены в инвентарь
+tc.research.add=Нажмите ПКМ чтобы изучить фрагмент и получить по 1 основному аспекту.
+tc.primalcharm.0=Кажется, протекает
+tc.primalcharm.1=Вам кажется шепот
+tc.primalcharm.2=Сильно вибрирует
+tc.primalcharm.3=Успокаивающе напевает
+tc.primalcharm.4=Стоп, он сейчас сверкнул седьмым цветом?
+tc.primalcharm.trigger=Странной энергией окутан этот амулет. Она быстро рассеивается, но у Вас остается какое-то вдохновение...
+tc.break.fly=Что-то предотвращает Ваши попытки взлететь.
+tc.boss.enrage=пришёл в ярость от Ваших мощных выпадов.
+tc.levitator=Дальность установлена в %s блоков. (%d Вис/мин)
+tc.dioptra.1=Показывает уровень %s в Ауре. 
+tc.dioptra.2=Показывает наибольший аспект Ауры.
+tc.dioptra.3=Показывает соотношения уровней аспектов Ауры.
+tc.notowned=Это Вам не принадлежит.
+tc.fluxevent.1=Близлежащая Аура как будто вихрится, спутывая Ваши мысли.
+tc.fluxevent.2=Аура внезапно становится нестабильной, снижая Ваши магические способности.
+#
+# Аспекты
+tc.aspect.primal=Основной Аспект
+tc.aspect.unknown=Неизвестный Аспект
+tc.aspect.aer=Воздух
+tc.aspect.terra=Земля
+tc.aspect.ignis=Огонь
+tc.aspect.aqua=Вода
+tc.aspect.ordo=Порядок, Организованность 
+tc.aspect.perditio=Хаос, Разрушение
+tc.aspect.vacuos=Пустота, Неизвестность, Скрытность
+tc.aspect.auram=Аура, Эфир, Чистота
+tc.aspect.vitium=Зараза, Инфекция
+tc.aspect.lux=Свет, Яркость, День
+tc.aspect.potentia=Сила, Энергия, Мощь
+tc.aspect.motus=Движение, Оживление
+tc.aspect.victus=Жизнь, Еда, Питание
+tc.aspect.mortuus=Смерть, Распад, Нежить
+tc.aspect.volatus=Полет, Прыжок
+tc.aspect.tenebrae=Тьма, Ночь, Слепота
+tc.aspect.herba=Рост, Трава, Растение
+tc.aspect.spiritus=Душа, Трансцендентность
+tc.aspect.humanus=Человек
+tc.aspect.bestia=Животное, Зверь
+tc.aspect.exanimis=Нежить
+tc.aspect.cognitio=Разум, Память, Познание
+tc.aspect.sensus=Чувство, Осязание, Видение
+tc.aspect.metallum=Металл, Прочность, Руда
+tc.aspect.instrumentum=Инструмент, Прибор, Орудие
+tc.aspect.aversio=Неприятие, Конфликт
+tc.aspect.gelum=Лёд, Мороз, Холод
+tc.aspect.vitreus=Стекло, Кристалл, Прозрачность
+tc.aspect.alienis=Чужой, Неестественный, Жуткий
+tc.aspect.praemunio=Оборона, Защита, Безопасность
+tc.aspect.fabrico=Создание, Ремесло
+tc.aspect.desiderium=Вожделение, Нужда
+tc.aspect.machina=Механизм, Машина, Устройство
+tc.aspect.vinculum=Ловушка, Тюрьма
+tc.aspect.permutatio=Бартер, Торговля, Обмен
+#  
+# Категории
+tc.research_category.BASICS=Базовая информация
+tc.research_category.THAUMATURGY=Тауматургия
+tc.research_category.ALCHEMY=Алхимия
+tc.research_category.ARTIFICE=Изобретения
+tc.research_category.GOLEMANCY=Големантия
+tc.research_category.ELDRITCH=Древние знания
+#  
+# Авторы и соавторы перевода
+# 
+# Основной перевод Mexahoid
+# Короче, немного фиксов от Древнего (для модберина - хаюшкин xD) (handicraftsman)
+#
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+#
+# Базовые знания
+#######################
+tc.research_name.RESEARCH=Исследования
+tc.research_text.RESEARCH=С чего все начинается
+tc.research_page.RESEARCH.1=Прежде чем создавать таумические предметы и блоки, сперва Вы должны понять как это делается. В этом процессе есть несколько этапов:<BR>(1) Используйте аспекты, которые Вы узнали и открывайте новые знания и рецепты с помощью §5Стола Исследований§0.<BR><BR>(2) Исследуйте мир, блоки, предметы и существ с помощью §5Таумометра§0<LINE>Собственно, кроме §5Таумометра§0 и стола исследований Вам пока ничего более не понадобится.
+tc.research_page.RESEARCH.2=Чтобы собрать §5Стол исследований§0, просто поставьте деревянный стол и примените на него ПКМ письменные принадлежности.<BR>Рецепты §5Таумометра§0 и §5Письменных принадлежностей§0 будут показаны позже.<LINE><IMG>thaumcraft:textures/research/research1.png:0:0:255:208:.5</IMG>
+tc.research_page.RESEARCH.3=§l§n(1) Первичное изучение§r<BR>На этом этапе у Вас должны иметься письменные принадлежности с бумагой.<BR>Если Вы откроете Таумономикон, то Вы увидите все Ваши знания, а также те знания, что можно получить.<IMG>thaumcraft:textures/research/research2.png:0:0:128:83:1</IMG> 
+tc.research_page.RESEARCH.4=Мерцающие квадратные или круглые иконки показывают доступные Вам исследования.<BR>Когда Вы нажмёте на эти иконки, то получите соответствующие записки исследований, при этом будут немного израсходованы чернила и бумага.<BR>Теперь можно продолжить изучение, положив эти записки в слот §l2§r и письменные принадлежности в слот §l1§r (они уже лежат там, когда Вы собрали стол).
+tc.research_page.RESEARCH.5=В зоне §l3§r показывается количество доступных для использования в исследовании аспектов.<BR>В зоне §l5§r будет лежать лист бумаги, покрытый аспектами в шестиугольных фигурах.<IMG>thaumcraft:textures/research/research2.png:0:88:255:158:.5</IMG>
+tc.research_page.RESEARCH.6=Чтобы закончить исследование, необходимо соединить и активировать иконки аспектов. Это можно сделать, перетаскивая аспекты в шестиугольники, находящиеся рядом с активными аспектами. Но они соединятся только если один из этих аспектов является частью другого.<IMG>thaumcraft:textures/research/research3.png:0:0:150:95:.75</IMG>
+tc.research_page.RESEARCH.7=Помещение аспекта в шестиугольник стоит одного соответствующего аспекта. Если Вы ошиблись - нажмите на аспект для его удаления, но он Вам не будет возвращен.<BR>Если у Вас кончатся аспекты, то лучше отложить эти записки и начать сначала.<BRЧтобы получить составные аспекты, Вам их нужно создать из основных аспектов. Про это будет рассказано позднее...
+tc.research_page.RESEARCH.8=Прожолжайте, пока у Вас не получится связанная из аспектов сеть. Внешние аспекты не должны быть напрямую соединены с другими внешними - достаточно лишь связи с сетью.<BR>Когда Вы закончите исследование, записки превратятся в открытие.<LINE>Помещение или удаление аспектов требует наличия чернил. Если у Вас закончились чернила, то перезаполните письменные принадлежности.
+tc.research_page.RESEARCH.9=§l§nКомбинирование аспектов§r<BR>Нажмите или перетащите те аспекты, которые Вы хотите объединить. Выбранные аспекты отобразятся в области §l4§r. Остается нажать на фиолетовую кнопку в области для их комбинирования. В случае успеха, Вы увидите информацию о получении очков исследования в правом нижнем углу экрана, а также сам аспект в области §l3§r.<BR>Объединяемые аспекты будут расходоваться даже в том случае, если их комбинация невозможна.
+tc.research_page.RESEARCH.10=§l    §nВторичное изучение§r<BR>Шестиугольные иконки обозначают вторичные исследования. Как и с первичными, на них надо нажимать. Но вместо получения записок, Вы сразу их изучаете. Вторичные исследование требуют небольшого кол-ва опыта для изучения, при этом Вам не требуются письменные принадлежности.
+tc.research_page.RESEARCH.11=§l§n(2) Исследование мира§r<BR><BR>Хотя с самого начала Вам доступно немало исследований, некоторые исследования нельзя получить просто так. Они могут быть скрыты до тех пор, пока Вы не изучите что-то конкретное. Лучший способ найти именно этот конкретный объект - изучение и исследование мира.<BR>Во первых, Вам нужно создать §5Таумометр§0. Наведя §5Таумометр§0 на объект или существо и нажав правую кнопку мыши Вы попытаетесь его исследовать.
+tc.research_page.RESEARCH.12=Если Вы сможете его исследовать, то появится уведомление о том, что Вы получили подсказку.<BR>Точная природа подсказок не всегда ясна. Смотрите почаще в Таумономикон на предмет появления новых исследований (помечены золотой звездой), или добавления новых знаний к какому-то открытию (зеленый крест).<BR>Обычно такие исследования имеют оранжевый фон иконки.
+#
+tc.research_name.KNOWFRAG=Фрагменты знаний
+tc.research_text.KNOWFRAG=Древние утерянные знания
+tc.research_page.KNOWFRAG.1=В своих путешествиях Вы можете случайно найти фрагменты древних и утерянных знаний.<BR>Использовав фрагмент в руке (нажав ПКМ), Вы получите немного опыта.<BR>Кто знает, может быть, их ещё как-нибудь можно использовать...
+#
+tc.research_name.ASPECTS=Магические аспекты
+tc.research_text.ASPECTS=На чём держится вся магия
+tc.research_page.ASPECTS.1=Каждый предмет, объект или существо связаны различными мистическими элементами, известными как §5Аспекты§0. Аспекты описывают состав объектов и их магическую природу. Простой камень может содержать аспект §2Terra§0, в то время, как сложные объекты вроде деревьев или существ могут быть собраны из множества аспектов в разных количествах. Всего известно около 40 аспектов.<LINE>Есть два ключевых типа аспектов: §5Основные§0 и §5Составные§0.
+tc.research_page.ASPECTS.2=§lОсновные аспекты§r являются главным типом аспектов и делятся на 6 видов: §6Aer§0 (воздух), §2Terra§0 (земля), §cIgnis§0 (огонь), §3Aqua§0 (вода), §fOrdo§0 (порядок), §8Perditio§0 (хаос).<BR>Эти типы являются основой для создания всех остальных аспектов.<BR>§lСоставные Аспекты§r создаются при комбинировании двух определенных аспектов. Самые простые составные аспекты получаются при комбинировании двух основных аспектов. Эти простые составные аспекты в свою очередь комбинируются в большое количество более сложных аспектов.<BR>Самый простой пример составного аспекта - аспект §4Victus§0 (жизнь), который является комбинацией аспектов §2Terra§0 и §3Aqua§0.
+tc.research_page.ASPECTS.3=Для того, чтобы увидеть, какие аспекты и их количество содержит в себе предмет, просто наведите на него курсор и нажмите (shift).<LINE>Аспекты, которые были так или иначе отделены от их объекта и очищены, известны как §5Вис§0 и очень ценны: и как компонент для создания и как предмет для магических исследований.<BR>Вис чаще всего сохраняется и используется с помощью вашего магического жезла, но также есть возможность хранить его в виде магической жидкости. Вис, находящийся в форме жидкости также известен как §5Эссенция§0.
+#
+tc.research_name.NODES=Аура и её узлы
+tc.research_text.NODES=Магия повсюду!
+tc.research_page.NODES.1=§5Аура§0 - поле некой магической энергии, распространённое по всему миру. Её происхождение остаётся неясным. Одни полагают, что это - накопленная жизненная сила живых существ, другие, что это всего лишь ещё один вид энергии, просочившийся из другого измерения. Последняя теория более вероятна, так как Аура часто встречается вокруг узла концентрированной энергии, известного как §5Узел Ауры§0.<BR>Ауры имеют определённые количества основных аспектов. К примеру, Ауры влажных районов часто имеют много аспекта §3Aqua§0, а пустынных - §cIgnis§0.
+tc.research_page.NODES.2=Аура в каждом чанке разная. Если Аура одной зоны истощается, то соседские Ауры ей отдают немного своей энергии. Но количества аспектов не стремятся уравняться - они независимы сами по себе.<BR>Аура также может стать исказиться и получить аспект §5Vitium§0, который сильнее, чем другие аспекты и старается их поглотить перед распространением на соседние Ауры. Слишком истощённые Ауры могут "самоискажаться".<BR>Если Аура сильно искажена, то она может стать §lЗаражённой§r. По поводу заражения есть отдельная статья в Таумономиконе.
+tc.research_page.NODES.3=Узлы Ауры - это своеобразные каналы в другие мистические измерения. Обычно узел ауры состоит из §5Основных Аспектов§0, но изредка можно встретить узлы ауры, имеющие §5Составные аспекты§0.<BR>С узлами нельзя взаимодействовать напрямую, но они восстанавливают Ауру вокруг них.<BR>Обычно скорость восстановления зависит от фазы луны - в полнолуние она самая высокая.<BR>Размер узла также влияет на скорость восстановления.
+tc.research_page.NODES.4=Узлы Ауры практически не найти невооружённым глазом. Часто единственным способом их обнаружения является изучение уровня аспектов в Ауре.<BR>Узлы Ауры реагируют на соседей - они притягиваются. Когда они достаточно сблизятся, они соединятся в один большой узел, имеющий свойства своих "родителей", но иногда могут быть другие последствия.<BR>Пока было найдено несколько типов узлов, но информации о них не особо много.
+tc.research_page.NODES.A=§l§nАстральные узлы§r<BR>Эти узлы реагируют на свет - чем его больше, тем быстрее восстанавливается Аура.  
+tc.research_page.NODES.D=§l§nЗловещие узлы§r<BR>Эти узлы наиболее активны в темноте и при новолунии. Более того, зона вокруг таких узлов часто тоже зловеща и опасна, так как в ней могут быть корни другой злой и опасной реальности.
+tc.research_page.NODES.H=§l§nГолодные узлы§r<BR>Вместо зарядки Ауры, они её истощают. Судя по всему, такие узлы тем больше увеличиваются в размерах и силе, чем больше Ауры они поглотят.<BR>Многие тауматурги поддерживают теорию того, что голодный узел - это обычный узел, повёрнутый в наш мир другой стороной, но если бы это действительно было так, то голодные узлы встречались бы гораздо чаще. К счастью, эта теория пока не нашла подтверждения.
+tc.research_page.NODES.P=§l§nЧистые узлы§r<BR>Чистые узлы - желанная находка. Они медленно искореняют искажение из близлежащей Ауры, но, судя по всему, это их разрушает.
+tc.research_page.NODES.T=§l§nЗаражённые узлы§r<BR>Эти узлы магически заражены. Энергия, которую они испускают, тоже заражённая и в итоге она исказит близлежащую Ауру. Со всеми последствиями.
+tc.research_page.NODES.U=§l§nНестабильные узлы§r<BR>Эти узлы очень нестабильны и типы аспектов, которые они восстанавливают, непредсказуемо изменяются с течением времени.
+#
+tc.research_name.ORE=Руды
+tc.research_text.ORE=Копай глубже
+tc.research_page.ORE.1=§l§nМагические кристаллы§r<BR><IMG>thaumcraft:textures/research/research4.png:0:0:128:128:.6</IMG><BR>Иногда появляется так много магической энергии, что она начинает конденсироваться на камнях в виде кристаллов. Пока есть избыток энергии, кристаллы будут расти и даже распространяться.<BR>Но когда Аура истощается,
+tc.research_page.ORE.2=кристаллы испаряются опять же в виде энергии, восстанавливая Ауру. Таким образом, кристаллы представляют собой своеобразные батареи для Вис. Но они никогда полностью не исчезают - как минимум один маленький кристалл всегда остаётся.<BR>Эти кристаллы можно собрать и применить в Тауматургии.<BR><IMG>thaumcraft:textures/research/research3.png:0:104:96:16:1</IMG><BR>Пока не существует метода собрать несколько кристаллов. Либо всё, либо ничего.<BR>Кристаллы, растущие в заражённой зоне тоже могут заразиться.
+tc.research_page.ORE.3=§l§nКиноварь§r<BR><IMG>thaumcraft:textures/research/research3.png:128:128:128:128:.6</IMG><BR>Эту красноватую руду можно найти под землей, при переплавке из нее получается ртуть.<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
+tc.research_page.ORE.4=§l§nЯнтарь§r<BR><IMG>thaumcraft:textures/research/research3.png:0:128:128:128:.6</IMG><BR>Эта руда обычно находится около поверхности, при добыче из нее выпадает кусок янтаря.<BR><BR><IMG>thaumcraft:textures/items/amber.png:0:0:255:255:0.0625</IMG>
+#
+tc.research_name.PLANTS=Растения и деревья
+tc.research_text.PLANTS=Магическая растительность
+tc.research_page.PLANTS.1=§l§nВеликие деревья§r<BR><IMG>thaumcraft:textures/research/research4.png:128:128:128:128:.6</IMG><BR>Эти огромные магические деревья можно без труда найти на зеленых биомах и равнинах.<BR>Их древесина поглощает магию, что делает их древесину популярным элементом разных магических изобретений.
+tc.research_page.PLANTS.2=§l§nСеребряные Деревья§r<BR><IMG>thaumcraft:textures/research/research4.png:0:128:128:128:.6</IMG><BR>Эти крайне редкие магические деревья выглядят просто чудесно. Их листья сияют магической энергией, а бледная, мягкая древесина используется как фильтр, благодаря своим очищающим способностям.<BR>В сердцевине кроны таких деревьев часто есть узел Ауры, благодаря чему такой саженец является желанным призом.
+tc.research_page.PLANTS.3=§l§nСребролист§r<BR><IMG>thaumcraft:textures/research/research4.png:128:0:128:128:.6</IMG><BR>Эти странные светящиеся цветы растут только в тени Серебряных Деревьев. Их можно собрать и переработать в ртуть.<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
+tc.research_page.PLANTS.4=§l§nОгненный жемчуг§r<BR><IMG>thaumcraft:textures/research/research5.png:0:0:128:128:.6</IMG><BR>Эти цветы, растущие только в самых жарких местах горят чистым первородным огнем и могут быть сорваны для получения Огненного порошка.
+tc.research_page.PLANTS.5=§l§nВисомор§r<BR><IMG>thaumcraft:textures/research/research5.png:0:128:128:128:.6</IMG><BR><BR><BR>Эти странные, светящиеся грибы растут только в магических лесах.<BR>Они выпускают галлюциногенные газы, так что не стоит к ним близко подходить.
+#
+tc.research_name.CRYSTALFARMER=Фермер кристаллов
+tc.research_text.CRYSTALFARMER=Помогая расти
+tc.research_page.CRYSTALFARMER.1=Вы сделали несколько открытий, благодаря которым Вы получили возможность "сажать" стихийные кристаллы на камнях.<BR>Кроме того, Вы теперь можете откалывать один кристалл без необходимости ломания всего скопления - просто примените жезл на скоплении нажатием ПКМ.
+#
+tc.research_name.RESEARCHER1=Экспертиза
+tc.research_text.RESEARCHER1=В знаниях - сила!
+tc.research_page.RESEARCHER1.1=Теперь Вы изучаете более тщательно.<BR>Каждый раз, удаляя аспект, помещенный в шестиугольник, у Вас есть 25% шанс вернуть себе этот аспект.<BR>Вы также можете видеть составные части аспекта при наведении на него курсора мыши.
+#
+tc.research_name.RESEARCHER2=Мастерство
+tc.research_text.RESEARCHER2=Сила в знании
+tc.research_page.RESEARCHER2.1=Теперь Вы изучаете намного тщательней.<BR>Каждый раз удаляя аспект, помещенный в шестиугольник, у Вас есть 50% шанс вернуть себе этот аспект.<BR>А также, у Вас есть 10% шанс не потратить аспект при его помещении в шестиугольник.<BR>Наконец, Вы теперь можете множить составные аспекты, которые у Вас есть, нажав на них Shift+ЛКМ. Если у Вас достаточно нужных аспектов, то этот аспект будет собран.
+#
+tc.research_name.RESTABLE=Стол исследования
+tc.research_text.RESTABLE=Для сбора знаний
+tc.research_page.RESTABLE.1=Стол исследования собирается с помощью деревянного стола и письменных принадлежностей.<BR>Стол исследований - самый важный инструмент тауматурга. Он используется для разблокировки всех секретов вселенной и нахождения новых способов использования магии. 
+#
+tc.research_name.THAUMONOMICON=Таумономикон
+tc.research_text.THAUMONOMICON=Хранилище знаний
+tc.research_page.THAUMONOMICON.1=Для создания Таумономикона, просто примените Ваш жезл на книжной полке.<BR>Таумономикон - справочник всех таумических вещей. Он показывает Ваши открытия в области магии и дает общее впечатление о том, что еще не открыто.<BR>Всякий раз, когда Вы что-то успешно исследуете и используете открытие (ПКМ в руках), оно автоматически добавляется в эту книгу. Вы можете искать и просматривать открытия, нажимая на них(ЛКМ), чтобы увидеть более подробную информацию, а также любые рецепты создания, связанные с этими открытиями.
+#
+tc.research_name.ENCHANT=Зачарования
+tc.research_text.ENCHANT=Новенькие зачарования!
+tc.research_page.ENCHANT.1=Thaumcraft добавляет новые чары.<BR>§nСпешка§r<BR>Это зачарование может быть применено к обуви всех видов, увеличивая при этом скорость ходьбы. Чем выше уровень чар - тем выше скорость.<BR>§nВосстановление§r<BR>Это зачарование медленно восстанавливает прочность предметов, высасывая Вис из окружающей Ауры.
+tc.research_page.ENCHANT.2=Чем выше уровень зачарования - тем выше скорость восстановления. Это зачарование может быть применено только к предметам из Thaumcraft, да и то не ко всем.
+#
+tc.research_name.PECH=Гномы
+tc.research_text.PECH=Странные существа
+tc.research_page.PECH.1=Эти чудные гуманоиды могут быть найдены там, где грань между мирами тоньше тонкого. Они будто сотканы из магической энергии, которой в подобных местах предостаточно.<BR>Но не позволяйте их скромным габаритам ввести Вас в заблуждение. Они обладают огромной силой и способны нести вес во много раз превышающий свой собственный.<BR>Гномы, как правило, не агрессивны, но когда впадают в ярость, они будут действовать сообща, чтобы дать отпор обидчику. При обычных обстоятельствах они любой ценой избегают контактов с людьми.
+tc.research_page.PECH.2=Известно, что Гномы очень скупы и тащат всё, что плохо лежит, но предпочитают драгоценности. Это значит, что они способны на дружбу, если её иногда поощрять. Порой, они могут принести удивительные предметы с которыми будут готовы расстаться.<BR>Однако подобная 'дружба' не может длиться долго.<BR><IMG>thaumcraft:textures/research/research5.png:128:136:112:120:.75</IMG>
+#
+tc.research_name.WARP=Искажение, Порча и всё остальное
+tc.research_text.WARP=У всего есть своя цена
+tc.research_page.WARP.1=§nИскажение§r<BR>Многие считают, что человек не должен изучать магию. И ничего это не подтверждает так, как Искажение.<BR>Исследование запрещенных знаний или разработка объектов сомнительного характера имеет тенденцию искажать разум тауматурга, скручивая тела и портя их умы. Это называют Искажением.<BR>Хотя некоторые типы Искажений носят временный характер и будут исчезать со временем, нет известных способов избавления от постоянного Искажения, полученного один раз тауматургом, игнорирующим опасность в погоне за властью
+tc.research_page.WARP.2=и встающим на скользкий путь.<BR>Искажение обычно проявляется как незначительные проблемы с концентрацией, физической болью или галлюцинациями.<BR>Это больше, чем просто умственное заболевание, хотя, некоторые видения иногда дают полезные знания. Но некоторые галлюцинации оказываются пугающе реальными.
+tc.research_page.WARP.3=§nПорча§r<BR>Если Искажение является психическим проявлением магии, то Порча является её физическим проявлением.<BR>Порча может проявляться тремя способами: жидкость, газ и физическая болезнь. Первые два проявления просто выглядят отвратительно и часто являются результатом неосторожного использования магии. Их не особо трудно убрать, но наступание в них часто вызывает третье проявление: Магическое истощение.<BR>Магическое истощение не особо опасно, но пока тауматург им страдает, ему трудно сосредоточиться, что приводит к увеличению затрат Вис на работу.
+#
+# Тауматургия 
+#######################
+tc.research_name.BASICTHAUMATURGY=Основы создания жезлов
+tc.research_text.BASICTHAUMATURGY=Ваш первый инструмент
+tc.research_page.BASICTHAUMATURGY.1=Жезл - это самый простой, но очень важный инструмент. Он нужен для создания объектов, активации магических блоков и множества других целей.<BR>Самый простой жезл содержит очень мало энергии Вис, которая им используется. Чтобы набрать энергии, зажмите ПКМ, направив жезл на узел Ауры.<BR>Пока Вы держите жезл, будет виден индикатор в верхнем левом углу экрана, показывающий, сколько Вис в нем содержится.
+tc.research_page.BASICTHAUMATURGY.2=Зажав Shift, Вы увидите численное количество Вис в жезле.<BR>Жезлы всегда делаются из стержня и наконечников. Чем больше Вы исследуете, тем больше будете знать о материалах, нужных для создания самого мощного жезла. Только базовый жезл может быть сделан на верстаке. Все остальные требуют §5Магический верстак§0 и будут требовать Вис для создания.<BR>Простейший жезл делается из дерева и железа - материалов с плохими магическими свойствами.
+#
+tc.research_name.NODETAPPER1=Улучшенное обращение с Аурой
+tc.research_text.NODETAPPER1=Все моё!
+tc.research_page.NODETAPPER1.1=Обычно выкачивание Вис из Ауры проходит довольно медленно... Но не теперь!<BR>Вы открыли более эффективный путь выкачивания энергии аспектов, что позволит Вам выкачивать их вдвое быстрее. Кроме того, можно не держать жезл в руке - лишь на панели быстрого доступа.
+#
+tc.research_name.NODETAPPER2=Мастерское обращение с Аурой
+tc.research_text.NODETAPPER2=Весь Ваш Вис принадлежит нам!
+tc.research_page.NODETAPPER2.1=Вы открыли более эффективные методы выкачивания Вис из Ауры.<BR>Теперь Вы выкачиваете энергию в три раза быстрее.
+#
+tc.research_name.AURAPRESERVE=Сохранение Ауры
+tc.research_text.AURAPRESERVE=Всё в порядке
+tc.research_page.AURAPRESERVE.1=Теперь Вы умеете инстинктивно прекращать высасывание Ауры жезлами и другими устройствами при её истощении.<BR>Это относится только к жезлам и устройствам, которые Вы носите в инвентаре.
+#
+tc.research_name.AURAMANIP1=Начала манипуляции Аурой
+tc.research_text.AURAMANIP1=Пусть магия течёт!
+tc.research_page.AURAMANIP1.1=Вы сделали несколько интересных открытий касательно Ауры и пора претворить их в жизнь. Вы создали тотем, отталкивающий Вис от себя - Тотем Рассеяния.<BR>Как подсказывает название, он собирает Вис и отталкивает его от себя на большую площадь.<BR>Игры с Аурой рискованны, поэтому тотем с небольшим шансом может исказить Вис вместо его отталкивания.<BR>Тотему нужны кристаллы, которые он использует в качестве топлива, причём тип отталкиваемого Вис зависит от кристаллов.  
+tc.research_page.AURAMANIP1.2=Каждый тотем имеет внутреннюю и внешнюю область работы. Внутренняя область составляет чанк, в котором находится тотем, а внешняя - зона в 8 чанков вокруг внутренней зоны.<BR>Тотем Рассеяния берет Вис из внутренней зоны и распыляет его во внешнюю.<LINE>Также Вы разработали два модификатора. Они должны быть поставлены под тотемом в количестве не более 5 штук. Эти модификаторы изменяют внутреннюю и внешнюю зоны работы тотема. 
+tc.research_page.AURAMANIP1.3=К примеру, Тотем Рассеяния с 1 внутренним и 2 внешними модификаторами будет брать Вис из зелёного чанка и толкать его в сторону синих чанков.<IMG>thaumcraft:textures/research/research3.png:168:0:80:80:1</IMG>   
+#
+tc.research_name.AURAMANIP2=Тотем Стягивания
+tc.research_text.AURAMANIP2=Сюда
+tc.research_page.AURAMANIP2.1=Тотем Стягивания работает так же, как и Тотем Рассеяния, но он наоборот берёт Вис из внешней области и собирает его во внутреннюю.    
+#
+tc.research_name.AURAPOLESTABLE=Модификатор-стабилизатор тотема
+tc.research_text.AURAPOLESTABLE=Смягчение потока
+tc.research_page.AURAPOLESTABLE.1=Этот модификатор оказывает стабилизирующий эффект на тотем. Он уменьшает шанс искажения Вис при перекачке.
+#
+tc.research_name.CAP_gold=Золотые наконечники
+tc.research_text.CAP_gold=Стильная обивка
+tc.research_page.CAP_gold.1=Золото более дружелюбно к магии, нежели железо, и жезлы с этими наконечниками не имеют штрафа при выкачивании аспектов.
+#
+tc.research_name.CAP_brass=Латунные наконечники
+tc.research_text.CAP_brass=Высасывая Вис
+tc.research_page.CAP_brass.1=Как и золото, латунь не снижает эффективность выкачивания Вис. Но кроме этого, алхимической латуни легче туннелировать Вис через себя, поэтому жезлы, ею покрытые, быстрее заряжаются.
+#
+tc.research_name.CAP_thaumium=Таум-наконечники
+tc.research_text.CAP_thaumium=Мистическая обивка для жезла
+tc.research_page.CAP_thaumium.1=Таум-металл известен своей способностью поглощать и удерживать магию, в связи с чем является одним из лучших материалов для создания наконечника жезла. Такой жезл будет очень эффективен при выкачивании энергии аспектов.<BR>Просто создать эти наконечники недостаточно - их нужно зарядить магической энергией.
+#
+tc.research_name.CAP_void=Пустотные наконечники
+tc.research_text.CAP_void=Сила оттуда
+tc.research_page.CAP_void.1=Создание наконечников из пустотного металла кажется Вам интересным опытом. Пустотный металл показал хорошие "магиеотпорные" свойства. Но кто не рискует - тот...<BR>Ваша авантюра окупилась. Сам металл устойчив к магии, но он пропускает её через себя на удивление легко. Магия кажется немного §oстранной§r, хотя это, вероятно, только ваше воображение.
+#
+tc.research_name.ROD_greatwood=Стержень из великого дерева
+tc.research_text.ROD_greatwood=Кладезь магической энергии
+tc.research_page.ROD_greatwood.1=Вырезанный из великого дерева, этот стержень имеет почти в три раза большее кол-во хранящихся аспектов - 250 Вис каждого типа.
+#
+tc.research_name.ROD_silverwood=Стержень из серебряного дерева
+tc.research_text.ROD_silverwood=Ядро магии
+tc.research_page.ROD_silverwood.1=Серебряное дерево является лучшим хранилищем магической энергии, и стержни для жезлов из него могут удерживать 500 Вис каждого типа.
+#
+tc.research_name.SCEPTRE=Скипетры
+tc.research_text.SCEPTRE=Созданы для выполнения задач
+tc.research_page.SCEPTRE.1=Скипетры - специальные посохи, предназначенные только для создания мистических объектов. На них нельзя надеть набалдашники, но они стоят трудов из-за некоторых своих особенностей.<BR>Во-первых, у них всегда есть 5% уменьшение затрат Вис кроме тех %, которые добавляются наконечниками.<BR>Во-вторых, они могут держать в себе на 50% больше Вис, чем их собратья-жезлы.<BR>Как и жезлы, скипетры можно создать почти из любых комбинаций - примеры приведены на следующей странице.
+#
+tc.research_name.PRIMALRODS=Элементальные стержни
+tc.research_text.PRIMALRODS=Элементальные хранилища Вис
+tc.research_page.PRIMALRODS.1=Каждый из этих стержней связан с каким-то элементом, дающим какие-то способности.<LINE>§l§nТростниковый стержень§r<BR>Стержень для жезла, собранный из тростника имеет большее хранилище, нежели стержень из великого дерева. Это делает их хорошей заменой стержням из великого дерева. Если уровень аспекта §6Aer§0 в вашем жезле падает ниже 50%, то начинается его самостоятельное медленное восстановление без высасывания из Ауры.
+tc.research_page.PRIMALRODS.2=§l§nОгненный стержень§r<BR>Огненный стержень имеет большее хранилище, нежели стержень из великого дерева. Это делает их хорошей заменой стержням из великого дерева. Если уровень аспекта §cIgnis§0 в вашем жезле падает ниже 50%, то начинается его самостоятельное медленное восстановление без высасывания из Ауры.
+tc.research_page.PRIMALRODS.3=§l§nОбсидиановый стержень§r<BR>Стержень для жезла, выдолбленный из обсидиана имеет большее хранилище, нежели стержень из великого дерева. Это делает их хорошей заменой стержням из великого дерева. Если уровень аспекта §2Terra§0 в вашем жезле падает ниже 50%, то начинается его самостоятельное медленное восстановление без высасывания из Ауры.
+tc.research_page.PRIMALRODS.4=§l§nЛедяной стержень§r<BR>Стержень для жезла, вырезанный из льда имеет большее хранилище, нежели стержень из великого дерева. Это делает их хорошей заменой стержням из великого дерева. Если уровень аспекта §3Aqua§0 в вашем жезле падает ниже 50%, то начинается его самостоятельное медленное восстановление без высасывания из Ауры.
+tc.research_page.PRIMALRODS.5=§l§nКварцевый стержень§r<BR>Стержень для жезла, выгравированный из кварца имеет большее хранилище, нежели стержень из великого дерева. Это делает их хорошей заменой стержням из великого дерева. Если уровень аспекта §fOrdo§0 в вашем жезле падает ниже 50%, то начинается его самостоятельное медленное восстановление без высасывания из Ауры.
+tc.research_page.PRIMALRODS.6=§l§nКостяной стержень§r<BR>Кость, использованная, как стержень, имеет большее хранилище, нежели стержень из великого дерева. Это делает их хорошей заменой стержням из великого дерева. Если уровень аспекта §8Perditio§0 в вашем жезле падает ниже 50%, то начинается его самостоятельное медленное восстановление без высасывания из Ауры.
+#
+tc.research_name.PRIMALSTAVES=Элементальные посохи
+tc.research_text.PRIMALSTAVES=Элементальные резервуары Вис
+tc.research_page.PRIMALSTAVES.1=Как и элементальные стержни, эти ядра посохов привязаны к какому-то элементу, обеспечивающему посоху дополнительные способности. Элементальные посохи могут содержать 500 Вис каждого типа.
+#
+tc.research_name.ROD_greatwood_staff=Магические посохи
+tc.research_text.ROD_greatwood_staff=Маги имеют большие посохи
+tc.research_page.ROD_greatwood_staff.1=Жезлы легки и малы, но иногда Вам хочется чего-то большего. Магические посохи - просто большие жезлы. Могут содержать больше Вис.<BR>Посох из великого дерева имеет 150% от объёма великодревесного жезла - может содержать 375 единиц каждого аспекта. Он также дает 10% уменьшение Вис для набалдашника.<BR>Так как они больше и прочнее жезлов, то ими можно пользоваться как оружием.
+tc.research_page.ROD_greatwood_staff.2=К несчастью, именно это не позволяет ими пользоваться на магическом верстаке.
+#
+tc.research_name.ROD_silverwood_staff=Серебрянодревесное ядро посоха
+tc.research_text.ROD_silverwood_staff=Магия в ядре
+tc.research_page.ROD_silverwood_staff.1=Ядра посохов из серебряного дерева могут содержать 750 вис каждого типа.
+#
+tc.research_name.ROD_primal_staff=Сингулярное ядро посоха
+tc.research_text.ROD_primal_staff=Элементали в сборе
+tc.research_page.ROD_primal_staff.1=Это ядро пульсирует первоначальной энергией.<BR>Оно собирает в себе все низкоуровневые посохи - оно может содержать в себе столько же Вис, сколько и серебрянодревесное, но кроме этого оно восстанавливает в себе все типы Вис.<BR>Наконец, оно дает первый уровень Мощи на любой используемый Вами набалдашник.<BR>Это действительно мощный инструмент в арсенале тауматурга.
+#
+tc.research_name.FOCUSFIRE=Набалдашники
+tc.research_text.FOCUSFIRE=Форма являет функционал
+tc.research_page.FOCUSFIRE.1=Тщательные эксперименты выявили способ расширить возможности даже самых простых жезлов.<BR>Комбинируя магические кристаллы с кварцем и наполняя их магией, Вы смогли собрать своеобразный набалдашник.<BR>Если необходимые типы аспектов будут пропущены через этот набалдашник, то магическая энергия сможет стать чем-то полезным, контролируемым, и выполняющим определенные цели. 
+tc.research_page.FOCUSFIRE.2=Надеть набалдашник очень просто - зажмите F, когда держите жезл или посох и наведите на нужный Вам набалдашник.<LINE>Ваши эксперименты с огнем привели Вас к интересному результату - Вы смогли собрать огненный набалдашник.<BR>Он выпускает конусообразный поток элементального огня, сжигающего все живое.
+#
+tc.research_name.FOCUSFROST=Набалдашник: Заморозка
+tc.research_text.FOCUSFROST=Месть - это блюдо, которое подают холодным
+tc.research_page.FOCUSFROST.1=Этот набалдашник способен создавать глыбы льда. Попав в воду, такая глыба превратит ее в лед.<BR>Цельтесь осторожнее, так как куски льда могут сломать некоторые объекты. 
+#
+tc.research_name.FOCUSSHOCK=Набалдашник: Шок
+tc.research_text.FOCUSSHOCK=Гром и Молния!
+tc.research_page.FOCUSSHOCK.1=Этот набалдашник может фокусировать элементальную энергию и создавать разряды молний, способные повергнуть ваших врагов. 
+#
+tc.research_name.FOCUSEXCAVATION=Набалдашник: Копание
+tc.research_text.FOCUSEXCAVATION=Землетеррор
+tc.research_page.FOCUSEXCAVATION.1=Этот набалдашник превращает Ваш жезл в инструмент, способный рушить землю и камень без особых усилий.<BR>Просто смотрите на блок, который хотите выкопать и магия сделает это за Вас. Более твердые материалы,  чем камень и земля будут добываться гораздо дольше.
+#
+tc.research_name.FOCUSTRADE=Набалдашник: Равноценный обмен
+tc.research_text.FOCUSTRADE=Меняем это на то и то на это
+tc.research_page.FOCUSTRADE.1=Вы можете использовать этот набалдашник для замены большого количества блоков на те, что находятся у Вас в инвентаре.<BR>Сначала выберите блок, на который хотите заменять, наведя на него курсор и нажав Shift+ПКМ. Затем, нажмите ЛКМ для замены одного блока или ПКМ для замены области.<BR>Вам нужно иметь при себе достаточно блоков, на которые Вы хотите заменять. Заменённые блоки будут попадать к Вам в инвентарь. Учтите, что заменять можно только физически цельные блоки, а также блоки, которые выходят наружу хотя бы одной стороной.
+#
+tc.research_name.FOCUSHELLBAT=Набалдашник: 9 кругов ада
+tc.research_text.FOCUSHELLBAT=Маленькие шахиды
+tc.research_page.FOCUSHELLBAT.1=Путешествуя по Нижнему миру, Вы не раз натыкались на Адских мышей. Теперь же Вы открыли способ, как призывать и натравливать этих самых мышей на ваших врагов. Шикарно...
+#
+tc.research_name.FOCUSPORTABLEHOLE=Набалдашник: Червоточина
+tc.research_text.FOCUSPORTABLEHOLE=Выход есть всегда
+tc.research_page.FOCUSPORTABLEHOLE.1=Вы смогли свернуть пространство в точке соприкосновения измерений. Использование этого набалдашника на любой поверхности откроет межпространственную червоточину к другой стороне поверхности.<BR>Эта 'дыра' открывается всего на несколько секунд и высасывает Вис из жезла в зависимости от глубины.<BR>Межпространственные проходы не могут пройти сквозь определенную материю или слишком сложные объекты.
+#
+tc.research_name.FOCUSPRIMAL=Набалдашник: Сингулярность
+tc.research_text.FOCUSPRIMAL=Сырая магия
+tc.research_page.FOCUSPRIMAL.1=Вы создали эту вещь в припадке безумия? Этот набалдашник выглядит дико опасным и разве что безбашенный решится его использовать.<BR>Выпущенный, этот разрушительный шар из первоначальной энергии движется непредсказуемо.<BR>Нужно изучить эту вещь поподробнее: шар показывает характеристики, свойственные четвертому измерению и выпускает энергию, свойственную виспам или узлам Ауры.
+#
+tc.research_name.FOCUSGRAPPLE=Набалдашник: Магический крюк
+tc.research_text.FOCUSGRAPPLE=Вжух!
+tc.research_page.FOCUSGRAPPLE.1=Набалдашники по своей природе способны создавать только единовременные эффекты, что не позволяет использовать их для путешествий или полётов. Именно такая проблема привела Вас к Магическому крюку.<BR>Этот набалдашник испускает поток полуэнергии-полуматерии, который при соприкосновении с блоком начинает притягивать Вас к нему. Поэтому Магический крюк незаменим для преодоления высот, карьеров или просто перемещения. Нажатие Shift оторвет крюк от блока.<BR>Зачарование Мощь увеличивает дальность крюка. 
+#
+tc.research_name.FOCUSBUILDER=Набалдашник: Строитель
+tc.research_text.FOCUSBUILDER=Быстрые дома 9x9
+tc.research_page.FOCUSBUILDER.1=Этот набалдашник чем-то похож на набалдашник равноценного обмена, но вместо замены блоков, он просто их ставит.<BR>Сначала выберите нужный блок нажатием на нём Shift+ПКМ.<BR>Потом наведите образ блока на нужную позицию (макс. дальность - 64 блока). Нажмите ПКМ для установки блока на место образа. Как и с набалдашником равноценного обмена, Вы должны иметь устанавливаемые блоки в инвентаре.
+tc.research_page.FOCUSBUILDER.2=Блоки всегда будут ставиться линией от выбранного блока до Ваших линейных координат (макс. установки за итерацию - 16 блоков). Зачарование набалдашника может увеличить это количество.<BR>Если предполагаемая линия блоков упирается в какой-нибудь блок, он будет снесён и добавлен в Ваш инвентарь.
+#
+tc.research_name.FOCUSPOUCH=Сумка для набалдашников
+tc.research_text.FOCUSPOUCH=Удобный контейнер для хранения ваших набалдашников
+tc.research_page.FOCUSPOUCH.1=Когда у Вас набралось достаточно много набалдашников, зачастую надоедает носить их все с собой. Данная сумка решает эту проблему.<BR>Когда Вы меняете набалдашник, сумка забирает в себя любые набалдашники, какие были у Вас в инвентаре. Вы также можете нажать ПКМ сумкой в руке, чтобы открыть её и выбрать нужный Вам набалдашник. <BR>Эту сумку также можно носить в слоте пояса.
+#
+tc.research_name.FOCALMANIPULATION=Улучшение набалдашников
+tc.research_text.FOCALMANIPULATION=Ребаланс силы
+tc.research_page.FOCALMANIPULATION.1=Набалдашники могут творить интересные вещи, но изначально этих вещей мало. Наверняка можно расширить список?<BR>Вы открыли способ улучшения набалдашников для изменения из способностей. Просто надо положить набалдашник в специальное устройство и выбрать нужное улучшение. Также, необходимо снабдить верстак некоторым количеством опытом для начала процесса. Верстак будет использовать Вис из Ауры. Ну а после - просто ждать.<BR>Каждый набалдашник можно улучшать 5 раз, но с каждым
+tc.research_page.FOCALMANIPULATION.2=разом затраты удваиваются.<BR>Многие улучшения можно накладывать неоднократно и сразу, но для некоторых требуется выполнение условий - комбинации, количества и пр. Эксперименты приветствуются.<BR>Улучшения постоянны - Вы не нашли метода снять их.   
+#
+tc.research_name.VAMPBAT=Улучшение 5 уровня: Мыши-вампиры 
+tc.research_text.VAMPBAT=Жестокие маленькие кровопийцы  
+#
+tc.research_name.WANDPED=Перезарядочный пьедестал
+tc.research_text.WANDPED=Автоматизированная перезарядка жезла
+tc.research_page.WANDPED.1=Путешествовать по миру и перезаряжать жезл конечно приятно, но не лучше ли будет это дело автоматизировать?<BR>Этот специальный пьедестал не простой - любой жезл, поставленный на него будет автоматически выкачивать Вис из Ауры.<BR>На пьедестале могут заряжаться не только жезлы, но и посохи, амулеты, скипетры.<BR>Он не будет заряжать жезл при заряде Ауры менее 10%.
+#
+tc.research_name.VISAMULET=Зарядка Вис в пути
+tc.research_text.VISAMULET=Жадность до бедности доведёт
+tc.research_page.VISAMULET.1=Большую часть времени тауматургу хватает всего одного жезла, но бывают такие случаи, что даже серебрянодревесного жезла может не хватить. Можно носить с собой несколько жезлов, но экспериментально был открыт другой путь.<BR>Сумев создать амулет, способный содержать в себе Вис, Вы сможете заряжать жезлы при истощённой Ауре.<BR>Амулет можно зарядить на перезарядочном пьедестале. Кроме того, он может заряжать предметы, способные заряжаться только на пьедестале.
+#
+tc.research_name.WORKBENCHCHARGER=Вис-канал
+tc.research_text.WORKBENCHCHARGER=Упрощение магического создания
+tc.research_page.WORKBENCHCHARGER.1=Каждый тауматург не раз раздражался, когда его жезл разряжался в самый разгар работы.<BR>Но теперь Вы нашли новый путь зарядки жезлов - Вис-канал, вытягивающий Вис из Ауры. Для зарядки жезлов, лежащих в верстаке, на него сверху нужно поставить Вис-канал.<BR>Он не будет заряжать жезл при заряде Ауры менее 10%. 
+#
+tc.research_name.NODEMAGNET=Притягивание узлов
+tc.research_text.NODEMAGNET=Работает на магнитах
+tc.research_page.NODEMAGNET.1=Манипулирование Аурой это одно, но если бы Вы могли двигать целые узлы, то могли бы получить почти неограниченные количества Вис когда и где Вам нужно. Поэтому Вы создали Узловой магнит.<BR>Магнит фокусируется на ближайшем узле в радиусе 32 блоков и медленно тянет его к себе. Звучит просто, но на самом деле это не так. Такой процесс не только требует огромного количества Вис, но и создает некое количество Порчи.<BR>Чем больше узел - тем медленнее он движется.
+tc.research_page.NODEMAGNET.2=Узловой магнит сам по себе довольно хрупок. Он может выдержать пару ударов, но потом сломаются хрупкие детали.<BR>Магнит можно демонтировать, нажав по нему ПКМ жезлом.
+tc.research_page.NODEMAGNET.3=§nВнимание!§r<BR><BR>Когда Вы установите магнит, то произойдёт нечто странное: он начинает сильно резонировать с Вашими ушами, что приводит к очень громкому звуку.<BR>Злобные рыки и урчания из кустов показыват Вам, что он раздражает не только Вас.
+#
+tc.research_name.NODESTABLE=Узел-стабилизатор
+tc.research_text.NODESTABLE=Всё под контролем
+tc.research_page.NODESTABLE.1=Узлы Ауры имеют неприятную способность передвигаться и соединяться, когда Вам это не нужно. Это устройство решает данную проблему.<BR>Просто поместите его под узлом и он инкапсулирует узел пузырём энергии, лишая узел способностей к передвижению и объединению.
+#
+# Артефакты 
+#######################
+tc.research_name.BASICARTIFACE=Первичное чудотворство
+tc.research_text.BASICARTIFACE=Полезные вещи
+tc.research_page.BASICARTIFACE.1=§nСингулярный амулет§r<BR><BR>Сингулярные амулеты являются мощной основой любого таум-сооружения. Сами по себе они не являются мощными источниками энергии, если их не фокусировать.<BR>По слухам, у этих амулетов есть свои специальные силы, но, скорее всего, это выдумка.
+#
+tc.research_name.ARCANELAMP=Магический светильник
+tc.research_text.ARCANELAMP=Сильный источник света
+tc.research_page.ARCANELAMP.1=Эту мистическую лампу можно прикрепить куда угодно в качестве мощного источника света.<BR>Дополнительные источники света могут появиться на расстоянии до 16-ти блоков. Запомните: Только ВЫ можете предотвратить нашествие зомби.<BR>Дополнительные источники света исчезнут при разрушении лампы.<LINE>Вы уверены, что найдете больше применений этому светильнику.
+tc.research_page.ARCANELAMP.2=§nМагический бур§r<BR>Когда светильник стоит рядом с основой бура, то он приобретает новую способность: освещает область, выкопанную буром.
+#
+tc.research_name.THAUMOMETER=Таумометр
+tc.research_text.THAUMOMETER=Измеряем магию!
+tc.research_page.THAUMOMETER.1=Таумометр - один из самых полезных и нужных инструментов в арсенале тауматурга и является вторым по значимости после жезла.<BR>Во-первых, он позволяет изучать объекты, существа или предметы и раскрывать их магическую суть. Нужно просто нажать ПКМ на объекте для его изучения. Объекты, при изучении которых, Вы что-то узнаете, бутуд подсвечены жёлтым знаком вопроса.<BR>Во-вторых, он показывает обычные и непосредственные уровни аспектов близлежащей Ауры. Нажимание "F" позволяет сменить тип отображаемого аспекта. 
+#
+tc.research_name.GOGGLES=Очки откровения
+tc.research_text.GOGGLES=Невиданные видения...
+tc.research_page.GOGGLES.1=Основываясь на принципах работы Таумометра, Вы понимаете, что магию можно легче... увидеть.<BR>Эти очки сделают поиск узлов Ауры еще легче, а также откроют некоторые скрытые вещи.<BR>Они являются одним из главных инструментов в арсенале тауматурга.
+#
+tc.research_name.DIOPTRA=Thaumic Dioptra
+tc.research_text.DIOPTRA=Увидь Ауру
+tc.research_page.DIOPTRA.1=Это сложное устройство позволяет тауматургу увидеть окружающую Ауру.<BR>Просто поместите нужный кристалл сверху устройства и он отобразит такую Ауру в диаметре 13 чанков.<BR>Также оно покажет источники Вис, пометив их звёздочкой. Хоть оно и не особо точно, но приблизительно найти интересные объекты оно может.<BR>К его стороне можно присоединить компаратор, выдающий сигнал, пропорциональный уровню выбранной Ауры в чанке.
+#
+tc.research_name.BOOTSTRAVELLER=Сапоги путешественника
+tc.research_text.BOOTSTRAVELLER=Идеальная обувь для дальних прогулок
+tc.research_page.BOOTSTRAVELLER.1=Пара этих зачарованных сапог наполнена магией, облегчающей путешествия.<BR>Они позволяют Вам двигаться быстрее. Так же они дают возможность высоко прыгать... И сильно падать.<BR>Наконец, в них Вы плаваете намного быстрее, как рыба. Как большая и неповоротливая, но все же, рыба...
+#
+tc.research_name.TABLE=Стол
+tc.research_text.TABLE=Требуется сборка
+tc.research_page.TABLE.1=Стол - нечто большее, чем просто декоративный блок - он также служит основой для рабочих поверхностей, полезных в практике тауматургии, таких как §5Магический верстак§0 и §5Стол исследований§0.
+#
+tc.research_name.ARCTABLE=Магический верстак
+tc.research_text.ARCTABLE=Создаём, используя магию
+tc.research_page.ARCTABLE.1=Чтобы создать Магический верстак, просто нажмите ПКМ жезлом по столу. Магический верстак работает как обычный верстак, но с несколькими особенностями.<BR>Кроме обычных предметов, на нем можно создавать магические объекты. Чтобы это сделать, положите жезл в слот в правом верхнем углу верстака. Это позволит создавать предметы, требующие энергию аспектов, которая будет взята из жезла.<BR>Энергия аспектов, требуемая для создания предмета, будет показана в виде шести символов, окружающих сетку сборки.
+#
+tc.research_name.ENCHFABRIC=Зачарованная ткань
+tc.research_text.ENCHFABRIC=И стильно и практично.
+tc.research_page.ENCHFABRIC.1=Объединив нити паутины с шерстью и наделив все это магической энергией Вис, Вы создаете шелковистые куски магической ткани, у которых оказалось довольно много применений.<BR>Вы также создали чертежи для тряпичной брони из этой ткани. У данной брони такие же свойства, как и у кожаной, но она более долговечна, чем большинство видов брони из обычных материалов.<BR>Также данная броня отлично подходит для применения к ней различных магических зачарований и способна удерживать магическую силу гораздо лучше любой дорогой брони.
+tc.research_page.ENCHFABRIC.2=Части данной брони позволят Вам экономить энергию аспектов, содержащуюся в магическом жезле в тот момент, когда Вы что то колдуете. Также такая броня может быть окрашена в разные цвета, как и кожаная.
+#
+tc.research_name.ELEMENTALTOOLS=Элементальные инструменты
+tc.research_text.ELEMENTALTOOLS=Упряжь для стихий
+tc.research_page.ELEMENTALTOOLS.1=С открытием наполнения, Вы нашли способ привязать элементы к каким-то инструментам и оружиям, придавая им при этом новые свойства.<LINE>§l§nТопор Потока§r<BR>Комбинируя ледяные кристаллы с таум-топором, Вы создаете инструмент, который воплощает в себе аспекты движения и потока.<BR>Он работает как обычный топор на обычных блоках, исключая доски и дерево. При использовании топор перенаправляется на дальний блок того же типа, что и тот, который Вы
+tc.research_page.ELEMENTALTOOLS.2=пытаетесь срубить, и срубает тот вместо этого.<BR>По сути, Вы будете рубить деревья сверху вниз, даже если начали с нижнего блока.<BR>Любая срубленная древесина этим способом будет автоматически лететь к Вам.<BR>Если Вы нажмёте и будете удерживать ПКМ, то топор будет притягивать все ближайшие предметы - не только древесину.<BR>Если Вы зажмёте Shift при использовании Топора, то его особые свойства заснут, и он начнет функционировать как обычный топор.
+tc.research_page.ELEMENTALTOOLS.3=§l§nКирка Огня§r<BR>Комбинируя огненные кристаллы с таум-киркой, Вы создаете кирку, которая пылает жаром горна.<BR>Когда Вы копаете блоки руды, есть шанс, что будет добыт кластер такой руды вместо блока. Рудные кластеры намного легче поддаются обработке и при переплавке выдают удвоенное количество металла.<BR>Также с помощью этой кирки можно простукивать поверхность для нахождения ценных руд, лавы или воды поблизости. Если Вы удерживаете
+tc.research_page.ELEMENTALTOOLS.4=Shift при использовании Кирки Огня, то все ее особые свойства приостанавливаются, и она функционирует как нормальная кирка.
+tc.research_page.ELEMENTALTOOLS.5=§l§nМеч Бури§r<BR>Вы смешали элементную ярость грозовых кристаллов с таум-мечом.<BR>При сражении с врагом, лезвие будет проноситься по широкой дуге, поражая других врагов, стоящих рядом с Вашей главной целью.<BR>При блокировании, меч создаст вокруг Вас воздушный щит, отталкивающий стрелы, врагов и предметы.<BR>Также, при блокировке меч будет смягчать падение, превращая его в парение или слабо поднимать Вас в воздух.
+tc.research_page.ELEMENTALTOOLS.6=§l§nЛопата Землероя§r<BR>Комбинируя земляные кристаллы с таум-лопатой, Вы создаёте превосходный инструмент для раскопок.<BR>При копании земли, песка и похожих материалов, она будет выкапывать область в 3х3 блока вместо одного.<BR>Если Вы примените ее на одной из сторон блока(нажав ПКМ), то она попытается создать стену 3х3 из таких же блоков, если они есть у Вас в инвентаре.<BR>Направление или строительство зависит от стороны, на которую Вы смотрите.<BR>Если Вы нажмёте Shift при использовании этой лопаты, то Вы
+tc.research_page.ELEMENTALTOOLS.7=увидите, где блоки будут установлены, при этом направление можно сменить нажав "G". Блоки могут быть поставлены параллельно выделенной стороне или вперед вертикально или горизонтально.<BR>Если Вы удерживаете Shift при использовании этой лопаты, то все ее особые свойства засыпают, и она функционирует как обычная лопата.
+tc.research_page.ELEMENTALTOOLS.8=§l§nМотыга Роста§r<BR>Соединив порядок и хаос в таум-мотыге, Вы создали самое лучшее орудие фермера.<BR>При вспахивания земли, она будет обрабатывать область в 3х3, а не просто один блок.<BR>При использовании на посевах или других растениях, она будет действовать как костная мука, теряя при этом свою прочность. Такая мотыга могла бы даже вырастить растения, которые обычная костная мука не сможет.<BR>При удержании Shift, она работает как обычная мотыга.
+#
+tc.research_name.INFERNALFURNACE=Адская печь
+tc.research_text.INFERNALFURNACE=Достаточно горячо?
+tc.research_page.INFERNALFURNACE.1=Сковывая чистый §cIgnis§0 в печи, построенной из обсидиана и адских кирпичей, Вы создаете очень продуктивную и бестопливную печь. По сути, эффективность заключается в дополнительных материалах, которые печь будет выдавать.<BR>Хоть печь и "бестопливная", но за это придется платить маленькой скоростью переплавки, до тех пор пока она не получит порцию аспекта §cIgnis§0 из Ауры.
+tc.research_page.INFERNALFURNACE.2=Следует отметить, что при переплавке может выплеснуться немного вредной энергии (если её будет много - может произойти заражение).<BR>Предметы, которые Вы хотите переплавить нужно закидывать в отверстие, которое находится сверху печи. Результат переплавки выпадет спереди. Сердце печи является контейнером, поэтому в него можно загружать предметы воронкой или её подобиями.
+#
+tc.research_name.BELLOWS=Магические меха
+tc.research_text.BELLOWS=Раздувая пламя
+tc.research_page.BELLOWS.1=Эти меха выполняют такие же функции, что и обычные, но их единственное отличие в том, что они сами собой двигаются и создают поток нескончаемого воздуха.<BR>Присоединение их к Адской печи даст интересный результат. Элементальный воздух не только ускоряет переплавку, но и делает огонь чище, в результате чего уменьшается количество выпускаемой вредной энергии и увеличивается шанс получения дополнительных ресурсов.
+tc.research_page.BELLOWS.2=Также, они могут быть присоединены к алхимическим печам, что увеличивает скорость их работы.<BR>Примененные к тиглю, они уменьшают время закипания воды.<BR>Будьте уверены, что найдете им еще больше различных применений.<BR>Меха можно отключить сигналом красного камня.
+#
+tc.research_name.ARCANESTONE=Магический камень
+tc.research_text.ARCANESTONE=Магически усиленный строительный материал
+tc.research_page.ARCANESTONE.1=Магический камень - основной строительный материал для мистических конструкций. Это обычный камень, обожженный элементом огня и усиленный элементом земли.
+#
+tc.research_name.INFUSION=Наполнение предметов магией
+tc.research_text.INFUSION=Магическая термоядерная реакция
+tc.research_page.INFUSION.1=Простая магия и алхимия хороши. Но иногда нужно что-то более мощное для создания сильных артефактов.<BR>Наполнение - процесс, нарушающий законы Вселенной. С его помощью простой объект наполняется магией и способностями других предметов. К примеру, Вы можете наполнить камень эссенцией §6Aer§0 и перьями - он станет очень легким.<BR>Как и в обычной тауматургии, предметы здесь не так просты. Чтобы начать ритуалы наполнения, Вам надо иметь несколько вещей: Руническую матрицу, пьедесталы и много эссенции. 
+tc.research_page.INFUSION.2=Когда Руническая матрица правильно расположена в специальной конструкции, известной как Алтарь, Вы можете начать наполнять предметы магией.<BR>Центральный пьедестал, стоящий под матрицей - главный пьедестал, на котором будет происходить наполнение. Также Вам понадобятся  несколько пьедесталов вокруг Алтаря, на которые Вы будете класть предметы, предназначенные для наполнения. И наконец, Вам понадобятся банки, наполненные нужным количеством эссенции.<BR>Когда Вы сделали все, как надо - остается применить жезл на Рунической матрице для начала процесса. В течении первой стадии эссенция
+tc.research_page.INFUSION.3=начнет собираться из банок. Ритуал будет сорван, если эссенции не хватит - наверняка Вы не хотите, чтобы такое произошло.<BR>Когда наполняемый объект поглотит всю нужную эссенцию, остальные предметы тоже начнут разрушаться и поглощаться. Когда ритуал будет закончен, Вы получите искомый результат.<LINE>Наполнение проходит не без риска. Весь процесс включает в себя наполнение одного предмета огромной энергией. Иногда могут случиться непредвиденные последствия.<BR>Обычно предметы могут упасть 
+tc.research_page.INFUSION.4=с пьедестала, или создастся лужа из заражения, но это не самое страшное.<BR>Чем дольше идет процесс при недостающих элементах, тем выше шанс какой-нибудь неприятности.<BR>Этот шанс может быть понижен несколькими путями. Во-первых, стройте структуру как можно более симметрично - удостоверьтесь, что пьедесталы с одной стороны противоположны пьедесталам на другой. Пытайтесь сохранить баланс и симметрию, кладя предметы на алтари. Во-вторых, Вы можете разместить оккультные предметы вокруг  
+tc.research_page.INFUSION.5=алтаря в симметричном порядке (вроде свечей, черепов, кристаллов и пр.). Это поможет уменьшить шанс возникновения нестабильности.<IMG>thaumcraft:textures/research/research5.png:128:0:128:136:1</IMG>
+tc.research_page.INFUSION.ANCIENT=§nСтаринный камень§r<BR>Странный старинный камень имеет некоторые магические свойства. Вы верите, что стоблы алтаря из этого камня уменьшат количество необходимой для наполнения эссенции. Но при этом увеличится нестабильность.<BR>Если использовать пьедесталы из этого же камня, то эффект будет таким же.
+tc.research_page.INFUSION.ELDRITCH=§nДревний камень§r<BR>Вы поняли, что тёмный древний камень имеет очень странные свойства. При использовании его в качестве колонн алтаря, уменьшается нестабильность процесса наполнения и ускоряется его протекание. Но при этом немного увеличивается цена процесса.<BR>Если использовать пьедесталы из древнего камня, то эффект такой же. Но стоит внимательно их отцентровывать - неправильно расположенные пьедесталы очень сильно повысят нестабильность. К несчастью, Вы не нашли способа делать их самостоятельно.
+#
+tc.research_name.INFUSIONBOOST=Улучшение наполнения
+tc.research_text.INFUSIONBOOST=Новые теории реакций
+tc.research_page.INFUSIONBOOST.1=Вы нашли способ улучшения алтарей с помощью специальных блоков, установленных под одной и более колонн алтаря.<BR>§5Ускоряющая матрица§0 увеличивает скорость работы алтаря, но увеличивает затраты эссенции.<BR>§5Антизатратная матрица§0 уменьшает затраты, но при этом уменьшает скорость работы.<BR>Эти матрицы должны находиться непосредственно под колоннами и их не нужно центровать.
+#
+tc.research_name.JARBRAIN=Мозг-в-банке
+tc.research_text.JARBRAIN=Консервированная мерзость
+tc.research_page.JARBRAIN.1=Вы нашли способ оживления мозга зомби с последующим его тёмным использованием.<BR>Он всё еще чувствует голод как если бы он всё еще был в теле зомби, но так как он не может сам есть мозги, он довольствуется знаниями и опытом убитых. Хорошенькое встряхивание банки заставит отдать часть его добычи для Вашего собственного использования.<BR>Когда мозг наестся опыта, он начнет испускать частицы.
+#
+tc.research_name.HOVERHARNESS=Таумостатический ранец
+tc.research_text.HOVERHARNESS=Порхай, как бабочка...
+tc.research_page.HOVERHARNESS.1=Вам наконец то удалось разгадать тайну полёта. Вы открыли особый ранец, который привязывает сам себя к таумостатичесчкому полю, используя статическую энергию, позволяя Вам бросить вызов силе тяжести. Вы считаете, что здесь так или иначе замешаны кванты и кварки.<BR>Необычно, но во время создания данного ранца, для приведения его в действие требовался только Вис. Для начала его надо зарядить. Вместо топлива ранец потребляет §6Aer§0 и §cIgnis§0 из Ауры. 1 секунда полёта стоит по 1 единице обоих аспектов. У ранца есть внутренний буфер, заряжающися и содержащий Вис на 5 минут полёта, если Аура истощена.
+tc.research_page.HOVERHARNESS.2=Нажмите H для включения/выключения полета при надетом ранце.<BR>Ранец можно зачаровать эффектом Спешка, который позволит перемещаться гораздо быстрее во время полета.<BR>Ранец не снижает скорость копания, когда Вы в воздухе. Можно нажать клавишу спринта для увеличения скорости полёта и его затрат.
+#
+tc.research_name.HOVERGIRDLE=Таумостатический пояс
+tc.research_text.HOVERGIRDLE=Это самолёт?
+tc.research_page.HOVERGIRDLE.1=Этот пояс следует использовать вместе с Таумостатическим ранцем. Сам по себе он может немного приподнимать Вас - но этого хватает для того, чтобы защитить Вас от урона от падения.<BR>Когда пояс надет вместе с ранцем, то Вы можете летать на ранце с гораздо большей скоростью. Единственный минус в том, что ранец будет потреблять немного больше топлива.
+#
+tc.research_name.WATERJUG=Вечный фонтан
+tc.research_text.WATERJUG=Бесконечный источник воды
+tc.research_page.WATERJUG.1=Фонтанчик чистой воды, бьющий из верха этого устройства, является отличным способом быстрого наполнения вёдер, бутылок или других контейнеров.<BR>Он также будет самостоятельно заполнять любые резервуары в радиусе 2 блоков, если они могут принимать воду сверху. Эта способность не только отлично подходит для автозаполнения тиглей, но и имеет другие использования.<BR>Каждое ведро созданной воды стоит 1 единицы §3Aqua§0 из Ауры.
+#
+tc.research_name.LEVITATOR=Магический подъёмник
+tc.research_text.LEVITATOR=Еще одна отличная вещь для полёта
+tc.research_page.LEVITATOR.1=Хоть он не обеспечивает настоящий полёт, но парение - уже хорошо.<BR>После установки, он поднимет любой предмет или существо над ним до 8 блоков вверх. Крадущееся существо или тауматург будет медленно опускаться.<BR>Когда на подъёмнике что-то парит, он потребляет 2 §6Aer§0 в секунду из Ауры.<BR>Подъёмник можно направить в любую сторону, к примеру горизонтально поставленный подъёмник будет двигать существо в сторону, подняв его.
+tc.research_page.LEVITATOR.2=Задний переключатель позволяет изменять дальность работы, изменяя при этом количество потребляемого Вис.  
+#
+tc.research_name.ARCANEEAR=Магическое ухо
+tc.research_text.ARCANEEAR=Тссс, Вы слышите что-нибудь?
+tc.research_page.ARCANEEAR.1=Магическое ухо представляет собой устройство, способное к обнаружению звука, испускаемого из близлежащих нотных блоков. Если он распознает ноту, то испустит короткий сигнал красного камня.<BR>Магическое ухо должно быть настроено в манере, идентичной нотному блоку, который находится в радиусе слышимости устройства. Тон и нота, которую оно ожидает, зависит от типа блока под устройством (земля, дерево и т.п.).
+#
+tc.research_name.MIRROR=Зеркальная магия
+tc.research_text.MIRROR=Глядя сквозь отражение...
+tc.research_page.MIRROR.1=Теперь Вы можете зачаровать пару магических зеркал, которые будут действовать как проемы в пустоте между мирами. Все, что было протолкнуто через одно зеркало, пройдет через эту область и выйдет через другое зеркало - даже сквозь границы измерений.<BR>К сожалению, эта пустота является чрезвычайно враждебной к смертным существам, как Вы, поэтому использование этих зеркал для транспортировки живых существ пока не представляется возможным.<BR>Чтобы связать пару этих зеркал, Вам просто необходимо разместить одно в нужное место. 
+tc.research_page.MIRROR.2=Затем щелкните ПКМ вторым зеркалом по уже установленному, и пара станет связанной между собой. Вы можете разместить второе зеркало везде, где пожелаете и предметы, брошенные в одно из них, будут выброшены из другого .<BR>Зеркала могут быть связаны только парами, так что когда два зеркала связаны и поставлены, то Вы не сможете привязать к ним третье. Если Вы снимете одно из зеркал, оно будет помнить свою пару, с которой было связано, позволяя Вам легко перемещать его. Впрочем, в то время как одно из соединенных зеркал снято, Вы легко сможете связать их повторно.
+tc.research_page.MIRROR.3=Перенос предметов негативно действует на Ауру. С переносом предметов то и дело высвобождается небольшая порция Порчи. Чем больше предметов переносится, тем больше Порчи создается...
+#
+tc.research_name.MIRRORHAND=Магическое ручное зеркало
+tc.research_text.MIRRORHAND=Персональный отражатель
+tc.research_page.MIRRORHAND.1=Это магическое ручное зеркало функционирует так же, как и другие магические зеркала. Вы просто проталкиваете предметы через стекло, и они будут выскакивать у связанного зеркала.<BR>Просто щелкните ПКМ на большом зеркале, удерживая ручное зеркало и Вы сможете поместить любые предметы из своего инвентаря в зеркало для их транспортировки.<BR>Ручное зеркало может быть связано с большим зеркалом, которое уже находится в паре с другим.<BR>Следует отметить, что ручное зеркало может только посылать предметы, а не получать их.
+#
+tc.research_name.PAVETRAVEL=Камень путешественника
+tc.research_text.PAVETRAVEL=Упрощая перемещение...
+tc.research_page.PAVETRAVEL.1=Изменяя мистическую структуру магического кирпича, Вы можете создать блок, который позволяет ускорять ходьбу любых существ, которые будут по нему проходить.<BR>Любой, кто пройдется по такому блоку, получит увеличенную скорость на несколько секунд.
+#
+tc.research_name.PAVEBARRIER=Барьерный камень
+tc.research_text.PAVEBARRIER=Оставляя всё плохое снаружи...
+tc.research_page.PAVEBARRIER.1=Вы открыли путь к превращению магических каменных кирпичей в мистический барьер, который не позволит большинству существ его пересечь.<BR>Стоит отметить, что данный барьер не всегда на 100% надежен и другие игроки вполне могут его пересечь, но большинство злых существ будут обходить его стороной. Также любые големы не смогут сквозь него пройти.<BR>Для лучшего результата не оставляйте бреши в барьере, чтобы защититься от всех опасностей внешнего мира. Активация сигнала красного камня отключает эти блоки.
+tc.research_page.PAVEBARRIER.2=Цвет рун над камнем показывает его состояние.<BR>Фиолетовые руны - камень никого не пропускает.<BR>Синие - камень был деактивирован сигналом красного камня.<BR>Красные - что-то мешает камню создать барьер.
+#
+tc.research_name.ARMORFORTRESS=Боевой таум-доспех
+tc.research_text.ARMORFORTRESS=Ничто не войдёт!
+tc.research_page.ARMORFORTRESS.1=Обычная таум-броня хороша, но её простая конструкция сильно уступает алмазной броне. Совершенствуя конструкцию и комплексность таум-брони Вы создали чертежи брони исключительной силы, долговечности и прочности.<BR>Каждая часть боевого таум-доспеха защищает так же, как и алмазная, но она намного прочнее и лучше защищает от магии и огня.<BR>Самое лучшее его качество, это то, что каждая его часть очень хорошо подогнана и сконструирована для ношения с другими.
+tc.research_page.ARMORFORTRESS.2=Каждая дополнительная часть увеличивает общую защиту. Да всё вместе и выглядит лучше!<BR>Так как этот доспех тоже состоит из таум-металла, его очень легко зачаровать.
+#
+tc.research_name.HELMGOGGLES=Шлем провидения
+tc.research_text.HELMGOGGLES=Улучшение боевого таум-шлема
+tc.research_page.HELMGOGGLES.1=Обычно тауматургу приходится выбирать между защитой и устройствами. Хватит!<BR>Теперь Вы научились встраивать очки откровения в боевой таум-шлем. Правда, они теряют свою способность снижения затрат Вис.<BR>Вместе с очками в шлем можно встраивать боевые маски. 
+#
+tc.research_name.MASKGRINNINGDEVIL=Маска смеющегося дьявола
+tc.research_text.MASKGRINNINGDEVIL=Улучшение боевого шлема
+tc.research_page.MASKGRINNINGDEVIL.1=Эту маску можно встроить в боевой шлем.<BR>При одевании такого шлема, эта маска ослабляет эффекты Искажения, снижает их тяжесть.<BR>Смех в лицо опасности имеет свои плюсы. 
+#
+tc.research_name.MASKANGRYGHOST=Маска злого привидения
+tc.research_text.MASKANGRYGHOST=Улучшение боевого шлема
+tc.research_page.MASKANGRYGHOST.1=Эту маску можно встроить в боевой шлем.<BR>Если в Вашем шлеме стоит эта маска, то в битве на Вашего врага может наложиться эффект Иссушения.<BR>Используйте её осторожно.
+#
+tc.research_name.MASKSIPPINGFIEND=Маска тянущегося демона
+tc.research_text.MASKSIPPINGFIEND=Улучшение боевого шлема
+tc.research_page.MASKSIPPINGFIEND.1=Эту маску можно встроить в боевой шлем.<BR>Будучи в шлеме с этой маской, Вы можете отнять у врага немного здоровья, чтобы восстановить своё.<BR>Некоторые думают, что это неэтично. Как будто в этом есть что-то плохое...
+#
+tc.research_name.BANNERS=Вымпелы
+tc.research_text.BANNERS=Осторожно: Только для декоративных использований
+tc.research_page.BANNERS.1=Иногда тауматург не хочет создавать что-то, пошатывающее основы мироздания - иногда он хочет всего лишь красоту.<BR>Вы создали небольшой ритуал, позволяющий накладывать символы аспектов на вымпелы. Просто нажмите ПКМ пузырьком с эссенцией на вымпел и символ отпечатается на нём. Shift+ПКМ сотрёт символ.
+#
+tc.research_name.LAMPGROWTH=Светильник роста
+tc.research_text.LAMPGROWTH=Поощрение к росту
+tc.research_page.LAMPGROWTH.1=В отличие от своей основы - обычного магического светильника, Светильник роста не создает источников света без эссенции Herba. При использовании светильником эссенции, специальные источники света помогают расти любым растениям.<BR>"Кормление" светильника роста эссенцией может быть осуществлено через систему труб.
+#
+tc.research_name.LAMPFERTILITY=Светильник скрещивания
+tc.research_text.LAMPFERTILITY=Создает романтическую обстановку
+tc.research_page.LAMPFERTILITY.1=Любое живое существо, попавшее под воздействие этого светильника, почувствует в себе романтические чувства. Если существо сможет, то оно найдёт себе пару для размножения.<BR>Этот светильник не будет никак действовать, если рядом с ним уже есть 8 или более видов существ.<BR>Светильник требует для работы эссенцию §4Victus§0, забирая ее прямиком из труб.
+#
+tc.research_name.MIRRORESSENTIA=Зеркала для эссенции
+tc.research_text.MIRRORESSENTIA=Когда она нужна
+tc.research_page.MIRRORESSENTIA.1=Магические зеркала полезны для переноса предметов на далекие расстояния, но неплохо было бы тоже самое делать с эссенцией! Вы нашли способ сделать это.<BR>Зеркала для эссенции, как и их собратья, могут переносить эссенцию, как магические зеркала - предметы. Но есть ограничения.<BR>Вы не можете вталкивать эссенцию прямо в зеркала – они работают как своеобразный «мост» между требующими эссенцию конструкциями.    
+tc.research_page.MIRRORESSENTIA.2=Перенос эссенции на очень большие расстояния не очень стабилен, поэтому небольшое количество эссенции теряется. Как и обычные зеркала, эти тоже напрягают Ауру и генерируют Порчу.
+#
+tc.research_name.BONEBOW=Костяной лук
+tc.research_text.BONEBOW=Палки и камни...
+tc.research_page.BONEBOW.1=Вы открыли способ создания лука из костей и наполнения его энергией энтропии.<BR>В результате Вы получили мощный лук с более быстро натягиваемой тетивой и дальним полетом стрелы.
+#
+tc.research_name.PRIMALARROW=Энергострелы
+tc.research_text.PRIMALARROW=Элементальные снаряды
+tc.research_page.PRIMALARROW.1=Каждая такая стрела наполнена специальным типом первоначальной энергии.<BR>§nГрозовая стрела§r<BR>Эта стрела трещит энергией. Она наносит столько же урона, как и обычная, но при этом пробивает любую броню.<BR>§nОгненная стрела§r<BR>При попадании эта стрела выпускает огонь, поджигающий жертву.
+tc.research_page.PRIMALARROW.2=§nЛедяная стрела§r<BR>Эта стрела наносит обычный урон, но разжижает кости Ваших врагов, замедляя их.<BR>§nКаменная стрела§r<BR>Эта стрела наносит намного больше урона при попадании.<BR>§nСтрела порядка§r<BR>Эта стрела наносит немного меньше урона, но пробивает любую броню и ослабляет жертву.<BR>§nРазрушающая стрела§r<BR>Эта стрела наносит немного меньше урона, чем 
+tc.research_page.PRIMALARROW.3=обычная, но заражает жертву Иссушением.<LINE>При использовании лука с зачарованием Бесконечность у Вас есть 1/3 шанс не потратить стрелу при выстреле, но Вы не сможете поднять никакую энергострелу.
+#
+tc.research_name.RUNICARMOR=Рунный щит
+tc.research_text.RUNICARMOR=Активировать щиты!
+tc.research_page.RUNICARMOR.1=Ваши исследования защитной магии привели Вас к Рунному щиту. Это не совсем броня - скорее, бижутерия (кольца, амулеты, пояса).<BR>Рунный щит создается этими самыми амулетами. Щит имеет некоторый заряд - урон, что он может поглотить. Когда заряд падает до нуля, носитель начинает получать полный урон.
+tc.research_page.RUNICARMOR.2=Заряд восстанавливается со временем, потребляя из Ваших посохов или жезлов §2Terra§0 и §eAer§0 для восстановления заряда.<BR>Но рунный щит не защищает от некоторых опасностей среды.<BR>Из-за своей природы, щит не может быть зачарован как обычно, но Вы уверены, что скоро найдете решение и этой проблемы. Для открытия меню бижутерии нажмите И.
+#
+tc.research_name.RUNICAUGMENTATION=Усиление рунного щита
+tc.research_text.RUNICAUGMENTATION=Щиты на максимум!
+tc.research_page.RUNICAUGMENTATION.1=Кольца, амулеты, пояса дают возможность пользоваться очень полезным и прочным рунным щитом. Но можно ли этот рунный щит наложить не только на них?<BR>Конечно же! Теперь Вы можете наделять броню из магически стабильных материалов рунным щитом.<BR>'Магически стабильные' материалы - таум-металл, зачарованная ткань или что-нибудь другое магическое.<BR>За один процесс предмету добавляется 1 рунный заряд, но Вы можете зачаровывать предмет несколько раз.
+tc.research_page.RUNICAUGMENTATION.2=Количество ингредиентов и эссенции будет возрастать с каждым новым процессом. Количество Salis Mundus, требуемой для этого процесса, эквивалентно количеству рунных зарядов. А затраты эссенции растут экспоненциально. Вы можете зачаровать кольца щита, но затраты высчитываются по количеству рунных зарядов. Так что этот процесс - очень дорогой.
+#
+tc.research_name.RUNICSPECIAL=Специальная рунная бижутерия
+tc.research_text.RUNICSPECIAL=Больше Заряда для Кольца Заряда!
+tc.research_page.RUNICSPECIAL.1=§nЭнергизированное кольцо рунного щита§r<BR>Это - специальная версия кольца рунного щита.<BR>В нём немного меньше зарядов, но они восстанавливаются на 25% быстрее.<BR>Вы можете носить несколько колец, уменьшая время восстановления вдвое.
+tc.research_page.RUNICSPECIAL.2=§nВосстанавливающее кольцо рунного щита§r<BR>Это - специальная версия кольца рунного щита.<BR>В нём немного меньше зарядов, но когда заряд щита падает до нуля, рунный щит с этим усилением выпускает волну жизненной энергии на носителя на несколько секунд.<BR>Время отката – 20 секунд.
+tc.research_page.RUNICSPECIAL.3=§nКинетический пояс рунного щита§r<BR>Это - специальная версия пояса рунного щита.<BR>В нём немного меньше зарядов, но когда заряд щита падает до нуля, рунный щит с этим усилением выпускает взрыв энергии.<BR>Время отката – 20 секунд.
+tc.research_page.RUNICSPECIAL.4= §nАмулет экстренного рунного щита§r<BR>Это - специальная версия амулета рунного щита.<BR>В нём немного меньше зарядов, но когда заряд щита падает до нуля, то щит мгновенно получает еще 8 зарядов.<BR>Время отката - 1 минута.
+#
+tc.research_name.REDSTONERELAY=Реле красного камня
+tc.research_text.REDSTONERELAY=Магическая инженерия
+tc.research_page.REDSTONERELAY.1=Вас всегда удивляла негативная реакция магических механизмов на сигнал красного камня. Изучая материю и этот необычный феномен взаимодействия красного камня и магии, Вы открыли, что при некоторых обстоятельствах феномен может стать обратным себе.<BR>Так Вы создали реле красного камня. Вы можете его контролировать сигнал красного камня, направляя его через стихийные кристаллы.
+tc.research_page.REDSTONERELAY.2=Реле ставятся также как и повторители. Сторона выхода помечена факелом.<BR>Но, в отличие от повторителей, реле имеют два переключателя - крайний задний определяет минимальный входной сигнал, необходимый для активации реле.<BR>Передний переключатель (рядом с факелом) определяет силу выходящего сигнала.
+#
+tc.research_name.INFUSIONENCHANTMENT=Зачарование наполнением
+tc.research_text.INFUSIONENCHANTMENT=Тауматургическое зачарование
+tc.research_page.INFUSIONENCHANTMENT.1=Элементальные инструменты показали свою силу, но метод их зачарования инвариантен... был до этого момента. Вы нашли способ наложения нескольких сил на практически любой инструмент или оружие, не только из таум-металла.<BR>Некоторые зачарования могут накладываться несколько раз на один предмет, при этом увеличивая затраты.<BR>Если быть точнее - то на 33% с каждой итерацией. Кроме того, может появиться эффект Искажение.
+tc.research_page.INFUSIONENCHANTMENT.2=Некоторые зачарования накладываются только на определённый тип предметов. В описаниях далее указано точнее.<BR>Инструменты с зачарованиями всё ещё могут быть зачарованы и обычным путём и наоборот.<BR>Как и элементальные инструменты, зажатие Shift при использовании отключает зачарование.
+tc.research_page.INFUSIONENCHANTMENT.COLLECTOR=§nСборщик§r<BR>При добыче этим инструментом выпавшие блоки/предметы поплывут к Вам по воздуху.<BR>§lУровни§r: 1<BR>§lПредметы§r: топор, кирка, лопата, оружие
+tc.research_page.INFUSIONENCHANTMENT.BURROWING=§nВскопка§r<BR>Когда Вы попытаетесь срубить дерево или добыть руду, будет сломан самый дальний от Вас блок.<BR>§lУровни§r: 1<BR>§lПредметы§r: топор, кирка
+tc.research_page.INFUSIONENCHANTMENT.REFINING=§nПереработка§r<BR>При добыче руды может выпасть кластер. Дополнительные уровни увеличивают шанс.<BR>§lУровни§r: 1-4<BR>§lПредмет§r: кирка
+tc.research_page.INFUSIONENCHANTMENT.SOUNDING=§nРезонанс§r<BR>Вы можете ударить по блоку ПКМ, отправив в него звуковой импульс. Он отразится от ближайших руд. Вызов импульса тратит прочность инструмента.<BR>§lУровни§r: 1-4<BR>§lПредмет§r: кирка
+tc.research_page.INFUSIONENCHANTMENT.DESTRUCTIVE=§nРазрушение§r<BR>Когда Вы ломаете блок, то, кроме него, сломаются ещё 8 его окружающих. Каждый дополнительный блок тратит прочность инструмента.<BR>§lУровни§r: 1<BR>§lПредметы§r: топор, кирка, лопата
+tc.research_page.INFUSIONENCHANTMENT.ARCING=§nПолупируэт§r<BR>При взмахе Вашим оружием, оно с помощью магии совершает быстрый удар, провоцирующий острую воздушную волну, бьющую дополнительного врага половиной урона меча. Дополнительные уровни увеличивают количество целей и радиус атаки.<BR>§lУровни§r: 1-4<BR>§lПредмет§r: оружие
+tc.research_page.INFUSIONENCHANTMENT.ESSENCE=§nЖнец эссенции§r<BR>При убийстве врага таким оружием имеется шанс выпадения нескольких кристалликов эссенции, содержащейся в убитом существе. Дополнительные уровни увеличивают шанс и количество выпадающих кристалликов.<BR>§lУровни§r: 1-5<BR>§lПредмет§r: оружие
+#
+tc.research_name.VERDANTHEART=Кольцо Сердца
+tc.research_text.VERDANTHEART=Лечение неудобств
+tc.research_page.VERDANTHEART.1=Это мистическое кольцо пульсирует лечащей энергией, которая отлично действует как противоядие. К несчастью, она не лечит настоящие раны.<BR>В кольце присутствует внутренний резервуар для Вис, который можно заполнить на пьедестале - оно не вытягивает Вис из ауры само по себе.
+#
+tc.research_name.VERDANTHEARTLIFE=Лечение и поддержка
+tc.research_text.VERDANTHEARTLIFE=Бальзам на душу
+tc.research_page.VERDANTHEARTLIFE.1=На кольцо Сердца можно наложить два типа зачарований. К сожалению, они взаимоисключаемы и поэтому не могут быть наложены одновременно.<LINE>§nЕго Лечение§r<BR>Это зачарование позволяет кольцу восстанавливать здоровье его носящего. 
+tc.research_page.VERDANTHEARTLIFE.2=§nЕго Поддержка§r<BR>Это зачарование позволяет кольцу медленно восстанавливать голод и поддерживать своего носителя. Это включает подачу воздуха под водой.<LINE>Солянка делается из трех кусочков разного мяса, смешанных с сахаром. Это не только ингредиент зачарования, но и просто вкусная и полезная пища.
+#
+# Алхимия
+#######################
+tc.research_name.CRUCIBLE=Начала алхимии
+tc.research_text.CRUCIBLE=Пузырьки да кипяточек
+tc.research_page.CRUCIBLE.1=Чтобы сделать тигель, нужно использовать жезл на котле.<BR>Тигель - важный инструмент тауматурга. Он позволяет расщеплять объекты на их аспекты и эссенцию, а так же использовать их в своих нуждах.<BR>Тигель должен быть поставлен над источником тепла и заполнен водой. Когда вода начнет кипеть - просто закиньте в тигель предметы, которые Вы хотите разложить и они будут сразу превращены в эссенцию.<BR>Если формула составлена верно и в нем находится нужная   
+tc.research_page.CRUCIBLE.2=эссенция, то Вы можете бросить в него Катализатор. Катализатор забирает эссенцию и трансформируется в нужный предмет, который затем выпрыгивает из тигля.<BR>Вся оставшаяся в котле эссенция может быть использована потом, но не стоит ее оставлять там надолго.<BR>Создание предмета забирает немного воды из тигля и Вам наверняка придется его снова наполнять.<BR>Эссенция в тигеле имеет тенденцию деградировать. Сложные аспекты распадаются на их составные, и основные аспекты выходят в атмосферу.  
+tc.research_page.CRUCIBLE.3=Вы также можете освободить тигель от воды - нажав Shift+ПКМ по нему жезлом, после чего вся эссенция уйдет в атмосферу... Навряд ли Вы захотите проделывать такое слишком часто.<LINE>Сейчас для Вас доступны несколько простых рецептов. Далее они описаны.
+tc.research_page.CRUCIBLE.4=§nСбалансированный кристалл§r<BR><BR>Это обычные кристаллы, наполненные силой пяти других элементов. В результате у Вас получится кристалл, резонирующий первородной энергией.<BR>Переплавив этот кристалл, Вы получите Salis Mundus (смотрите далее).
+tc.research_page.CRUCIBLE.5=§nSalis Mundus§r<BR><BR>Salis Mundus, или Соль тауматурга, как она более известна, создается из рассыпавшегося от нагрева сбалансированного кристалла.<BR>Как и ее обычный аналог, соль тауматурга делает более вкусной (образно говоря) любую магическую формулу или рецепт. Это "сильносвязующее" вещество в состоянии держать самые различные магические элементы вместе.
+#
+tc.research_name.METALLURGY=Магическая металлургия
+tc.research_text.METALLURGY=Когда металл сливается с магией
+tc.research_page.METALLURGY.1=По тауматургическим принципам, металлы можно изменять с помощью магии. Результатом Вашего первого эксперимента стал Таум-металл.<BR>Таум-металл - результат наполнения металла магией. В итоге получается более прочный, чем железо металл с огромным потенциалом к зачарованию.<BR>На его свойствах основано множество магических устройств.<BR>Из него также можно делать броню, оружие и инструменты.
+tc.research_page.METALLURGY.2=§nАлхимическая латунь§r<BR>Хоть таум-металл и очень хорошее вещество, но для некоторых точных механизмов обычные металлы предпочтительнее. Латунь - твёрдый, слабофрикционный металл, подходящий для сборки некоторых механических устройств.<BR>Но, к несчастью, из-за изменчивости вселенной иногда нельзя найти достаточно латуни. Благо, Вы нашли способ алхимического создания этого полезного металла.
+#
+tc.research_name.NITOR=Нитор
+tc.research_text.NITOR=Мистическое пламя
+tc.research_page.NITOR.1=Это пылающее пламя, кажется, подпитывается магией само по себе. Количество применений вечногорящего пламени кажется бесконечным, но, к сожалению, оно производит больше света, чем тепла. Но его пламя всё же может оказаться постоянным источником энергии.<BR>Нитор может быть расположен как источник света, но ему не нужна опора. Кроме того, Нитор можно покрасить.
+#
+tc.research_name.ALUMENTUM=Алюментум
+tc.research_text.ALUMENTUM=Источник мистической энергии
+tc.research_page.ALUMENTUM.1=Эта субстанция просто пышет энергией и Вам кажется, что энергия внутри Алюментума так и жаждит вырваться наружу. Алюментум нестабилен, но может служить хорошим источником тепла.<BR>Не очень хорошей идеей будет кинуть его куда нибудь (нажав ПКМ).
+#
+tc.research_name.PHIAL=Стеклянные пузырьки
+tc.research_text.PHIAL=Мистические контейнеры
+tc.research_page.PHIAL.1=Стеклянные пузырьки способны удерживать всякие жидкости и субстанции, но наиболее важным для тауматурга является их способность хранить Эссенции.
+#
+tc.research_name.BOTTLETAINT=Порча в бутылке 
+tc.research_text.BOTTLETAINT=Зачем Вы это сделали?
+tc.research_page.BOTTLETAINT.1=Чистка последствий порчи это одно дело, а что, если её распылять?<BR>Собрав концентрат порчи в бутылку, её можно куда-нибудь бросить, разлив этот концентрат. Вам решать, куда её бросать. 
+#
+tc.research_name.TAINTSHARD=Заражённый кристалл
+tc.research_text.TAINTSHARD=Искажение кристаллов
+tc.research_page.TAINTSHARD.1=Заражённые кристаллы довольно трудно найти. Но из-за их частого использования Вам пришлось создать способ заражения кристаллов.<BR>Этот процесс не очень эффективен, так как количество затрачиваемого §5Vitium§0 во много раз превосходит количество оного в получаемом кристалле.  
+#
+tc.research_name.ALCHEMICALDUPLICATION=Алхимия удвоения
+tc.research_text.ALCHEMICALDUPLICATION=Хорошего много не бывает.
+tc.research_page.ALCHEMICALDUPLICATION.1=В мире довольно много "алхимических" веществ.<BR>Внимательно добавляя подходящие аспекты, Вы можете их воспроизвести.
+#
+tc.research_name.ALCHEMICALMANUFACTURE=Алхимическое производство
+tc.research_text.ALCHEMICALMANUFACTURE=Всегда есть несколько путей.
+tc.research_page.ALCHEMICALMANUFACTURE.1=Вы поднаторели в стандартной алхимии и алхимии удвоения. Теперь пора сделать что-то более глобальное.<BR>Вы создали рецепты, позволяющие получить предметы, которые сложно получить обычными путями.
+#
+tc.research_name.ENTROPICPROCESSING=Энтропия
+tc.research_text.ENTROPICPROCESSING=Делать хуже?
+tc.research_page.ENTROPICPROCESSING.1=Создание магических или обычных вещей довольно приятное занятие, но... Иногда Вам просто хотелось просто разрушить или испортить некоторые вещи! Что может быть проще добавления энтропии предметам?<BR>Конечно, есть несколько причин, почему - это плохая идея, но когда прогресс был без риска?
+#
+tc.research_name.PUREMETAL=Очистка металлов
+tc.research_text.PUREMETAL=Очищаем и обогащаем
+tc.research_page.PUREMETAL.1=Самородные кластеры - скопления металлов в их чистейшей форме. Вы открыли способ очистки и обогащения руды, а затем превращения её в кластер.<BR>При переплавке кластеры дают удвоенное количество слитков.
+#
+tc.research_name.TRANSMETAL=Трансмутация металлов
+tc.research_text.TRANSMETAL=Одно в другое, потом в третье
+tc.research_page.TRANSMETAL.1=Вы открыли способ размножения и трансмутации металлов при забрасывании самородков в расплав §7Metallum§0 и другие аспекты.
+#
+tc.research_name.TALLOW=Магический жир
+tc.research_text.TALLOW=Жир с примесью магии
+tc.research_page.TALLOW.1=Вы раскрыли секрет вытапливания жира из плоти в тигле для получения специального жира, который может быть использован в разнообразных целях.<BR>Из него можно даже делать свечи! Также эти свечи можно красить.
+#
+tc.research_name.DISTILESSENTIA=Очистка эссенции
+tc.research_text.DISTILESSENTIA=Собираем аспекты
+tc.research_page.DISTILESSENTIA.1=Вы уже успели понять, что в будущем Вам понадобятся чистые аспекты, а не просто основные, содержащиеся в вашем жезле.<BR>Основываясь на простейших алхимических принципах, Вы открываете способ расщепления предметов и трансформации их в эссенцию.<BR>Первым шагом будет создание §lАлхимической печи§r. Она работает как обычная печь - сжигает уголь для разогрева, но вместо плавки руды в металл, она сжигает предметы в субстанцию, состоящую из неочищенной эссенции. Этот процесс не очень эффективен и 
+tc.research_page.DISTILESSENTIA.2=приблизительно 20% эссенции превращается в Порчу.<BR>Следующим шагом будет очистка этой самой субстанции с помощью §lПерегонного куба§r.<BR>Для работы, перегонный куб должен быть поставлен сверху на алхимическую печь. Неочищенная эссенция будет медленно идти в перегонный куб и очищаться.<BR>Если алхимическая печь питается алюментумом, то очищение будет идти намного быстрее.
+tc.research_page.DISTILESSENTIA.3=Эссенцию затем можно собрать пузырьками, банками или другими сложными путями.
+tc.research_page.DISTILESSENTIA.4=§nМагические меха§r<BR>Магические меха, присоединённые к стороне печи сильно увеличят её теплотворность, ускоряя расщепление предметов в эссенцию.
+#
+tc.research_name.DISTILESSENTIA2=Алхимическая таум-печь
+tc.research_text.DISTILESSENTIA2=Сбор эссенции
+tc.research_page.DISTILESSENTIA2.1=Алхимическая таум-печь работает так же, как и простая, но у неё эффективность составляет 85% вместо 80%.<BR>Её главная особенность - удвоенная скорость разрушения предметов в эссенцию. 
+#
+tc.research_name.DISTILESSENTIA3=Алхимическая пустотная печь
+tc.research_text.DISTILESSENTIA3=Сбор эссенции
+tc.research_page.DISTILESSENTIA3.1=Алхимическая пустотная печь работает так же, как и простая, но у неё эффективность составляет 95% вместо 80%.<BR>Но она разрушает предметы не так быстро, как таум-печь.
+#
+tc.research_name.IMPROVED_DISTILLATION=Улучшенная дистилляция эссенции
+tc.research_text.IMPROVED_DISTILLATION=Сбор эссенции... Улучшен
+tc.research_page.IMPROVED_DISTILLATION.1=Хоть печи и быстры, их можно сделать ещё быстрее - особенно скорость разрушения предметов в эссенцию.<BR>Каждый шлаковый насос, установленный на стороне печи, выступает как новая рабочая зона, выпуская эссенцию в перегонные кубы сверху.
+tc.research_page.IMPROVED_DISTILLATION.2=Также Вы нашли способ борьбы с побочным эффектом плавки - Порчей. Прогон расплавленной массы через второй фильтр эссенции позволяет отделить Порчу и спокойно выпустить её в виде безобидного пара.<BR>Каждый клапан снижает выработку Порчи на треть, но всё-таки ниже некоторого порога выработку снизить нельзя. 
+#
+tc.research_name.JARLABEL=Банки и бирки
+tc.research_text.JARLABEL=Собираем и упорядочиваем эссенции
+tc.research_page.JARLABEL.1=Эссенция может содержаться в §lБанках§r.<BR>Банки могут быть поставлены для немедленного сбора эссенции.<BR>Банки можно заполнить, слив эссенцию из перегонных кубов, кликнув ПКМ банкой по нему. Также они могут быть заполнены стеклянными пузырьками.<BR>Более того, банки отлично подойдут для хранения джемов и варенья. 
+tc.research_page.JARLABEL.2=Пока в банке есть эссенция, Вы можете повесить на нее §lБирку§r.<BR>Бирка как бы 'настроит' на эту эссенцию, при этом банку не получится наполнить другим типом эссенции.<BR>Бирку можно снять - пригнитесь и кликните по бирке ПКМ пустой рукой - не жмите на саму банку, иначе Вы выпустите всю эссенцию.
+tc.research_page.JARLABEL.3=Вы можете совместить на верстаке пузырек эссенции с биркой, тогда эта бирка может пометить банку этим типом эссенции. При совмещении эссенция не расходуется.<BR>Заполненные банки также будут помечаться.<LINE>Бирку можно очистить просто положив ее в слот верстака.
+tc.research_page.JARLABEL.4=Кроме того, Вы можете собирать латунные крышки. Накрыв банку крышкой, Вы закроете путь для эссенции из или в банку через любой путь, кроме труб.<BR>При поднятии банки крышка автоматически снимается.
+#
+tc.research_name.ETHEREALBLOOM=Эфирный цветок
+tc.research_text.ETHEREALBLOOM=Очищающая флора
+tc.research_page.ETHEREALBLOOM.1=Сребролист часто находится в тени его мистического соседа - Серебряного дерева и на первый взгляд ничем не примечателен, но оказалось, что и у этого цветка есть магические свойства.<BR>Как и Серебряное дерево, Сребролист обладает очищающими свойствами, которые не были известны до этого момента. Вы нашли способ пробудить эти свойства и превратить Сребролист в Эфирный цветок.<BR>Эфирные цветы способны медленно, но верно восстанавливать землю, окутанную мистической заразой, также известной как Магическая порча. Поскольку бороться с
+tc.research_page.ETHEREALBLOOM.2=заразой напрямую невозможно, есть шанс что некоторые участки зараженных областей смогут выживать вне их родной среды обитания довольно долгое время, но также будут иметь склонность к отмиранию. Эфирный цветок очищает зараженную землю вокруг себя в приблизительном радиусе около 8 блоков.
+#
+tc.research_name.TUBES=Трубы для эссенций
+tc.research_text.TUBES=Перенос эссенции
+tc.research_page.TUBES.1=Вы открывали множество путей транспортировки эссенции, но ни один из них не был достаточно масштабным - до этого момента.<BR>Вы нашли способ создания прочных и относительно герметичных труб. Обычные химикаты транспортируются по стеклянным трубам, но эссенция проходит сквозь эти трубы. Упрочнение стекла железом и покрытие его ртутью позволяет защитить трубы даже от самых нестабильных эссенций. Золотые хомуты упрочняют конструкцию и делают ее более привлекательной.
+tc.research_page.TUBES.2=Трубы могут быть присоединены к любым алхимическим устройствам, но их основное назначение - банки и перегонные кубы.<BR>Эссенция течет через трубы только тогда, когда они что-то соединяют.<BR>Банки, содержащие один тип эссенции, будут заставлять систему проводить только эту эссенцию и только к этой банке. Трубы могут проводить лишь один тип эссенции за раз – самая «сосущая» банка возьмет все на себя. Без клапанов вся сеть труб может быть просто испорчена. Так что не скупитесь на них.<BR>Когда из трубы идет газ, то
+tc.research_page.TUBES.3=это значит, что трубы забились эссенцией. Цвет показывает проблемную эссенцию.<LINE>Клапан для эссенции работает как обычная труба, разве что его можно перекрыть рукой или сигналом красного камня. Когда клапан закрыт, то эссенция через него не проходит.<LINE>Резонатор является полезной вещью для решения этой проблемы. Вы можете ударить им по трубе или другому устройству, содержащему эссенцию, чтобы узнать, что за эссенция в нем содержится и где ее источник. 
+tc.research_page.TUBES.4=Трубы можно присоединять и отсоединять от их соседей, нажимая на них ПКМ жезлом/посохом.<BR>Некоторые трубы можно вращать, нажимая ПКМ по ним жезлом/посохом.
+#
+tc.research_name.CENTRIFUGE=Алхимическая центрифуга
+tc.research_text.CENTRIFUGE=Начинаем разборку
+tc.research_page.CENTRIFUGE.1=Алхимическая центрифуга - невероятное устройство, разделяющее эссенции на их составляющие.<BR>Когда составная эссенция попадает в центрифугу, то она начинает медленно разделяться на ее составляющие. Из 1 расщепленной эссенции получается 1 ее составлявший.<BR>Результат выходит из центрифуги сверху. Из-за возможных синхронизационных проблем с сетью труб, желательно использовать §5Буферы эссенции§0, ставя их на центрифугу.
+#
+tc.research_name.JARVOID=Пустотная банка
+tc.research_text.JARVOID=Слишком много эссенций? Невероятно!
+tc.research_page.JARVOID.1=Пустотные банки работают как обычные, за исключением одной особенности - даже когда они заполнены, они могут принимать эссенцию, но избыточная эссенция теряется. Это позволяет всегда иметь нужное кол-во эссенции безо всяких излишков.<BR>Как на обычные, так и на пустотные банки можно вешать бирки, но их сила всасывания ниже, чем у обычных помеченных банок.<BR>Стравливаемая эссенция редко, но портит Ауру.
+#
+tc.research_name.TUBEFILTER=Улучшенные трубы
+tc.research_text.TUBEFILTER=Что ты хочешь - там, где хочешь
+tc.research_page.TUBEFILTER.1=§nТрубы-фильтры§r работают как обычные, но их еще можно и пометить бирками. Когда на трубе-фильтре висит бирка, то она пропускает только указанную эссенцию.<BR>Присядьте и нажмите ПКМ для снятия бирки.
+tc.research_page.TUBEFILTER.2=§nТрубы высокого сопротивления§r работают как обычные, разве что они уменьшают силу потока вдвое.<LINE>§nНаправляющие трубы§r принимают поток только в одну сторону. Синяя метка показывает направление, куда идет поток.
+tc.research_page.TUBEFILTER.3=Буфер эссенции позволяет временно содержать немного эссенции - 8 единиц всех типов (хоть §fOrdo§0, §cIgnis§0 и §6Aer§0 вместе взятые). Как и банка, буфер имеет всасывающую силу, но очень маленькую - 1.<BR>Поэтому он может брать эссенцию только из рядом стоящей банки/центрифуги. Трубы могут быть присоединены ко всем сторонам, а значит, буфер – незаменимая вещь для вытягивания эссенций из устройств вроде центрифуги.<BR>Зато Вы можете поставить рядом с буфером меха – каждые меха увеличивают силу всасывания на 32.
+tc.research_page.TUBEFILTER.4=Кроме того, Вы можете включить или отключить отдельные соединения, как и с обычной трубой, но если Вы сидя нажмёте на соединение, это понизит всасывание обратно на 1 (синее кольцо) или на 0 (красное кольцо) на этой стороне.<BR>Это даст интересные возможности, при передачи эссенции.
+#
+tc.research_name.THAUMATORIUM=Автоалхимия
+tc.research_text.THAUMATORIUM=Алхимию - народу
+tc.research_page.THAUMATORIUM.1= До сих пор алхимия была своего рода чередующейся удачей и неудачей - просчитались в аспектах, уничтожили эссенцию и ингредиенты, или что-нибудь еще. Теперь это в прошлом.<BR>Тауматорий - это чудесное изобретение, которое позволяет тауматургу выбрать, что именно делать и что использовать. Он автоматически использует нужную эссенцию, получая ее по трубам. Пока в нем есть катализатор, он будет беспрекословно производить нужный предмет.<BR>Тигель не требует воды, но все ещё требует источник тепла.
+tc.research_page.THAUMATORIUM.2=Когда Вы откроете его интерфейс, то увидите несколько слотов. Верхний левый – для катализатора. После того, как Вы положили катализатор, Вы сможете выбрать, какой рецепт Вы хотите использовать с этим катализатором из списка возможностей в правом верхнем слоте.<BR>Нижняя полоса показывает нужную эссенцию. Она также показывает прогресс создания.<BR>Созданный объект выбрасывается спереди механизма.
+tc.research_page.THAUMATORIUM.3=Простой тауматорий может содержать в себе только одну формулу, но с каждой мнемонической матрицей количество допустимых формул увеличивается на 2. 
+#
+tc.research_name.BATHSALTS=Очищающая соль
+tc.research_text.BATHSALTS=Антидепрессанты
+tc.research_page.BATHSALTS.1=Искажение опасно даже для самых осторожных тауматургов. Для тех, у кого проявляются эффекты Искажения, вероятно, это больше, чем просто раздражение. Очищающая соль поможет с этим.<BR>Просто бросив эту соль в воду, Вы превратите её в серебристую очищающую жидкость, успокаивающую нервы от стрессов и приносящую временное облегчение от воздействия Искажения. Следует отметить, чем больше страдания тауматурга от Искажения, тем короче продолжительность этой защиты.<BR>Соль довольно активная и быстро растворяется. Так что лучше ею не жонглировать.
+#
+tc.research_name.LIQUIDDEATH=Жидкая смерть
+tc.research_text.LIQUIDDEATH=Только для наружного применения
+tc.research_page.LIQUIDDEATH.1=Эта жидкость настолько токсична, что практически ничто не может сопротивляться растворению в ней. Ни плоть, ни кости, ни даже более твёрдые вещества не спасают от неё. Ничто живое или, неживое, не может в ней даже немного просуществовать.<BR>Помимо очевидных любому использований, это мерзкое вещество имеет одно интересное свойство: некоторая эссенция растворённого существа превращается в кристаллики.<BR>Только воображение является ограничением количества применений этих кристалликов.
+#
+tc.research_name.ARCANESPA=Магическая ванна
+tc.research_text.ARCANESPA=Расслабляемся стильно
+tc.research_page.ARCANESPA.1=Постоянно растворять соль в воде - немного муторное занятие, но упрощающееся магией.<BR>Вы создали механизм, что автоматически растворяет соль в воде и выливает очищающую жидкость над собой. Жидкость заполняет зону 5x5 над ванной.<BR>К тому же, Вы увидели, что ванна может выливать над собой любую жидкость. Её можно наполнять автоматически, или вручную вёдрами или другими резервуарами. Сигнал красного камня отключает ванну.  
+#
+tc.research_name.SANESOAP=Лечащее мыло
+tc.research_text.SANESOAP=Избавляемся от грязных мыслей
+tc.research_page.SANESOAP.1=Чистить тело довольно легко, но, когда искажение становится помехой, требуется что-то, чистящее мысли.<BR>Это мыло чистит кожу, но его эффект на психику делает его уникальным. При использовании, мыло полностью убирает временное искажение и с маленьким шансом может уменьшить уровень постоянного искажения.<BR>Эффект усиливается, если Вы чиститесь мылом будучи под защитой от искажения или при нахождении в очищающей жидкости.  
+#
+tc.research_name.ESSENTIACRYSTAL=Кристаллизация эссенции 
+tc.research_text.ESSENTIACRYSTAL=Твёрдая валюта или ликвидные активы?
+tc.research_page.ESSENTIACRYSTAL.1=Вы почти мастерски превращаете объекты в жидкую эссенцию. Наверное, обратное действие тоже окажется лёгким.<BR>Кристаллизатор эссенции высасывает эссенцию из труб от сети и медленно превращает её в кристаллы эссенции. Кристаллизированная эссенция абсолютно безопасна и стабильна.<BR>Кристаллизатор либо выбрасывает кристаллы на землю, либо в прилегающий контейнер. Процесс регулируется сигналом красного камня.<BR>Кристаллизатор работает на Вис §2Terra§0, выкачивая его из Ауры.
+#
+tc.research_name.ESSENTIATRANSPORT=Трансфузия эссенции
+tc.research_text.ESSENTIATRANSPORT=Эссенция в воздухе
+tc.research_page.ESSENTIATRANSPORT.1=Во время наполнения эссенция берётся из банок и плывёт по воздуху к матрице. Силы матрицы стабилизируют её для процесса наполнения, но такая эссенция изменяется и в дальнейшем становится непригодной для других целей. Вы открыли способ похожей транспортировки эссенции без её изменения.<BR>Вы создали схемы двух устройств. Эссенц-инфузер берёт эссенцию из труб или других устройств и переносит её по воздуху в банки в радиусе 16 блоков по направлению инфузера. 
+tc.research_page.ESSENTIATRANSPORT.2=Эссенц-эксфузер делает обратное - высасывает эссенцию из банок и отдаёт её устройствам. 
+#
+#
+# Големантия
+#######################
+tc.research_name.BASICGOLEMANCY=Начала големантии
+tc.research_text.BASICGOLEMANCY=Контроль движений
+tc.research_page.BASICGOLEMANCY.1=Вы создали простых, слабых големов, которых любой может сделать. Но таким големам не хватает одной черты - ими нельзя управлять.<BR>Наверняка Вы найдете способ это исправить.
+#
+tc.research_name.MATSTUDWOOD=Изучение материалов: Дерево
+tc.research_text.MATSTUDWOOD=Улучшенная сборка из дерева
+tc.research_page.MATSTUDWOOD.1=Големантия сильно зависит от Вашего мастерства, так как часто требуются редкие компоненты, а ошибка может их испортить. Вым нужно улучшить свои навыки и знания обычных и магических веществ. Первая цель - дерево.<BR>Дерево является универсальным веществом и, несмотря на свою хрупкость, оно лёгкое и простое в обработке. Великое дерево является отличным предметом для изготовления големов. 
+#
+tc.research_name.MATSTUDIRON=Изучение материалов: Железо
+tc.research_text.MATSTUDIRON=Улучшенная сборка из железа
+tc.research_page.MATSTUDIRON.1=Железно немного лучше дерева - оно намного прочнее и может применяться в средах, где использование дерева нецелесообразно. С ним довольно сложно работать и оно тяжёлое.
+#
+tc.research_name.MATSTUDBRASS=Изучение материалов: Латунь
+tc.research_text.MATSTUDBRASS=Улучшенная сборка из латуни
+tc.research_page.MATSTUDBRASS.1=Хотя латунь мягче железа, она всё ещё достаточно прочна и хороша для некоторых механизмов. Судя по всему, латунь - лучший обычный материал, подходящий для целей големантии и изготовления точных механизмов. К тому же она очень красиво выглядит.
+#
+tc.research_name.MATSTUDTHAUMIUM=Изучение материалов: Таум-металл
+tc.research_text.MATSTUDTHAUMIUM=Улучшенная сборка из таум-металла
+tc.research_page.MATSTUDTHAUMIUM.1=Таум-металл - это магический материал, поглощающий зачарования как губка. И он намного прочнее железа. К несчастью, он ещё тяжелее, чем железо и из-за прочности его сложно обрабатывать.<BR>Хоть его нельзя сравнивать с латунью в некоторых точных механизмах, но его прочность целесообразна в механизмах, где сила важнее, чем точность. 
+#
+tc.research_name.MATSTUDVOID=Изучение материалов: Пустотный металл
+tc.research_text.MATSTUDVOID=Улучшенная сборка из пустотного металла
+tc.research_page.MATSTUDVOID.1=Пустотный металл сравнительно лёгок, но из-за его мягкости он малоприменим в каких-либо механизмах. К счастью, его изменчивая структура и способность к самовосстановлению целесообразны для использования пустотного металла для оболочек.
+#
+tc.research_name.MATSTUDCLAY=Изучение материалов: Глина
+tc.research_text.MATSTUDCLAY=Улучшенная сборка из глины
+tc.research_page.MATSTUDCLAY.1=Глина не очень прочная, легкая или твёрдая, но с ней легко работать,она огнеупорна и легче железа. В общем, идеальный вариант для нищего тауматурга.
+#
+tc.research_name.HUNGRYCHEST=Голодный сундук
+tc.research_text.HUNGRYCHEST=Сундук, который не может дождаться, когда его откроют
+tc.research_page.HUNGRYCHEST.1=Голодный сундук способен съедать предметы и блоки, которые упали к нему очень близко.
+#
+tc.research_name.ARCANEBORE=Магический бур
+tc.research_text.ARCANEBORE=Эволюция копания
+tc.research_page.ARCANEBORE.1=Вы спроектировали устройство, способное увеличить радиус и эффективность набалдашника копания. Еще большая выгода состоит в том, что эта машина может копать без Вашего постоянного наблюдения. Вам просто необходимо поместить бур на специально построенной основе, направить в нужное направление посохом/жезлом и включить его сигналом красного камня.<BR>Магическому буру требуется две вещи для функционирования. Первой является набалдашник копания, помещенный в левый слот инвентаря машины.
+tc.research_page.ARCANEBORE.2=Любые зачарования, наложенные на набалдашник, будут также изменять возможности бура.<BR>Во-вторых, Вы должны поместить кирку любого вида в правый слот. Материал кирки не будет иметь большого влияния на функционирование бура, но чем больше ее прочность, тем дольше продлится раскопка. Как и от набалдашника, любые зачарования или специальные возможности кирки будут также применены к работе бура. Магический бур может быть размещен только на верхней или нижней части основы.<BR>Любые добытые предметы будут выброшены из основы в направлении, которое указывает сопло. Направление сопла может быть изменено жезлом/посохом.
+tc.research_page.ARCANEBORE.3=Бур можно питать эссенцией §8Perditio§0, что невероятно увеличит скорость копки. Эссенцию можно поставлять по трубам.<BR>Одна условная единица §8Perditio§0 ускорит работу бура по добыче следующих 20 блоков. Если не будет эссенции - бур будет потреблять §8Perditio§0 из Ауры. 1 единица Вис ускоряет копку только одного блока, при этом скорость ниже, чем при питании эссенцией.
+#
+tc.research_name.TRAVELTRUNK=Ходячий сундук
+tc.research_text.TRAVELTRUNK=Мобильное хранилище
+tc.research_page.TRAVELTRUNK.1=Ваши исследования в области големантии привели Вас к открытию Ходячего сундука. <BR>Этот сундук будет радостно следовать за Вами, дожидаясь "загрузки" предметов. <BR>Ходячий сундук может держать в себе много предметов. Сундук не получает урона от падения и почти не получает от огня.<BR>Сундук может следовать за хозяином повсюду - даже через измерения. 
+tc.research_page.TRAVELTRUNK.2=Если Вы хотите, чтобы сундук остановился, у него в интерфейсе есть специальная кнопка.<BR>Ходячий сундук медленно восстанавливается все время, но Вы его можете "покормить" для ускорения восстановления.<BR>Как и големы, сундук снимается хрустальным колокольчиком. При этом он выбросит все предметы. Присядьте и нажмите ПКМ на нем для отделения от него улучшений.<BR>Он может улучшаться как и големы, но для него эти улучшения будут действовать по-другому.
+tc.research_page.TRAVELTRUNK.UAI=§nУлучшение голема: Воздух§r<BR>Сундук будет двигаться быстрее.
+tc.research_page.TRAVELTRUNK.UEA=§nУлучшение голема: Земля§r<BR>Сундук может содержать больше предметов.
+tc.research_page.TRAVELTRUNK.UFI=§nУлучшение голема: Огонь§r<BR>Сундук будет защищать хозяина, если его атакуют.
+tc.research_page.TRAVELTRUNK.UWA=§nУлучшение голема: Вода§r<BR>Сундук может быть открыт и снят только его хозяином.<BR>Также, увеличивается защита ко всем видам урона.
+tc.research_page.TRAVELTRUNK.UOR=§nУлучшение голема: Порядок§r<BR>При снятии сундук будет содержать в себе предметы. Но предметы выпадут при отделении улучшений.
+tc.research_page.TRAVELTRUNK.UEN=§nУлучшение голема: Хаос§r<BR>Сундук будет подбирать абсолютно все, что упало рядом с ним.
+#
+tc.research_name.MINDCLOCKWORK=Заводные элементы управления
+tc.research_text.MINDCLOCKWORK=Даём жизнь
+tc.research_page.MINDCLOCKWORK.1=Железные големы, снежные големы и похожие творения, которые любой может сделать, имеют одну неприятную особенность - они непредсказуемы и неконтролируемы.<BR>Духи, управляющие ими, слишком дикие и поступают по своим инстинктам. Это проблема.<BR>Если Вы хотите создать умных магических слуг, то Вам нужно дать им мозги, которыми можно управлять. Простейшее решение - заводные механизмы, улучшенные тауматургией. У них есть ограничения, но это пока самое начало.
+tc.research_page.MINDCLOCKWORK.2=Пришло время их создавать.<BR>Вы разработали специальный пресс, позволяющий создавать простейших големов. Железная решётка ставится на поршень.<LINE>Чтобы собрать голема Вам просто нужно выбрать компоненты, из которых должен быть собран голем. Сейчас выбор довольно ограничен, но Вы уверены, что дальше будет больше.
+tc.research_page.MINDCLOCKWORK.3=Каждый голем собирается из максимум 5 компонентов: Материал корпуса, типы головы, рук, ног и опциональный модуль. Просто выберите, какие из них вы хотите использовать, и список компонентов будет отображён справа. Вам необходимо иметь при себе эти компоненты прежде чем Вы начнёте сборку.<BR>В середине интерфейса вы увидите его характеристики, очки здоровья, броню и урон голема из этих компонентов.<BR>Наконец, Вам будет нужно снабдить пресс эссенцией. Пресс имеет несколько входов для снабжения.
+tc.research_page.MINDCLOCKWORK.4=Теперь Вы можете разместить голема в любом месте, но от него не будет пользы без §5Печати§0. О них написано в соответствующем разделе.<BR>Когда голем выполнит свою работу, он вернётся на место установки. Вы можете подобрать голема, нажав на нём ПКМ жезлом.<BR>Голема можно покрасить нужным красителем. Это может быть полезно при использовании разных печатей. Снятие голема уберёт с него краску.
+#
+tc.research_name.GOLEMDIRECT=Мастерство големантии
+tc.research_text.GOLEMDIRECT=Это не удача, а навык
+tc.research_page.GOLEMDIRECT.1=Создание бездушных машин, контролируемых печатями - не единственная возможность големантии. Вы хотите, чтобы они ещё и следовали с Вами.<BR>Теперь Вы можете нажать ПКМ на голема §5Хрустальным колокольчиком§0, для отдачи приказа следования. Следуя за Вами, голем больше не будет подчиняться печати, а будет Вас защищать.<BR>Нажав на голема снова, Вы можете вернуть его к изначальной цели с новой начальной точкой (где он на момент нажатия). 
+#
+tc.research_name.CONTROLSEALS=Контролирующие печати
+tc.research_text.CONTROLSEALS=Даём им цель
+tc.research_page.CONTROLSEALS.1=Големы не могут ничего делать, пока им не дан приказ. Для этого Вы создали управляющие печати. Вы можете поместить их на любой поверхности. После этого, они дематериализуются, но будут видны, когда Вы держите голема, другую печать или §5Хрустальный колокольчик§0.<BR>Колокольчик будет для Вас важным инструментом при тонкой настройке параметров печатей.<BR>Так как печати нематериальны, Вы можете помещать на них другие блоки.
+tc.research_page.CONTROLSEALS.2=Несколько печатей могут находиться в одном блоке на разных его сторонах.<BR>Вы можете собрать печать, нажав на ней Shift+ПКМ хрустальным колокольчиком.<LINE>Просто нажатие на печать колокольчиком позволит Вам настроить её. Параметры разных печатей в основном отличаются, но большинство из них имеют приоритеты от -5 до +5 (по умолчанию 0). Задачи печатей более высокого приоритета выполняются в первую очередь. Вы также сможете увидеть список необходимых характеристик, которыми голем
+tc.research_page.CONTROLSEALS.3=должен обладать для управления им данной печатью.<BR>Например, одной печати подойдет только голем с характеристикой §5Ловкий§0, или, чтобы голем НЕ имел характеристики §5Неуклюжий§0.<BR>Для практического примера, посмотрите на §5Печать сбора§0.<LINE>Печати могут быть настроены на отключение от сигнала красного камня. В этом случае все очереди или команды будут отменены.
+tc.research_page.CONTROLSEALS.4=Печати можно присвоить некоторый цвет. Такая печать будет управлять только непокрашенными големами или големами того же цвета. Непокрашенные печати управляют всеми големами (и крашеными, и нет).<BR>Цвет печати устанавливается во вкладке приоритетов.<BR>Голем красится нужным красителем. Краска снимается при его снятии.
+#
+tc.research_name.MINDBIOTHAUMIC=Биотаумический мозг
+tc.research_text.MINDBIOTHAUMIC=Я думаю, следовательно, я существую
+tc.research_page.MINDBIOTHAUMIC.1=Как предсказано, заводные элементы управления слишком слабы в отношении мышления и автономности. Попытки создания более сложных механизмов привели к слишком малому прогрессу, поэтому Вы решили развить технологию, проверенную годами - человеческие мозги.<BR>Хоть сначала это казалось неэтичным, Вы перебороли в себе отвращение и организовали Биотауматургию - сбор воедино плоти, механизмов и магии.<BR>Теперь Вы можете заполнить заводной элемент управления растворённым серым веществом, создавая мозг с огромным потенциалом.
+tc.research_page.MINDBIOTHAUMIC.2=Другой способностью данного мозга является способность обучения. По выполнении задач голем будет получать опыт и повышать уровень. Уровни дают голему очки здоровья, скорость и урон.<BR>Големы начинают с 0 уровня и повышают его до 10.<BR>Големы сохраняют уровень при их снятии.
+#
+tc.research_name.BASICTURRET=Стреломёт
+tc.research_text.BASICTURRET=Просто защита
+tc.research_page.BASICTURRET.1=Вы нашли способ встраивания в арбалет элемент управления, превращая его в простой автоматизированный стреломёт.<BR>При установке в мире он начнёт автоматически стрелять в любых врагов, которых увидит. К несчастью, скудный мозг не позволяет откалибровать стреломёт.<BR>У стреломёта очень малый внутренний инвентарь, но, если Вы поставите его над направленным вверх раздатчиком, то он будет автоматически заполнять стреломёт.<BR>Для его деконструкции нажмите на нём ПКМ жезлом.
+#
+tc.research_name.ADVANCEDTURRET=Баллиста
+tc.research_text.ADVANCEDTURRET=Непростая защита
+tc.research_page.ADVANCEDTURRET.1=Баллиста работает так же, как и стреломёт, но с некоторыми изменениями.<BR>Дополнительное железное покрытие делает её более прочной и защищённой, а сложный механизм подачи болтов повышает её скорострельность.<BR>Напоследок, можно указать типы атакуемых существ.
+#
+tc.research_name.FOCUSTURRET=Магическая турель
+tc.research_text.FOCUSTURRET=Автоматические набалдашники
+tc.research_page.FOCUSTURRET.1=С открытием улучшенных магических мозгов и изучением Магического бура вы нашли способ для создания автоматической турели, использующей набалдашники.<BR>У этого устройства есть небольшое внутреннее хранилище Вис, наполняющееся из Ауры, но машина - не тауматург, поэтому зарядка очень медленная и при этом никакие механизмы не снижают затраты Вис.<BR>Турель можно установить на любую поверхность и при этом можно откалибровывать точность и цели. Для её деконструкции нажмите на ней жезлом ПКМ.
+#
+tc.research_name.SEALCOLLECT=Управляющая печать: Сбор 
+tc.research_text.SEALCOLLECT=Ты положишь, я подниму
+tc.research_page.SEALCOLLECT.1=Эта печать будет постоянно сканировать определённую зону на наличие выпавших предметов. Если таковые найдутся, будет отдан приказ ближайшим големам их собрать.<BR>Вы можете определить зону поиска, а также установить чёрный или белый список предметов.
+tc.research_page.SEALCOLLECT.2=Вы также можете создавать улучшенную версию печати, позволяющую сделать более широкий фильтр для предметов, но потребуются более умные големы.<BR>Вы можете выбрать игнорирование NBT, значение прочности предметов, словарь руд, или вообще фильтр предметов мода.  
+#
+tc.research_name.SEALSTORE=Управляющая печать: Хранение
+tc.research_text.SEALSTORE=Уберу мусор за тобой
+tc.research_page.SEALSTORE.1=Эту печать можно установить на контейнер. Она печать определяет контейнер как место для хранения любых предметов, которые держат големы. Пока в контейнер можно положить предмет, голем будет стараться это сделать.<BR>Вы можете определить чёрный или белый список.<BR>Для белого списка Вы можете определить количество предметов, которое можно положить. Изначально оно бесконечно (золотая звезда).
+tc.research_page.SEALSTORE.2=Если печать установлена не на контейнере, то голем будет сбрасывать предметы на это место.<BR>Как и с контейнерами, Вы можете определять количество предметов в белом списке. Любые предметы в радиусе 1 блока от печати будут считаться.
+tc.research_page.SEALSTORE.3=Вы можете улучшить печать, увеличивая этим размер списков и типов фильтров. При этом големы тоже должны быть умнее.<BR>Вы можете выбрать, к примеру, игнорирование NBT или прочности предметов, эквиваленты в словаре руд или предметы из мода (из которого выбранный предмет).<BR>Если Вы указали количество предметов в фильтре, то все предметы, подходящие фильтру, будут считаться.
+#
+tc.research_name.SEALEMPTY=Управляющая печать: Опустошение
+tc.research_text.SEALEMPTY=Насыплю перед тобой мусор
+tc.research_page.SEALEMPTY.1=Эта печать практически антипод печати Хранение. Она будет опустошать контейнер, к которому присоединена. Любые ближайшие големы будут просто брать предметы из контейнера. Вам будет необходимо использовать другие печати для дальнейших инструкций.<BR>Вы можете определить чёрный или белый список.  
+tc.research_page.SEALEMPTY.2=Вы можете улучшить печать, увеличивая этим размер списков и типов фильтров. При этом големы тоже должны быть умнее.<BR>Вы можете выбрать, к примеру, игнорирование NBT или прочности предметов, эквиваленты в словаре руд или предметы из мода (из которого выбранный предмет).<BR>Вы также можете настроить печать на проверку только для одного предмета в фильтре по порядку их перечисления..
+#
+tc.research_name.SEALPROVIDE=Управляющая печать: Поставка
+tc.research_text.SEALPROVIDE=То, что надо
+tc.research_page.SEALPROVIDE.1=Печать Поставка похожа на печать §5Опустошение§0, но она позволяет забирать предметы из контейнера только когда это нужно.<BR>Несколько печатей могут организовать сеть доставки. Если будет нужен какой-либо предмет для выполнения задачи, печать скомандует големам забрать нужный предмет из любых помеченных печатями контейнеров.<BR>Эта задача основана на приоритетах, и, кроме того, големы должны соответствовать требованиям как печати Поставки, так и других, связанных с ней.
+tc.research_page.SEALPROVIDE.2=Фильтр печати Поставка позволяет специфицировать предметы, забираемые из контейнера.
+#
+tc.research_name.SEALHARVEST=Управляющая печать: Фермерство
+tc.research_text.SEALHARVEST=Зелень превыше всего
+tc.research_page.SEALHARVEST.1=Эта печать будетсканировать выделенную зону на наличие выросших растений. После нахождения таковых, печать отправит голема на сбор этих растений.<BR>Если потребуется, печать можно настроить на пересадку собранных растений (если они при сборе выдают семена). Если семена были посажены на пашне, то голем попытается её восстановить, если она пострадает.
+#
+tc.research_name.SEALGUARD=Управляющая печать: Защита
+tc.research_text.SEALGUARD=Наша служба и опасна, и трудна
+tc.research_page.SEALGUARD.1=При установке данная печать будет защищать выбранную зону от вторжений. Любые враждебные существа, которых заметит печать, будут атакованы ближайшими к печати големами.<BR>Если у голема есть характеристика §5Ловкий§0, то любые убитые им существа будут давать шары опыта.<BR>§9Это исследование открывает дополнительные элементы големов§0. 
+tc.research_page.SEALGUARD.2=Вы можете собрать улучшенную версию печати, позволяющую выбирать существ, которых должен атаковать голем.
+#
+tc.research_name.SEALBUTCHER=Управляющая печать: Разделка
+tc.research_text.SEALBUTCHER=Кровь и слава
+tc.research_page.SEALBUTCHER.1=Хоть печать §5Защиты§0 может использоваться для умерщвления животных, но она плохо корректируется.<BR>Печать разделки работает как печать §5Защиты§0, но позволяет убивать только взрослых особей. Так что следует заранее убедиться в наличии резервной пары животных для размножения.
+#
+tc.research_name.SEALBREAK=Управляющая печать: Крушение
+tc.research_text.SEALBREAK=*Тук* *Тук* *Тук*
+tc.research_page.SEALBREAK.1=Эта печать заставляет големов добывать блоки в некоторой зоне.<BR>Прочность блока определяет скорость его добычи.<BR>Вы можете определить тип блоков, которые должны (или не должны) добываться.<BR>Следует отметить, что из-за таких факторов, как скорость голема, ограниченность зоны добычи и скорости добычи, эта печать, вероятно, не будет эффективным способом добычи. Разве что как крайняя мера.
+#
+tc.research_name.SEALLUMBER=Управляющая печать: Срубание
+tc.research_text.SEALLUMBER=И я в порядке
+tc.research_page.SEALLUMBER.1=Модифицированная печать §5Крушение§0, печать Срубание, позволяет голему срубать только брёвна, причем, начиная с самого дальнего.<BR>Такая печать будет очень полезна при сооружении древесных ферм, так как големы будут срубать деревья полностью, сверху вниз.
+#
+tc.research_name.SEALUSE=Управляющая печать: Использование
+tc.research_text.SEALUSE=400 действий в минуту
+tc.research_page.SEALUSE.1=Эта печать позволяет голему действовать подобно игроку.<BR>Голем, управляемый такой печатью, может симулировать нажатие определёнными предметами или блоками.<BR>Печать останется, даже если Вы уберёте блок из-под неё - голем будет симулировать нажатие на воздухе.<BR>В белом списке могут быть определены предметы, которыми можно симулировать нажатие.
+#
+tc.research_name.GOLEMVISION=Биотаумические глаза
+tc.research_text.GOLEMVISION=Уберём туман войны
+tc.research_page.GOLEMVISION.1=Соединяя плоть и магический механизм, Вы создали прибор, выполняющий функции глаз.<BR>Любой голем, оснащенный таким набором гляделок, сможет работать на большей области (32 блоков).<BR>§9Это исследование открывает дополнительные элементы големов§0.
+#
+tc.research_name.GOLEMCLIMBER=Передвижение голема: Скалолазанье
+tc.research_text.GOLEMCLIMBER=Нет непреодолимых гор
+tc.research_page.GOLEMCLIMBER.1=Экипировав голема когтями, крюками и другими инструментами, Вы дадите ему способность карабкаться по отвесным поверхностям.<BR>§9Это исследование открывает дополнительные элементы големов§0.
+#
+tc.research_name.GOLEMFLYER=Передвижение голема: Полёт
+tc.research_text.GOLEMFLYER=Вверх, вверх к звёздам!
+tc.research_page.GOLEMFLYER.1=Просто отсекая стандартные ноги голема и приклеивая Магический подъёмник, Вы даёте голему способность летать. Данный механизм сильно повышает мобильность голема, но снижает скорость.<BR>§9Это исследование открывает дополнительные элементы големов§0.
+#
+tc.research_name.GOLEMBREAKER=Манипулятор голема: Крушение блоков
+tc.research_text.GOLEMBREAKER=Бить-крушить
+tc.research_page.GOLEMBREAKER.1=Заменив стандартные руки голема парой мощных алмазных пневмодробителей, Вы дадите ему способность пробивать себе путь через самые прочные материалы.<BR>§9Это исследование открывает дополнительные элементы големов§0.
+#
+tc.research_name.GOLEMCOMBATADV=Боевые навыки голема
+tc.research_text.GOLEMCOMBATADV=Быстрее, выше, сильнее
+tc.research_page.GOLEMCOMBATADV.1=Вы теперь можете собирать целый арсенал оружия и брони для големов, повышая их эффективность в бою.<BR>§9Это исследование открывает дополнительные элементы големов§0.
+#
+tc.research_name.ARCANEPATTERNCRAFTER=Магический сборщик
+tc.research_text.ARCANEPATTERNCRAFTER=Автосборка по чертежам
+tc.research_page.ARCANEPATTERNCRAFTER.1=Некоторые предметы очень легко сделать - просто расположите одинаковые элементы по плану и получите нужный предмет. К примеру, из 2 досок можно сделать палки, или из слитка - 9 самородков.Это настолько просто, что Вы смогли автоматизировать сборку.<BR>Магический сборщик требует контейнеры сверху и снизу. Он будет искать компоненты сверху, пытаться из них сделать что-то по плану и сложить в нижний контейнер. 
+tc.research_page.ARCANEPATTERNCRAFTER.2=Вы можете изменить план, нажав на латунной панели спереди устройства.<BR>Сигнал красного камня отключает устройство.
+#
+#
+# Древнота
+#######################
+tc.research_name.ELDRITCHMINOR=Открытие древности
+tc.research_text.ELDRITCHMINOR=Шаги в неизвестность
+tc.research_page.ELDRITCHMINOR.1=Вы это ясно осознали. Где другие видят хаос, Вы видите закономерность... Странную и тревожную закономерность. Что-то шевелится в самых темных уголках вселенной.<BR>Вы пытались объяснить это другим, но получаете только странные взгляды в ответ. Неважно, Вы однажды им покажете.<BR>Вы покажете им всё.
+#
+tc.research_name.ELDRITCHMAJOR=Откровение древности
+tc.research_text.ELDRITCHMAJOR=Я вижу край бесконечности
+tc.research_page.ELDRITCHMAJOR.1=Завеса поднята - дверь в моей голове открыта.<BR>Когда я смотрю - я вижу удивление. Нет, не удивление. §mЧто я вижу, это§r<BR>§oЧто я вижу, это.... Я вижу... Вижу.. Я вижу... жу.. Я§r<IMG>thaumcraft:textures/research/eldritchajor1.png:0:255:255:255:.5</IMG>
+tc.research_page.ELDRITCHMAJOR.2=<IMG>thaumcraft:textures/research/eldritchajor2.png:0:255:255:255:.5</IMG><BR><BR>Кто это написал?
+#
+tc.research_name.VOIDMETAL=Пустотный металл
+tc.research_text.VOIDMETAL=Странно, должно быть холоднее...
+tc.research_page.VOIDMETAL.1=Наполнив металл магией, Вы создали таум-металл. Стоящее открытие, но пора идти дальше.<BR>Странный, полузапомненный сон направил Вас в сторону нового открытия... Чего-то... Другого... Что, если наполнить металл чем-то более сильным, чем магия? Тем, откуда эта магия берётся - межзвёздные Тьма и Пустота.<BR>Полученный металл необычайно гладкий и тёплый на ощупь. Податливый как золото, но при ударе становящийся твёрдым, как таум-металл или ещё твёрже. Более впечатляющим является то,
+tc.research_page.VOIDMETAL.2=что полуразбитый слиток вскоре восстанавливает себя, медленно стекаясь обратно на место.<BR>Единственный недостаток в том, что этот материал не так просто зачаровывается, как таум-металл, но всё же сильно отличается от обычных материалов.<BR>Всё же с ним нужно осторожно обращаться - уронив слиток на ногу, Вы как будто вырвали из себя часть силы.
+#
+tc.research_name.ARMORVOIDFORTRESS=Пустотное одеяние
+tc.research_text.ARMORVOIDFORTRESS=Стиль других миров
+tc.research_page.ARMORVOIDFORTRESS.1=Умный и дальновидный тауматург понимает, что ему не нужно выбирать между способностями и защитой.<BR>Улучшив пустотную броню соответствующими чарами и обычным одеянием тауматурга, Вы создали.. Бронированное одеяние тауматурга! Оно не только сосредоточивает внимание, но и хорошо защищает как от физических, так и магических угроз.<BR>Одеяние сохраняет все возможности пустотной брони, а так же очков откровения, которые используются при создании капюшона.<BR>Это одеяние может быть окрашено.
+#
+tc.research_name.ENTEROUTER=Внешние Земли 
+tc.research_text.ENTEROUTER=Мы больше не в Канзасе
+tc.research_page.ENTEROUTER.1=Вы не совсем знаете, что Вы ожидали увидеть, шагая через портал, но точно не эту странную структуру из камня.<BR>Что-то не так - эта структура не была предназначена для какой-либо цели... если только эта цель не была смертельным лабиринтом.<BR>Ваш магический потенциал как-то изменяется в этом странном месте со странной энергией. Даже обитатели лабиринта, которых Вы видите, кажутся неподходящими.
+#
+tc.research_name.OUTERREV=Открытие Внешних Земель 
+tc.research_text.OUTERREV=Вещи не такие, какие они есть
+tc.research_page.OUTERREV.1=Ваши подозрения подтвердились. Это не дом Древних. Это место абсолютно не из нашей реальности - это как ментальная конструкция мыслей во плоти. Но в чьём разуме она построена?<BR>Вы смогли расшифровать немного символов, но вы уверены, что это место - ловушка, место проверки вошедших на слабость. Но с какой целью проверять - вы не знаете.
+#
+tc.research_name.PRIMPEARL=Сингулярная жемчужина 
+tc.research_text.PRIMPEARL=Что было до?
+tc.research_page.PRIMPEARL.1=Вы впервые увидели загадку, что нельзя решить.<BR>Этот объект содержит начальные аспекты, но они ведут себя не как обычные. Появилось несколько теорий:<BR>Первая - эта "жемчужина" может быть отголоском силы, бытовавшей до реальности - элементная магия, существовавшая до Вис и аспектов.<BR>Вторая - это пример первоначальной материи из места, не поддающегося законам
+tc.research_page.PRIMPEARL.2=современной магии. Вы не знаете, что точнее сформулировано.<BR>Но явно видно, что жемчужина - мощный артефакт огромной магической силы и неограниченного потенциала.<BR>Пришло время её использовать.
+#
+tc.research_name.PRIMALCRUSHER=Сингулярный крушитель
+tc.research_text.PRIMALCRUSHER=Сломать всё!
+tc.research_page.PRIMALCRUSHER.1=Теория наполнения проста - наполнить одну вещь эссенциями и характеристиками других. Всегда всему есть предел, но, судя по всему, с открытием сингулярных жемчужин этот предел отодвигается всё дальше и дальше.<BR>В качестве эксперимента, Вы попробовали наполнить жемчужину несколькими совершенно разными объектами. Это прошло успешно. Сингулярный крушитель - первое применение полученного опыта.<BR>Совместив Лопату Землероя и Огненную Кирку с их пустотными собратьями, Вы создали
+tc.research_page.PRIMALCRUSHER.2=инструмент неограниченной разрушительной мощи.<BR>Сингулярный крушитель может прорываться сквозь камень и землю с огромной быстротой, да еще и в зоне 3х3. Как и Огненная Кирка, он будет добывать кластеры вместо руд с определённым шансом.<BR>Он восстанавливается со временем, имеет огромный зачаровательный потенциал и может служить хорошим оружием.<BR>К сожалению, у него осталась только разрушающая натура -  конструкционные и локационные свойства его "родителей" бесследно утеряны.
+#
+tc.research_name.SANITYCHECK=Психический детектор
+tc.research_text.SANITYCHECK=Самопроверка сильных духом
+tc.research_page.SANITYCHECK.1=Мысли переплетаются в вашей голове. Надо как-то заглянуть в неё и навести порядок.<BR>Детектор позволяет узнавать уровень искажения и как сильно оно на Вас действует.<BR>Конечно, Вы не можете позволить такому предмету попаcть в плохие руки. Поэтому Вы приложили большие усилия, чтобы скрыть информацию, которую он выдаёт. Наверное, слишком большие - Вы сами еле расшифровываете его значения.
+#
+tc.research_name.CRIMSON=Багровый культ
+tc.research_text.CRIMSON=Опасные сказки
+tc.research_page.CRIMSON.1=Большая часть этой книги исписана крючковатыми и непонятными письменами, но если Вы их поймёте, то это даст Вам представление о Багровом культе.<BR>Его происхождение покрыто тайной, но, видимо, целью культистов является совершение ритуала, который они называют "Apertis Oculis" - Открытие Глаза. Непонятно, что это значит, но Вы сомневаетесь в его правильности.<BR>Интересно, может ли тауматургия предложить способ исполнения этого ритуала? Очевидно, что только сумасшедший возьмётся за эти исследования...
+#
+tc.research_name.OCULUS=Открытие Глаза
+tc.research_text.OCULUS=Я им всем покажу!
+tc.research_page.OCULUS.1=Это было так просто - Вы поражены недальновидностью багровых культистов.<BR>Чтобы провести ритуал, нужно просто разместить четыре глаза Древних на специальный краеугольный камень, найденный в одном из алтарей культистов.<BR>Когда приготовления закончены, потребуется наполнить камень первичным Вис из посоха, жезла или скипетра - 500 единиц должно хватить.
+tc.research_page.OCULUS.2=Если всё сделано правильно, ритуал должен пройти удачно и так называемый "Глаз" будет открыт.<BR>Вы понятия не имеете, что это значит. Неважно! Только дураки боятся неизвестности!
+#
+tc.research_name.SINSTONE=Зловещий камень
+tc.research_text.SINSTONE=Стоит ли ему доверять?
+tc.research_page.SINSTONE.1=Вы сделали интересное открытие, пока изучали ритуал Apertis Oculis. Точка, где "глаз" можно открыть, испускает очень необычный тип энергии, чувствуемой даже когда "глаз" еще закрыт.<BR>Наполнив кусочек кремня энергией, Вы создали компасоподобное устройство, светящееся при улавливании такой энергии.<BR>Дальность действия ограничена, но это - стоящая вещь, так как часто подходящие для Apertis Oculis алтари сложно найти.
+#

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=normal": { "model": "thaumcraft:alembic_normal" }
+    }
+}
